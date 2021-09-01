@@ -1,4 +1,5 @@
 ! Title: my adguard DNS allow list
+@@||login.live.com^
 @@||adfoc.us^
 @@||www.patreon.com^
 @@||www.protagon.gr^
