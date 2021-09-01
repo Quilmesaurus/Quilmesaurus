@@ -1,4 +1,4 @@
-! Title: my list fo adguard DNS filter
+! Title: my adguard DNS filter list
 ||00-gov.cn^
 ||0001.best^
 ||0024aaaa.com^
