@@ -4511,6 +4511,7 @@
 ||adservice.google.gr^
 ||adservice.google.ie^
 ||adservice.google.nl^
+||adservice.google.ru^
 ||adservice.tohsoft.com^
 ||adservicemedia.dk^
 ||adserving.aan.speedshiftmedia.com^
