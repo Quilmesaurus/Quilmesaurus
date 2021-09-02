@@ -6239,6 +6239,7 @@
 ||analytics.developer.riotgames.com^
 ||analytics.diamondstarfinancial.com.vn^
 ||analytics.digital-metric.com^
+||analytics.dikaiologitika.gr^
 ||analytics.disneyinternational.com^
 ||analytics.dns-shop.ru^
 ||analytics.dnsfilter.com^
@@ -7336,6 +7337,7 @@
 ||apps.ad-x.co.uk^
 ||apps.admob.com^
 ||apps.crowdtangle.com^
+||apps.metactrl.com^
 ||apps.mobilityware.com^
 ||apps.nexus.bazaarvoice.com^
 ||apps.nielsen.com^
@@ -38486,6 +38488,7 @@
 ||sessionapihk.veinteractive.com^
 ||sessioncam.com^
 ||sessionm.com^
+||sessions.bugsnag.com^
 ||sessions.exchange^
 ||sessionstack.com^
 ||setbackrelishdivine.com^

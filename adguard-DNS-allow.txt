@@ -3,6 +3,8 @@
 @@||1.us.pool.ntp.org^
 @@||2.us.pool.ntp.org^
 @@||3.amazonaws.com^
+@@||3.us.pool.ntp.org^
+@@||4.us.pool.ntp.org^
 @@||4cdn.org^
 @@||8pecxstudios.com^
 @@||a.4cdn.org^
@@ -32,6 +34,7 @@
 @@||api.twitter.com^
 @@||app.adaway.org^
 @@||app.usb0.net^
+@@||attiki-odos.gr^
 @@||b.dlsite.net^
 @@||banner.eisys-bcs.jp^
 @@||bing.com^
@@ -53,6 +56,7 @@
 @@||clients?.google.com^
 @@||content.dropboxapi.com^
 @@||contributions.guardianapis.comn^
+@@||cs.attiki-odos.gr^
 @@||d-xda.xposed.info^
 @@||d13itkw33a7sus.cloudfront.net^
 @@||de.catbox.moe^
