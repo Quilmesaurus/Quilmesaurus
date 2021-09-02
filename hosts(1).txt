@@ -6238,6 +6238,7 @@
 0.0.0.0 analytics.developer.riotgames.com
 0.0.0.0 analytics.diamondstarfinancial.com.vn
 0.0.0.0 analytics.digital-metric.com
+0.0.0.0 analytics.dikaiologitika.gr
 0.0.0.0 analytics.disneyinternational.com
 0.0.0.0 analytics.dns-shop.ru
 0.0.0.0 analytics.dnsfilter.com
