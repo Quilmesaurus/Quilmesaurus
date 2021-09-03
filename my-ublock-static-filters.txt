@@ -1,0 +1,411 @@
+*##[href*="ouo.io"]
+*##[href*="stoiximan.gr"]
+*.bet365.com/*
+*.thefreecamsecret.com/*
+*.thestaticvube.com/*
+*.thetraderinpajamas.com/*
+*/vube.com/*
+*/www.appimat.com/*
+*/www.vitorrent.org/*
+*adultfriendfinder.com*
+*media.888.com*
+@@dnsotls-ds.metric.gstatic.com^
+@@http://adserver.juicyads.com/adshow.php?adzone=162642
+@@http://adserver.juicyads.com/adshow.php?adzone=93433
+@@http://rapidgator.net/images/banners/8_125x125.gif
+@@http://uploaded.net/img/public/125x125.jpg
+@@http://xslt.alexa.com/site_stats/js/t/a?url=www.hentaibedta.net
+@@|http://vsrecommendedgames.wikia.com/wiki/Hentai_Games_(R%3D18)|$document
+@@|http://www.smbc-comics.com/?$document
+@@|http://www.washingtonpost.com/lifestyle/style/a-whisper-then-tingles-then-87-million-youtube-views-meet-the-star-of-asmr/2014/12/12/0c85d54a-7b33-11e4-b821-503cc7efed9e_story.html?$document
+@@|https://cock.li/|$document
+@@|https://subscribe.yahoo.com/showmailsubs|$document
+@@|https://www.google.com/js/bg|$document
+@@|https://www.google.com/recaptcha|$document
+@@|https://www.gstatic.com/recaptcha|$document
+@@|https://www.quantcast.com/reddit.com|$document
+@@|https://www.youtube.com/*HeatherFeatherASMR
+@@|https://www.youtube.com/*xdadevelopers
+@@|https://www.youtube.com/channel/UC2eddeJoyByJBjE4CYXwNXQ|$document
+@@|https://www.youtube.com/channel/UC4jWo5kiyOCt4PnvF4jbaLg|$document
+@@|https://www.youtube.com/channel/UCaZeUYfNstV7ucycXJUDYOA|$document
+@@|https://www.youtube.com/channel/UCg-cx9IGa3XSRSNyAHYvMqw|$document
+@@|https://www.youtube.com/channel/UCO_vmeInQm5Z6dEZ6R5Kk0A|$document
+@@|https://www.youtube.com/channel/UCQN7NhtBqADmNaRA3yc_mAQ|$document
+@@|https://www.youtube.com/user/screenjunkies|$document
+@@|https://www.youtube.com/user/TheOneLilium|$document
+@@|https://www.youtube.com/user/xdadevelopers|$document
+@@|https://www.youtube.com/watch?$document
+@@||5471782.fls.doubleclick.net^|
+@@||a.adwolf.ru^|
+@@||a.sellpoint.net^|
+@@||accounts.google.com^$document
+@@||adblockplus.org^$document
+@@||addons.mozilla.org^$document
+@@||addons.videolan.org^$document
+@@||admin.dable.io^|
+@@||ads.tdbank.com^
+@@||amazon.com^$document
+@@||androidpolice.com^$document
+@@||aodos.gr^$document
+@@||app.adjust.com^|
+@@||artifactory.appodeal.com^|
+@@||askvg.com^$document
+@@||awin1.com^|
+@@||bakabt.me/$document
+@@||bay01.calendar.live.com^$document
+@@||bing.com^$document
+@@||blip.tv^$document
+@@||blog.kowalczyk.info/$document
+@@||blog.logrocket.com^|
+@@||buy.xmarks.com^$document
+@@||c.digikey.com^|
+@@||calibre-ebook.com^$document
+@@||capital.gr^$document
+@@||cindyholbrook.lpages.co^|
+@@||cj.dotomi.com^|
+@@||click.simba.taobao.com^|
+@@||click.trafficguard.ai^|
+@@||click.virt.exacttarget.com^|
+@@||click.virt.s*.exacttarget.com^|
+@@||clk*.tradedoubler.com^|
+@@||cm-beacon.nakanohito.jp^|
+@@||cm-widget.nakanohito.jp^|
+@@||content.time.com^$document
+@@||cs.attiki-odos.gr^$document
+@@||cs.silverpop.com^|
+@@||cutcaptcha.com^|
+@@||dilbert.com/$document
+@@||dub120.mail.live.com^$document
+@@||duckduckgo.com^$document
+@@||ebook.online-convert.com/$document
+@@||email.corp.skyeng.ru^|
+@@||feed.adrelayer.com^|
+@@||feedly.com^$document
+@@||forum.notebookreview.com^|
+@@||freewaregenius.com^$document
+@@||gawker.com/$document
+@@||ghacks.net^$document
+@@||github.com^$document
+@@||go.scorptec.com.au^|
+@@||googleadapis.l.google.com^|
+@@||grp07.ias.rakuten.co.jp^|
+@@||gs.statcounter.com^|
+@@||guce.advertising.com^
+@@||h-sdk.online-metrix.net^|
+@@||hb.afl.rakuten.co.jp^|
+@@||howtogeek.com^$document
+@@||href.li^|
+@@||https://www.google.com/js/bg/*
+@@||https://www.google.com/recaptcha/*
+@@||https://www.gstatic.com/recaptcha/*
+@@||imasdk.googleapis.com^|
+@@||intersport.peerius.com^|
+@@||iptorrents.eu^$document
+@@||iptorrents.me^$document
+@@||kerdos.gr^$document
+@@||lastpass.com^$document
+@@||launches.appsflyer.com^|
+@@||liamja.co.uk^$document
+@@||links.getblueshift.com^|
+@@||log.mmstat.com^|
+@@||login.sendpulse.com^|
+@@||login.xmarks.com^$document
+@@||mailcatch.com^$document
+@@||mashable.com^$document
+@@||msn.com^$document
+@@||my.tealiumiq.com^|
+@@||my.xmarks.com^$document
+@@||myanonamouse.net^$document
+@@||mywot.com^$document
+@@||nineto5mac-d.openx.net^|
+@@||nonadventures.com/$document
+@@||nqhf001.dediseedbox.com^$document
+@@||oaee.gr^$document
+@@||official.paymaya.com^|
+@@||offliberty.com^$document
+@@||oldpiratebay.org^$document
+@@||omniture.walmart.com^|
+@@||openmailbox.org^$document
+@@||pagead.l.doubleclick.net^|
+@@||pathe.emsecure.net^|
+@@||paypal.com^$document
+@@||phonearena.com^$document
+@@||play.spotify.com^$document
+@@||podnapisi.net^$document
+@@||projectwonderful.com/$document
+@@||proto2ad.durasite.net^|
+@@||pt.afl.rakuten.co.jp^|
+@@||pushbullet.com^$document
+@@||radd.it^$document
+@@||radiofrance.targetspot.com^|
+@@||rarbg.com^$document
+@@||readability.com^$document
+@@||redir.tradedoubler.com^|
+@@||redirect.appmetrica.yandex.com^|
+@@||redlettermedia.com^$document
+@@||rsbakker.wordpress.com/$document
+@@||smbc-@@comics.com##IMG[onmousedown="showBlock(\"aftercomic\")"]
+@@||startpage.com^$document
+@@||str.hit.gemius.pl^|
+@@||subloader.com^$document
+@@||subscene.com^$document
+@@||sumatrapdfreader.org^$document
+@@||tags.crwdcntrl.net^|
+@@||thedoghousediaries.com/$document
+@@||theonion.com^$document
+@@||tlaol.com^|
+@@||torrentfreak.com^$document
+@@||tplinkextender.net^$document
+@@||track.rutarget.ru^|
+@@||tvtropes.org^$document
+@@||uid.si^$document
+@@||userscripts.org/$document
+@@||userstyles.org/$document
+@@||weather.com^$document
+@@||www.baka-tsuki.org/$document
+@@||www.googleadservices.com^|
+@@||www.jdoqocy.com^|
+@@||www.ma3comic.com/$document
+@@||www.sankakucomplex.com/$document
+@@||www.shadbase.com/$document
+@@||www.the-editing-room.com/$document
+@@||xkcd.com/$document
+@@||yifysubtitles.com^$document
+@@||youtube.com/*&user=softlygaloshes$document
+audiobookbay.nl##div > a[href="/download-14-days-trial.php"]
+audiobookbay.nl##div:nth-of-type(5) > a[href="/shield.php"]
+audiobookbay.nl##div:nth-of-type(8) > a[href="/shield.php"]
+audiobookbay.nl##img[src="http://audiobookbay.nl/images/hide.jpg"]
+bitsnoop.com###vpnBar
+boards.4chan.org##.center.middlead
+boards.4channel.org###absbot
+boards.4channel.org###bannerCnt
+boards.4channel.org###blotter
+boards.4channel.org##.absBotDisclaimer
+boards.4channel.org##.center.middlead > div
+btkitty.bid##a[href="http://yunbofangbt.com/gotoum29.html"]:nth-of-type(1)
+events.redditmedia.com
+extratorrent.cc###e_content > div > table > tbody > tr > td:nth-of-type(2)
+extratorrent.cc##.wrn_txt2
+extratorrent.cc##table > tbody > tr:nth-of-type(3) > td > table > tbody > tr > td:nth-of-type(2) > a[href="#"] > img[src="//images4et.com/images/watch.gif"]
+extratorrent.cc##table > tbody > tr:nth-of-type(3) > td > table > tbody > tr > td:nth-of-type(2) > div:nth-of-type(2) > table > tbody > tr > .tabledata1
+extratorrent.cc##table > tbody > tr:nth-of-type(3) > td > table > tbody > tr > td:nth-of-type(2) > table:nth-of-type(1)
+extratorrent.cc##td:nth-of-type(3) > img[src="https://images4et.com/images/other/warning-vpn2.gif"]
+eztv.ag###novpn
+fapforfun.net##[href="https://adfoc.us/68493980631517"]
+flashifyit.com##.pum-active.click_open.auto_open.popmake-overlay.pum-theme-default-theme.pum-theme-55647.pum-overlay.pum
+go.microsoft.com/fwlink/*
+gr.euronews.com##.u-show-for-xlarge.base-leaderboard--wallpaper.base-leaderboard--top.base-leaderboard
+http://*.ero-advertising.com/*
+http://*.kovla.com/*
+http://*.pornmaki.com/*
+http://*t/freecamsecrets/*
+http://1phads.com/www/images/notice/firefox_ico.png
+http://ads.tlvmedia.com/st*
+http://adserving.cpxinteractive.com/st*
+http://btguard.com/?a=demon
+http://cdn.ad4game.com/*
+http://click.otaserve.net/*
+http://clkads.com/banners/*
+http://d.afdads.com/widget/*
+http://data.sankakucomplex.com/img/www/d/*
+http://files.myopera.com/sagar/public/uefa2012.jpg
+http://kovla.com/*
+http://nonadventures.com/comics/2013-12-07-2013-12-7-355.png
+http://pagead2.googlesyndication.com/*
+http://pckeeperapp.zeobit.com/*
+http://sadpanda.us/images/1615393-H6QGP5X.jpg
+http://sahadou.com/cov/c1593.jpg
+http://sahadou.com/cov/c1684.jpg
+http://sahadou.com/cov/c1694.jpg
+http://sahadou.com/cov/c1730.jpg
+http://static.4chan.org/support/jlist_leader/*
+http://static.4chan.org/support/jlist_top/*
+http://static.iptorrents.com/ipt/Troll.png
+http://static.thepiratebay.org/img/bar.gif
+http://thepiratetrader.com/*
+http://www.60yearsofchallenge.com/*
+http://www.demonoid.ph/cached/va_right.html
+http://www.facebook.com/external/*
+http://www.facebook.com/plugins/*
+http://www.fleshlight-international.eu/*
+http://www.littlewhitebutterflies.net/wp-content/uploads/2013/06/01-424x600.jpg
+http://www.littlewhitebutterflies.net/wp-content/uploads/2013/06/cover-857x600.jpg
+http://www.littlewhitebutterflies.net/wp-content/uploads/2013/07/0011-424x600.jpg
+http://www.littlewhitebutterflies.net/wp-content/uploads/2013/07/ano01-429x600.jpg
+http://www.littlewhitebutterflies.net/wp-content/uploads/2013/07/COMIC_2008_05_4341-420x600.png
+http://www.littlewhitebutterflies.net/wp-content/uploads/2013/08/Screen-shot-2013-08-02-at-6.16.32-PM.jpg
+http://www.merriam-webster.com/swf/player.swf
+http://www.null.com/*
+http://www.oaee.gr/client_files/flash/flash.swf
+https://*.cloudfront.net/*
+https://plusone.google.com/*
+https://stoiximan.s3.amazonaws.com/*
+https://twitter.com/intent/*
+https://www.facebook.com/dialog/oauth?*
+m.imgur.com###app > .App > .App-topSidebar > div > .headroom-wrapper
+m.imgur.com###app > .App > .PostHandler > .PostHandler-swipeContainer > .Swipe > .Swipe-innerContainer > .Swipe-item:nth-of-type(1) > .PostContainer > .CommentWrapper
+m.imgur.com###app > .App > .PostHandler > .PostHandler-swipeContainer > .Swipe > .Swipe-innerContainer > .Swipe-item:nth-of-type(1) > .PostContainer > .Post > .Banner > .Banner-contentContainer
+m.imgur.com###app > .App > .PostHandler > .PostHandler-swipeContainer > .Swipe > .Swipe-innerContainer > .Swipe-item:nth-of-type(1) > .PostContainer > .Post > .Post-contentContainer > .Post-imageContainer > .PostImage > .PostImage-description > .Linkify
+m.imgur.com###app > .App > .PostHandler > .PostHandler-swipeContainer > .Swipe > .Swipe-innerContainer > .Swipe-item:nth-of-type(1) > .PostContainer > .Post > .Post-contentContainer > .Post-metaContainer > .Post-metaInfo
+m.imgur.com###app > .App > .PostHandler > .PostHandler-swipeContainer > .Swipe > .Swipe-innerContainer > .Swipe-item:nth-of-type(1) > .PostContainer > .Post > .Post-contentContainer > .Post-title
+m.imgur.com###app > .App > .PostHandler > .PostHandler-swipeContainer > .Swipe > .Swipe-innerContainer > .Swipe-item:nth-of-type(1) > .PostContainer > .Post > div:nth-of-type(2) > .PostButtons
+m.imgur.com###app > .App > .PostHandler > .PostHandler-swipeContainer > .Swipe > .Swipe-innerContainer > .Swipe-item:nth-of-type(1) > .PostContainer > .Post > div:nth-of-type(3) > .PostButtons
+m.imgur.com###app > .App > .PostHandler > .PostHandler-swipeContainer > .Swipe > .Swipe-innerContainer > .Swipe-item:nth-of-type(1) > .PostContainer > .u-textCenter.PostContainer-openInApp
+m.imgur.com###header
+m.imgur.com##.page-container > .content > .galleryInsideView > .insideContainer > .main-content > .main-content:nth-of-type(2) > .inside-gallery-item > h2
+m.imgur.com##.page-container > .content > .galleryInsideView > .insideContainer > .main-content > div:nth-of-type(1) > .album-title
+m.imgur.com##.page-container > .content > .galleryInsideView > .insideContainer > .main-content > div:nth-of-type(1) > .small-font.under-title-info
+mail.google.com##.ZY
+mybet.com
+news.google.com###gb > .gb_0c.gb_5b > .gb_oa.gb_Zc.gb_r.gb_0c.gb_e > .gb_r.gb_0c.gb_Kc > .gb_r.gb_0c.gb_ea.gb_p > .gb_r.gb_0c.gb_s.gb_fa > .gb_r.gb_l.gb_ga[href^="https://plus.google.com/u/0/me"]
+out.reddit.com
+pay.reddit.com###header-bottom-right > .user
+pay.reddit.com###mail
+pay.reddit.com###newCommentsContents
+pornolab.net###bn-vsx-1
+pornolab.net###logo > table > tbody > tr > .tCenter
+pornolab.net###page_footer
+pornolab.net##.bottom_info
+pornolab.net##.bypass-alert
+pornolab.net##pre
+rarbg.to##.lista > table > tbody > tr
+rarbg.to##body > div:nth-of-type(4)
+rarbg.to##body > table:nth-of-type(1) > tbody > tr > td:nth-of-type(2)
+rarbg.to##div:nth-of-type(5)
+sli.mg###bd > .outrmainr.outrmain > .rhold > .fgrp > .mopt[href="javascript:void();"]
+sli.mg###bd > .outrmainr.outrmain > .rhold > .rbox > .rhead
+sli.mg###bd > .outrmainr.outrmain > .rhold > .social_networks
+sli.mg###ft
+sli.mg###hd
+stoiximan.gr##*
+thepiratebay.org###details > div:nth-of-type(3) > .download:nth-of-type(1) > a[href^="//cdn.bitx.tv/bx.php"]
+thepiratebay.org###details > iframe
+thepiratebay.org###sky-center
+thepiratebay.org###torrage
+thepiratebay.se###torrage
+thepirateproxy.info###details > div:nth-of-type(3) > .download:nth-of-type(1) > a:nth-of-type(2)
+thepirateproxy.info###details > div:nth-of-type(3) > div:nth-of-type(2)
+thepirateproxy.info###foot
+thepirateproxy.info###howdl
+thepirateproxy.info###subm > input:nth-of-type(2)
+thepirateproxy.info##footer
+torrentproject.se###center_col2 > .mgidc
+torrentz.eu##.footer
+torrentz.eu##.recent
+torrentz.eu##.SimpleAcceptebleTextAds
+torrentz.eu##.top > ul > li:nth-of-type(3) > a[href="/profile"]
+torrentz.eu##.top > ul > li:nth-of-type(4) > a[href="/help"]
+translate.google.com###gb > .gb_0c.gb_5b > .gb_oa.gb_Zc.gb_r.gb_0c.gb_e > .gb_r.gb_0c.gb_Kc > .gb_r.gb_0c.gb_ea.gb_p > .gb_r.gb_0c.gb_s.gb_fa > .gb_r.gb_l.gb_ga[href^="https://plus.google.com/u/0/me"]
+translate.google.com###gb > .gb_ia.gb_tb.gb_Jb
+translate.google.com##.gt-hats
+ulmf.org##.samItem
+www.1337x.to###MarketGidWrap83902
+www.1337x.to###mgbl49472
+www.bloomberg.com###fortress-banner-paywall-root
+www.bloomberg.com###fortress-modal-paywall-root
+www.dikaiologitika.gr###main-content-wrap > .checkWidth.container > .row-fluid:nth-of-type(2) > .span12 > .rightSidebar.span4 > .banner.moduletable:nth-of-type(1) > .banner.bannergroup
+www.e-shop.gr###apptable
+www.economist.com##.advert--sticky-rail.advert--right-rail.right.advert
+www.economist.com##.layout-article-header.ds-layout-grid--edged.ds-layout-grid > .advert--right-rail.right.advert
+www.economist.com##.top.advert
+www.economist.com##div.advert--inline.incontent.advert:nth-of-type(2)
+www.economist.com##div.advert--inline.incontent.advert:nth-of-type(3)
+www.economist.com##div.advert--inline.incontent.advert:nth-of-type(4)
+www.economist.com##div.advert--inline.incontent.advert:nth-of-type(5)
+www.facebook.com###mobile_mirror_banner
+www.france24.com##.o-ad-container--with-background.o-ad-container--banner-top.o-ad-container
+www.france24.com##.o-banana-split__ad-n-newsfeed.o-block-ad-n-newsfeed > .m-block-ad > .m-block-ad__content
+www.i2ocr.com###content > div
+www.i2ocr.com###promo
+www.i2ocr.com##.alt.section:nth-of-type(4)
+www.i2ocr.com##.section:nth-of-type(3) > .container > .center
+www.i2ocr.com##a[href="/"]
+www.i2ocr.com##a[href="/faq"]
+www.i2ocr.com##li:nth-of-type(2) > a[href="/features"]
+www.i2ocr.com##li:nth-of-type(4) > a[href="/about"]
+www.i2ocr.com##li:nth-of-type(5) > a[href="/contact"]
+www.iefimerida.gr###ocm-inread
+www.iefimerida.gr##.lazyloaded.ad-loaded.ad-ros_undermenu.ad-block
+www.iefimerida.gr##div.inline-ad-wrapper:nth-of-type(1)
+www.iefimerida.gr##div.inline-ad-wrapper:nth-of-type(3)
+www.iefimerida.gr##div.inline-ad-wrapper:nth-of-type(4)
+www.in.gr###videopwp
+www.in.gr##div.dfp-slot:nth-of-type(1)
+www.in.gr##[src="/wp-content/themes/ingr_v2/common/imgs/ingr_logo_pride.png"]
+www.liberal.gr##.banner728x90_billboard > .diafimisi.elm
+www.limetorrents.cc###content > table:nth-of-type(1) > tbody > tr > td:nth-of-type(1) > .torrentinfo > .downloadarea:nth-of-type(5)
+www.limetorrents.cc###content > table:nth-of-type(1) > tbody > tr > td:nth-of-type(1) > .torrentinfo > .downloadareabig:nth-of-type(3)
+www.limetorrents.cc###content > table:nth-of-type(1) > tbody > tr > td:nth-of-type(1) > .torrentinfo > .downloadareabig:nth-of-type(6)
+www.limetorrents.cc###content > table:nth-of-type(1) > tbody > tr > td:nth-of-type(1) > .torrentinfo > div:nth-of-type(1)
+www.limetorrents.cc###content > table:nth-of-type(1) > tbody > tr > td:nth-of-type(1) > .torrentinfo > table > tbody > tr:nth-of-type(4)
+www.limetorrents.cc###rightbar > div:nth-of-type(3)
+www.mkvcage.com###masthead > center > span
+www.moneyreview.gr###nx-bill-placeholder
+www.moneyreview.gr##.ad-row.row
+www.moneyreview.gr##div.widget_nx_ads_widget.hide-mob:nth-of-type(1)
+www.msn.com/*/?ocid=wispr*
+www.politico.eu##.sticky-footer.ad__mobile
+www.protothema.gr##.featImg.section > .wrapper
+www.protothema.gr##div.server-side-component.mceNonEditable.configurable-element.stickyBanner.bannerWrp:nth-of-type(1)
+www.reddit.com###thing_t1_d3n0ka9 > .RES-keyNav-activeElement.unvoted.entry > .buttons.flat-list > li:nth-of-type(3) > .noCtrlF.embed-comment
+www.reddit.com###thing_t1_d3n0ka9 > .unvoted.entry > .buttons.flat-list > .give-gold-button
+www.reddit.com###thing_t1_d3njzxc > .RES-keyNav-activeElement.unvoted.entry > .buttons.flat-list > .give-gold-button
+www.reddit.com###thing_t1_d3nprb7 > .unvoted.entry > .buttons.flat-list > .give-gold-button
+www.reddit.com##.promotedlink
+www.reporter.gr###pageWrapper > .header > .blockcenter > .clearfix > .logoPlc.headeritem > .clearfix > .socialIcons
+www.skai.gr###slidebox
+www.thetimes.co.uk##.blkkuy.sc-iRbamj
+www.torrentleech.org###bottomSpacer
+www.torrentleech.org###downleft > .ui-corner-all.ui-widget-content.ui-widget
+www.torrentleech.org###rightscrapper
+www.torrentleech.org###supportTorrentLeech:nth-of-type(4)
+www.torrentleech.org###topcontainer
+www.youtube.com###appbar-nav > .appbar-nav-menu > li:nth-of-type(2)
+www.youtube.com###button > .ytd-button-renderer.style-scope
+www.youtube.com###button > .ytd-notification-topbar-button-renderer.style-scope
+www.youtube.com###button > .ytd-topbar-menu-button-renderer.style-scope
+www.youtube.com###content > .branded-page-v2-secondary-column-hidden.branded-page-v2-has-top-row.branded-page-v2-container-flex-width.branded-page-base-bold-titles.branded-page-v2-container > .branded-page-v2-top-row > .yt-card.channel-header.branded-page-v2-header
+www.youtube.com###expand-ad
+youtube.com##div#theater-background.player-height
+yts.ag###at4-share
+yts.am##.ibox-bordered
+|http://firsthottesttube.com/*
+||a.adtng.com/get/10007190?time=1563301234437$subdocument
+||adcash.com^
+||adclickservice.com/$subdocument
+||chatster.eu^
+||coin-hive.com/lib/coinhive.min.js
+||contentabc.com^
+||creative.wwwpromoter.com/*$subdocument
+||fleshlight-international.eu^
+||kingplayer.com^
+||m.imgur.com/ad/1459174941/gpt/div-gpt-ad-1458259625145-0/4761660%2FMobileWeb_BTF_NonGallery
+||m.imgur.com/public/assets/app-icon*.png
+||mediaduke.net^
+||mg.dt00.net/public/informers/torrents.2ru.html?rnd=103696
+||mg.dt00.net/public/informers/torrents.2ru.html?rnd=409272
+||mg.dt00.net/public/informers/torrents.2ru.html?rnd=571239
+||mgid.com^
+||netbet.com^
+||pornmaki.com^
+||rapidgator.net/images/pics/36_300%D1%85250_1.gif$image
+||rutrk.org/bn/skladchik/02/index.html$subdocument
+||s.ynet.me/assets/images/website/vpno.jpg$image
+||sharelive.net^
+||sli.mg/res/img/socialButtons/reddit.png
+||sli.mg/res/img/socialButtons/voat.png
+||stoiximan.s3.amazonaws.com^
+||thepiratebay.org/static/ads/exo_na/bottom.html$subdocument
+||tiles.services.mozilla.com^$domain=behind-the-scene
+||wargaming.net^
+||www.bloomberg.com/subscription-offer$subdocument
+||www.e-shop.gr/*g$image
+||www.i2ocr.com/images/patterns/wood.png$image
+||www.in.gr/*ingr_logo_pride.png$image
+||www.limetorrents.cc/static/images/headerbg.png$image
+||www.torrentleech.org/templates/tl_default/css/tlbasic/images/ui-bg_inset-soft_10_030d0f_1x100.png$image
+||yac.mx/ssc/images/*
+||yts.am/211.gif$image
+||yunbofangbt.com/96080.gif$image
