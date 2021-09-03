@@ -1,14 +1,14 @@
+*##[href*="adultfriendfinder.com"]
+*##[href*="bet365.com"]
+*##[href*="media.888.com"]
 *##[href*="ouo.io"]
 *##[href*="stoiximan.gr"]
-*.bet365.com/*
-*.thefreecamsecret.com/*
-*.thestaticvube.com/*
-*.thetraderinpajamas.com/*
-*/vube.com/*
-*/www.appimat.com/*
-*/www.vitorrent.org/*
-*adultfriendfinder.com*
-*media.888.com*
+*##[href*="thefreecamsecret.com"]
+*##[href*="thestaticvube.com"]
+*##[href*="thetraderinpajamas.com"]
+*##[href*="vube.com"]
+*##[href*="www.appimat.com"]
+*##[href*="www.vitorrent.org"]
 @@dnsotls-ds.metric.gstatic.com^
 @@http://adserver.juicyads.com/adshow.php?adzone=162642
 @@http://adserver.juicyads.com/adshow.php?adzone=93433
@@ -24,19 +24,7 @@
 @@|https://www.google.com/recaptcha|$document
 @@|https://www.gstatic.com/recaptcha|$document
 @@|https://www.quantcast.com/reddit.com|$document
-@@|https://www.youtube.com/*HeatherFeatherASMR
-@@|https://www.youtube.com/*xdadevelopers
-@@|https://www.youtube.com/channel/UC2eddeJoyByJBjE4CYXwNXQ|$document
-@@|https://www.youtube.com/channel/UC4jWo5kiyOCt4PnvF4jbaLg|$document
-@@|https://www.youtube.com/channel/UCaZeUYfNstV7ucycXJUDYOA|$document
-@@|https://www.youtube.com/channel/UCg-cx9IGa3XSRSNyAHYvMqw|$document
-@@|https://www.youtube.com/channel/UCO_vmeInQm5Z6dEZ6R5Kk0A|$document
-@@|https://www.youtube.com/channel/UCQN7NhtBqADmNaRA3yc_mAQ|$document
-@@|https://www.youtube.com/user/screenjunkies|$document
-@@|https://www.youtube.com/user/TheOneLilium|$document
-@@|https://www.youtube.com/user/xdadevelopers|$document
 @@|https://www.youtube.com/watch?$document
-@@||5471782.fls.doubleclick.net^|
 @@||a.adwolf.ru^|
 @@||a.sellpoint.net^|
 @@||accounts.google.com^$document
@@ -127,7 +115,6 @@
 @@||oldpiratebay.org^$document
 @@||omniture.walmart.com^|
 @@||openmailbox.org^$document
-@@||pagead.l.doubleclick.net^|
 @@||pathe.emsecure.net^|
 @@||paypal.com^$document
 @@||phonearena.com^$document
@@ -184,101 +171,9 @@ boards.4channel.org###bannerCnt
 boards.4channel.org###blotter
 boards.4channel.org##.absBotDisclaimer
 boards.4channel.org##.center.middlead > div
-btkitty.bid##a[href="http://yunbofangbt.com/gotoum29.html"]:nth-of-type(1)
-events.redditmedia.com
-extratorrent.cc###e_content > div > table > tbody > tr > td:nth-of-type(2)
-extratorrent.cc##.wrn_txt2
-extratorrent.cc##table > tbody > tr:nth-of-type(3) > td > table > tbody > tr > td:nth-of-type(2) > a[href="#"] > img[src="//images4et.com/images/watch.gif"]
-extratorrent.cc##table > tbody > tr:nth-of-type(3) > td > table > tbody > tr > td:nth-of-type(2) > div:nth-of-type(2) > table > tbody > tr > .tabledata1
-extratorrent.cc##table > tbody > tr:nth-of-type(3) > td > table > tbody > tr > td:nth-of-type(2) > table:nth-of-type(1)
-extratorrent.cc##td:nth-of-type(3) > img[src="https://images4et.com/images/other/warning-vpn2.gif"]
-eztv.ag###novpn
-fapforfun.net##[href="https://adfoc.us/68493980631517"]
 flashifyit.com##.pum-active.click_open.auto_open.popmake-overlay.pum-theme-default-theme.pum-theme-55647.pum-overlay.pum
 go.microsoft.com/fwlink/*
 gr.euronews.com##.u-show-for-xlarge.base-leaderboard--wallpaper.base-leaderboard--top.base-leaderboard
-http://*.ero-advertising.com/*
-http://*.kovla.com/*
-http://*.pornmaki.com/*
-http://*t/freecamsecrets/*
-http://1phads.com/www/images/notice/firefox_ico.png
-http://ads.tlvmedia.com/st*
-http://adserving.cpxinteractive.com/st*
-http://btguard.com/?a=demon
-http://cdn.ad4game.com/*
-http://click.otaserve.net/*
-http://clkads.com/banners/*
-http://d.afdads.com/widget/*
-http://data.sankakucomplex.com/img/www/d/*
-http://files.myopera.com/sagar/public/uefa2012.jpg
-http://kovla.com/*
-http://nonadventures.com/comics/2013-12-07-2013-12-7-355.png
-http://pagead2.googlesyndication.com/*
-http://pckeeperapp.zeobit.com/*
-http://sadpanda.us/images/1615393-H6QGP5X.jpg
-http://sahadou.com/cov/c1593.jpg
-http://sahadou.com/cov/c1684.jpg
-http://sahadou.com/cov/c1694.jpg
-http://sahadou.com/cov/c1730.jpg
-http://static.4chan.org/support/jlist_leader/*
-http://static.4chan.org/support/jlist_top/*
-http://static.iptorrents.com/ipt/Troll.png
-http://static.thepiratebay.org/img/bar.gif
-http://thepiratetrader.com/*
-http://www.60yearsofchallenge.com/*
-http://www.demonoid.ph/cached/va_right.html
-http://www.facebook.com/external/*
-http://www.facebook.com/plugins/*
-http://www.fleshlight-international.eu/*
-http://www.littlewhitebutterflies.net/wp-content/uploads/2013/06/01-424x600.jpg
-http://www.littlewhitebutterflies.net/wp-content/uploads/2013/06/cover-857x600.jpg
-http://www.littlewhitebutterflies.net/wp-content/uploads/2013/07/0011-424x600.jpg
-http://www.littlewhitebutterflies.net/wp-content/uploads/2013/07/ano01-429x600.jpg
-http://www.littlewhitebutterflies.net/wp-content/uploads/2013/07/COMIC_2008_05_4341-420x600.png
-http://www.littlewhitebutterflies.net/wp-content/uploads/2013/08/Screen-shot-2013-08-02-at-6.16.32-PM.jpg
-http://www.merriam-webster.com/swf/player.swf
-http://www.null.com/*
-http://www.oaee.gr/client_files/flash/flash.swf
-https://*.cloudfront.net/*
-https://plusone.google.com/*
-https://stoiximan.s3.amazonaws.com/*
-https://twitter.com/intent/*
-https://www.facebook.com/dialog/oauth?*
-m.imgur.com###app > .App > .App-topSidebar > div > .headroom-wrapper
-m.imgur.com###app > .App > .PostHandler > .PostHandler-swipeContainer > .Swipe > .Swipe-innerContainer > .Swipe-item:nth-of-type(1) > .PostContainer > .CommentWrapper
-m.imgur.com###app > .App > .PostHandler > .PostHandler-swipeContainer > .Swipe > .Swipe-innerContainer > .Swipe-item:nth-of-type(1) > .PostContainer > .Post > .Banner > .Banner-contentContainer
-m.imgur.com###app > .App > .PostHandler > .PostHandler-swipeContainer > .Swipe > .Swipe-innerContainer > .Swipe-item:nth-of-type(1) > .PostContainer > .Post > .Post-contentContainer > .Post-imageContainer > .PostImage > .PostImage-description > .Linkify
-m.imgur.com###app > .App > .PostHandler > .PostHandler-swipeContainer > .Swipe > .Swipe-innerContainer > .Swipe-item:nth-of-type(1) > .PostContainer > .Post > .Post-contentContainer > .Post-metaContainer > .Post-metaInfo
-m.imgur.com###app > .App > .PostHandler > .PostHandler-swipeContainer > .Swipe > .Swipe-innerContainer > .Swipe-item:nth-of-type(1) > .PostContainer > .Post > .Post-contentContainer > .Post-title
-m.imgur.com###app > .App > .PostHandler > .PostHandler-swipeContainer > .Swipe > .Swipe-innerContainer > .Swipe-item:nth-of-type(1) > .PostContainer > .Post > div:nth-of-type(2) > .PostButtons
-m.imgur.com###app > .App > .PostHandler > .PostHandler-swipeContainer > .Swipe > .Swipe-innerContainer > .Swipe-item:nth-of-type(1) > .PostContainer > .Post > div:nth-of-type(3) > .PostButtons
-m.imgur.com###app > .App > .PostHandler > .PostHandler-swipeContainer > .Swipe > .Swipe-innerContainer > .Swipe-item:nth-of-type(1) > .PostContainer > .u-textCenter.PostContainer-openInApp
-m.imgur.com###header
-m.imgur.com##.page-container > .content > .galleryInsideView > .insideContainer > .main-content > .main-content:nth-of-type(2) > .inside-gallery-item > h2
-m.imgur.com##.page-container > .content > .galleryInsideView > .insideContainer > .main-content > div:nth-of-type(1) > .album-title
-m.imgur.com##.page-container > .content > .galleryInsideView > .insideContainer > .main-content > div:nth-of-type(1) > .small-font.under-title-info
-mail.google.com##.ZY
-mybet.com
-news.google.com###gb > .gb_0c.gb_5b > .gb_oa.gb_Zc.gb_r.gb_0c.gb_e > .gb_r.gb_0c.gb_Kc > .gb_r.gb_0c.gb_ea.gb_p > .gb_r.gb_0c.gb_s.gb_fa > .gb_r.gb_l.gb_ga[href^="https://plus.google.com/u/0/me"]
-out.reddit.com
-pay.reddit.com###header-bottom-right > .user
-pay.reddit.com###mail
-pay.reddit.com###newCommentsContents
-pornolab.net###bn-vsx-1
-pornolab.net###logo > table > tbody > tr > .tCenter
-pornolab.net###page_footer
-pornolab.net##.bottom_info
-pornolab.net##.bypass-alert
-pornolab.net##pre
-rarbg.to##.lista > table > tbody > tr
-rarbg.to##body > div:nth-of-type(4)
-rarbg.to##body > table:nth-of-type(1) > tbody > tr > td:nth-of-type(2)
-rarbg.to##div:nth-of-type(5)
-sli.mg###bd > .outrmainr.outrmain > .rhold > .fgrp > .mopt[href="javascript:void();"]
-sli.mg###bd > .outrmainr.outrmain > .rhold > .rbox > .rhead
-sli.mg###bd > .outrmainr.outrmain > .rhold > .social_networks
-sli.mg###ft
-sli.mg###hd
 stoiximan.gr##*
 thepiratebay.org###details > div:nth-of-type(3) > .download:nth-of-type(1) > a[href^="//cdn.bitx.tv/bx.php"]
 thepiratebay.org###details > iframe
@@ -345,7 +240,6 @@ www.mkvcage.com###masthead > center > span
 www.moneyreview.gr###nx-bill-placeholder
 www.moneyreview.gr##.ad-row.row
 www.moneyreview.gr##div.widget_nx_ads_widget.hide-mob:nth-of-type(1)
-www.msn.com/*/?ocid=wispr*
 www.politico.eu##.sticky-footer.ad__mobile
 www.protothema.gr##.featImg.section > .wrapper
 www.protothema.gr##div.server-side-component.mceNonEditable.configurable-element.stickyBanner.bannerWrp:nth-of-type(1)
