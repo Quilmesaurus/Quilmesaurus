@@ -119,6 +119,7 @@ dl.dropboxusercontent.com
 dl.xposed.info
 dlsite.com
 dlsite.net
+dmm.co.jp
 dns.google
 dns.msftncsi.com
 docs.google.comn
@@ -368,8 +369,10 @@ www.capital.gr
 www.cdn.viber.com
 www.dataplicity.com
 www.dlsite.com
+www.dmm.co.jp
 www.dropbox.comn
 www.e-shop.gr
+www.france24.com
 www.googleapis.com
 www.iefimerida.gr
 www.in.gr
@@ -383,6 +386,8 @@ www.msftncsi.com
 www.naftemporiki.gr
 www.no-ip.com
 www.patreon.com
+www.paypal.com
+www.paypalobjects.com
 www.protagon.gr
 www.protothema.gr
 www.skai.gr
