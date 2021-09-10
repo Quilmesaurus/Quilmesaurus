@@ -49,6 +49,9 @@
 @@||appsbackup-pa.googleapis.com^
 @@||appspot-preview.l.google.com^
 @@||apt.sonarr.tv^
+@@||arch.b4k.co^
+@@||archive.wakarimasen.moe^
+@@||archived.moe^
 @@||aspnetcdn.com^
 @@||attestation.xboxlive.com^
 @@||attiki-odos.gr^
@@ -63,6 +66,7 @@
 @@||brightcove.net^
 @@||c.disquscdn.com^
 @@||c.s-microsoft.com^
+@@||c6.paypal.com^
 @@||calendar.google.com^
 @@||cdn.agilebits.com^
 @@||cdn.cloudflare.net^
@@ -116,12 +120,14 @@
 @@||display.ugc.bazaarvoice.com^
 @@||displaycatalog.mp.microsoft.com^
 @@||disqus.com^
+@@||dl-pay.com^
 @@||dl.delivery.mp.microsoft.com^
 @@||dl.dropbox.com^
 @@||dl.dropboxusercontent.com^
 @@||dl.xposed.info^
 @@||dlsite.com^
 @@||dlsite.net^
+@@||dmm.co.jp^
 @@||dns.google^
 @@||dns.msftncsi.com^
 @@||docs.google.comn^
@@ -191,6 +197,9 @@
 @@||intercom.io^
 @@||intsig.net^
 @@||ipfs.io^
+@@||iptorrents.me/cdn-cgi/bm^
+@@||iptorrents.me^
+@@||iptorrents.me^$important
 @@||j.mp^
 @@||jquery.com^
 @@||jsdelivr.net^
@@ -281,6 +290,7 @@
 @@||pricelist.skype.com^
 @@||products.office.com^
 @@||protagongr.disqus.com^
+@@||protagongr.disqus.com^$domain=protagon.gr,important
 @@||proxy.plex.bz^
 @@||proxy.plex.tv^
 @@||proxy02.pop.ord.plex.bz^
@@ -343,6 +353,7 @@
 @@||title.auth.xboxlive.com^
 @@||title.mgt.xboxlive.com^
 @@||tmsg.intsig.net^
+@@||torako.wakarimasen.moe^
 @@||torrent-finder.info^
 @@||traffic.libsyn.com^
 @@||tvdb2.plex.tv^
@@ -357,6 +368,7 @@
 @@||video-stats.l.google.com^
 @@||videos.vidible.tv^
 @@||vidtech.cbsinteractive.com^
+@@||wakarimasen.moe^
 @@||weatherunlocked.com^
 @@||whatbox.ca^
 @@||whatismyipaddress.com^
@@ -371,6 +383,7 @@
 @@||www.cdn.viber.com^
 @@||www.dataplicity.com^
 @@||www.dlsite.com^
+@@||www.dmm.co.jp^
 @@||www.dropbox.comn^
 @@||www.e-shop.gr^
 @@||www.googleapis.com^
@@ -386,6 +399,8 @@
 @@||www.naftemporiki.gr^
 @@||www.no-ip.com^
 @@||www.patreon.com^
+@@||www.paypal.com^
+@@||www.paypalobjects.com^
 @@||www.protagon.gr^
 @@||www.protothema.gr^
 @@||www.skai.gr^
