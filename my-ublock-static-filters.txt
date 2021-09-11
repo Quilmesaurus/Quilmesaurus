@@ -1,3 +1,4 @@
+*##popup-push
 *##[href*="adcash.com"]
 *##[href*="adultfriendfinder.com"]
 *##[href*="bet365.com"]
@@ -7,6 +8,7 @@
 *##[href*="netbet.com"]
 *##[href*="ouo.io"]
 *##[href*="pornmaki.com"]
+*##[href*="privacy.microsoft.com"]
 *##[href*="stoiximan.gr"]
 *##[href*="thefreecamsecret.com"]
 *##[href*="thestaticvube.com"]
@@ -22,7 +24,6 @@
 @@http://xslt.alexa.com/site_stats/js/t/a?url=www.hentaibedta.net
 @@|http://vsrecommendedgames.wikia.com/wiki/Hentai_Games_(R%3D18)|$document
 @@|http://www.smbc-comics.com/?$document
-@@|http://www.washingtonpost.com/lifestyle/style/a-whisper-then-tingles-then-87-million-youtube-views-meet-the-star-of-asmr/2014/12/12/0c85d54a-7b33-11e4-b821-503cc7efed9e_story.html?$document
 @@|https://cock.li/|$document
 @@|https://subscribe.yahoo.com/showmailsubs|$document
 @@|https://www.google.com/js/bg|$document
@@ -42,6 +43,9 @@
 @@||androidpolice.com^$document
 @@||aodos.gr^$document
 @@||app.adjust.com^|
+@@||arch.b4k.co^
+@@||archive.wakarimasen.moe^
+@@||archived.moe^
 @@||artifactory.appodeal.com^|
 @@||askvg.com^$document
 @@||awin1.com^|
@@ -53,6 +57,7 @@
 @@||blog.logrocket.com^|
 @@||buy.xmarks.com^$document
 @@||c.digikey.com^|
+@@||c6.paypal.com^
 @@||calibre-ebook.com^$document
 @@||capital.gr^$document
 @@||cindyholbrook.lpages.co^|
@@ -65,10 +70,13 @@
 @@||cm-beacon.nakanohito.jp^|
 @@||cm-widget.nakanohito.jp^|
 @@||content.time.com^$document
+@@||cs.attiki-odos.gr^
 @@||cs.attiki-odos.gr^$document
 @@||cs.silverpop.com^|
 @@||cutcaptcha.com^|
 @@||dilbert.com/$document
+@@||dl-pay.com^
+@@||dmm.co.jp^
 @@||dub120.mail.live.com^$document
 @@||duckduckgo.com^$document
 @@||ebook.online-convert.com/$document
@@ -95,13 +103,17 @@
 @@||imasdk.googleapis.com^|
 @@||intersport.peerius.com^|
 @@||iptorrents.eu^$document
+@@||iptorrents.me/cdn-cgi/bm^
+@@||iptorrents.me^
 @@||iptorrents.me^$document
+@@||iptorrents.me^$important
 @@||kerdos.gr^$document
 @@||lastpass.com^$document
 @@||launches.appsflyer.com^|
 @@||liamja.co.uk^$document
 @@||links.getblueshift.com^|
 @@||log.mmstat.com^|
+@@||login.live.com^
 @@||login.sendpulse.com^|
 @@||login.xmarks.com^$document
 @@||mailcatch.com^$document
@@ -121,11 +133,13 @@
 @@||omniture.walmart.com^|
 @@||openmailbox.org^$document
 @@||pathe.emsecure.net^|
+@@||paypal.com^
 @@||paypal.com^$document
 @@||phonearena.com^$document
 @@||play.spotify.com^$document
 @@||podnapisi.net^$document
 @@||projectwonderful.com/$document
+@@||protagongr.disqus.com^$domain=protagon.gr,important
 @@||proto2ad.durasite.net^|
 @@||pt.afl.rakuten.co.jp^|
 @@||pushbullet.com^$document
@@ -147,6 +161,7 @@
 @@||thedoghousediaries.com/$document
 @@||theonion.com^$document
 @@||tlaol.com^|
+@@||torako.wakarimasen.moe^
 @@||torrentfreak.com^$document
 @@||tplinkextender.net^$document
 @@||track.rutarget.ru^|
@@ -154,17 +169,23 @@
 @@||uid.si^$document
 @@||userscripts.org/$document
 @@||userstyles.org/$document
+@@||wakarimasen.moe^
 @@||weather.com^$document
 @@||www.baka-tsuki.org/$document
+@@||www.dmm.co.jp^
 @@||www.googleadservices.com^|
+@@||www.iefimerida.gr^
 @@||www.jdoqocy.com^|
 @@||www.ma3comic.com/$document
+@@||www.paypal.com^
+@@||www.paypalobjects.com^
 @@||www.sankakucomplex.com/$document
 @@||www.shadbase.com/$document
 @@||www.the-editing-room.com/$document
 @@||xkcd.com/$document
 @@||yifysubtitles.com^$document
 @@||youtube.com/*&user=softlygaloshes$document
+adfoc.us###interstitial
 audiobookbay.nl##div > a[href="/download-14-days-trial.php"]
 audiobookbay.nl##div:nth-of-type(5) > a[href="/shield.php"]
 audiobookbay.nl##div:nth-of-type(8) > a[href="/shield.php"]
@@ -176,6 +197,11 @@ boards.4channel.org###bannerCnt
 boards.4channel.org###blotter
 boards.4channel.org##.absBotDisclaimer
 boards.4channel.org##.center.middlead > div
+fapforfun.net##.clr.entry-content [href="https://fapforfun.net/fap-for-fun-vip"]
+fapforfun.net##.size-full.wp-image-27716.aligncenter
+fapforfun.net##.wpd-rating-wrap
+fapforfun.net##p:nth-of-type(12)
+fapforfun.net##p:nth-of-type(9)
 flashifyit.com##.pum-active.click_open.auto_open.popmake-overlay.pum-theme-default-theme.pum-theme-55647.pum-overlay.pum
 go.microsoft.com/fwlink/*
 gr.euronews.com##.u-show-for-xlarge.base-leaderboard--wallpaper.base-leaderboard--top.base-leaderboard
@@ -214,6 +240,7 @@ www.economist.com##div.advert--inline.incontent.advert:nth-of-type(2)
 www.economist.com##div.advert--inline.incontent.advert:nth-of-type(3)
 www.economist.com##div.advert--inline.incontent.advert:nth-of-type(4)
 www.economist.com##div.advert--inline.incontent.advert:nth-of-type(5)
+www.euro2day.gr##.gn-follow
 www.facebook.com###mobile_mirror_banner
 www.france24.com##.o-ad-container--with-background.o-ad-container--banner-top.o-ad-container
 www.france24.com##.o-banana-split__ad-n-newsfeed.o-block-ad-n-newsfeed > .m-block-ad > .m-block-ad__content
@@ -245,15 +272,23 @@ www.mkvcage.com###masthead > center > span
 www.moneyreview.gr###nx-bill-placeholder
 www.moneyreview.gr##.ad-row.row
 www.moneyreview.gr##div.widget_nx_ads_widget.hide-mob:nth-of-type(1)
+www.msn.com###sticky-footer
 www.politico.eu##.sticky-footer.ad__mobile
 www.protothema.gr##.featImg.section > .wrapper
 www.protothema.gr##div.server-side-component.mceNonEditable.configurable-element.stickyBanner.bannerWrp:nth-of-type(1)
+www.reddit.com###change-username-tooltip-id>span:has-text(/Coin Sale/)
 www.reddit.com###thing_t1_d3n0ka9 > .RES-keyNav-activeElement.unvoted.entry > .buttons.flat-list > li:nth-of-type(3) > .noCtrlF.embed-comment
 www.reddit.com###thing_t1_d3n0ka9 > .unvoted.entry > .buttons.flat-list > .give-gold-button
 www.reddit.com###thing_t1_d3njzxc > .RES-keyNav-activeElement.unvoted.entry > .buttons.flat-list > .give-gold-button
 www.reddit.com###thing_t1_d3nprb7 > .unvoted.entry > .buttons.flat-list > .give-gold-button
+www.reddit.com##.give-gold-button
+www.reddit.com##.happening-now-wrap
 www.reddit.com##.promotedlink
+www.reddit.com##div>h2:has-text(/Powerups/):nth-ancestor(4)
+www.reddit.com##div[class*=scrollerItem]:has-text(/Powerup.+r\//):nth-ancestor(2)
+www.reddit.com##div[style*=--Toaster-indicatorColor]:nth-ancestor(1)
 www.reporter.gr###pageWrapper > .header > .blockcenter > .clearfix > .logoPlc.headeritem > .clearfix > .socialIcons
+www.skai.gr###popup-push
 www.skai.gr###slidebox
 www.thetimes.co.uk##.blkkuy.sc-iRbamj
 www.torrentleech.org###bottomSpacer
@@ -271,16 +306,18 @@ youtube.com##div#theater-background.player-height
 yts.ag###at4-share
 yts.am##.ibox-bordered
 |http://firsthottesttube.com/*
-||a.adtng.com/get/10007190?time=1563301234437$subdocument
 ||adcash.com^
 ||adclickservice.com/$subdocument
+||app-measurement.com^
+||apps.metactrl.com^
 ||chatster.eu^
 ||coin-hive.com/lib/coinhive.min.js
 ||contentabc.com^
+||crashlyticsreports-pa.googleapis.com^
 ||creative.wwwpromoter.com/*$subdocument
+||firebase-settings.crashlytics.com^
 ||fleshlight-international.eu^
 ||kingplayer.com^
-||m.imgur.com/ad/1459174941/gpt/div-gpt-ad-1458259625145-0/4761660%2FMobileWeb_BTF_NonGallery
 ||m.imgur.com/public/assets/app-icon*.png
 ||mediaduke.net^
 ||mg.dt00.net/public/informers/torrents.2ru.html?rnd=103696
@@ -292,6 +329,8 @@ yts.am##.ibox-bordered
 ||rapidgator.net/images/pics/36_300%D1%85250_1.gif$image
 ||rutrk.org/bn/skladchik/02/index.html$subdocument
 ||s.ynet.me/assets/images/website/vpno.jpg$image
+||safebrowsing.googleapis.com^
+||sessions.bugsnag.com^
 ||sharelive.net^
 ||sli.mg/res/img/socialButtons/reddit.png
 ||sli.mg/res/img/socialButtons/voat.png
@@ -299,12 +338,13 @@ yts.am##.ibox-bordered
 ||thepiratebay.org/static/ads/exo_na/bottom.html$subdocument
 ||tiles.services.mozilla.com^$domain=behind-the-scene
 ||wargaming.net^
+||web.vortex.data.microsoft.com^
+||web.vortex.data.msn.com^
 ||www.bloomberg.com/subscription-offer$subdocument
 ||www.e-shop.gr/*g$image
 ||www.i2ocr.com/images/patterns/wood.png$image
 ||www.in.gr/*ingr_logo_pride.png$image
 ||www.limetorrents.cc/static/images/headerbg.png$image
-||www.torrentleech.org/templates/tl_default/css/tlbasic/images/ui-bg_inset-soft_10_030d0f_1x100.png$image
 ||yac.mx/ssc/images/*
 ||yts.am/211.gif$image
 ||yunbofangbt.com/96080.gif$image
