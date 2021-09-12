@@ -170,6 +170,7 @@ $removeparam=_openstat
 *##.scrolltotop
 *##.scrollup_button
 *##.scroll_top
+*##.share-buttons
 *##.simple-back-to-top
 *##.spacer:not(html, body):not(:has-text(/\S/))
 *##.sticky-footer.ad__mobile
