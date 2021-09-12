@@ -145,7 +145,6 @@
 @@||api.rlje.net^
 @@||api.termius.com^
 @@||api.trello.com^
-@@||api.twitter.com^
 @@||apis.google.com^
 @@||apmebf.com^
 @@||app-api.ted.com^
@@ -518,7 +517,6 @@
 @@||f.kinja-static.com^
 @@||f1.media.brightcove.com^
 @@||f95zone.to^
-@@||facebook.com^
 @@||fakenamegenerator.com^
 @@||familydollar.com^
 @@||fapforfun.net^
@@ -1089,7 +1087,6 @@
 @@||pjtra.com^
 @@||pkobp.pl^
 @@||placehold.it^
-@@||platform.twitter.com^
 @@||play.google.com^
 @@||play.lego.com^
 @@||play.spotify.com^
