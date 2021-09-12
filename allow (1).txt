@@ -1,7 +1,5 @@
-0-edge-chat.facebook.com
 0.client-channel.google.com
 0.us.pool.ntp.org
-1-edge-chat.facebook.com
 1.0.0.1
 1.bp.blogspot.com
 1.us.pool.ntp.org
@@ -31,20 +29,15 @@
 1hosts.cf
 1und1.de
 2-01-3cf7-000c.cdx.cedexis.net
-2-edge-chat.facebook.com
 2.android.pool.ntp.org
 2.us.pool.ntp.org
 206.189.252.21
 2shared.com
-3-edge-chat.facebook.com
 3.amazonaws.com
-4-edge-chat.facebook.com
 4.bp.blogspot.com
 4cdn.org
 4shared.com
-5-edge-chat.facebook.com
 5231.xg4ken.com
-6-edge-chat.facebook.com
 7eer.net
 8ch.net
 8pecxstudios.com
@@ -181,7 +174,6 @@ api.rlje.net
 api.sbs.com.au
 api.termius.com
 api.trello.com
-api.twitter.com
 api.unsplash.com
 apis.google.com
 apis.mail.yahoo.com
@@ -197,7 +189,6 @@ appldnld.apple.com
 apple.com
 appleid.apple.com
 appleid.cdn-apple.com
-apps.facebook.com
 apps.skype.com
 appsbackup-pa.clients6.google.com
 appsbackup-pa.googleapis.com
@@ -245,7 +236,6 @@ ax.phobos.apple.com.edgesuite.net
 az416426.vo.msecnd.net
 az725175.vo.msecnd.net
 az764295.vo.msecnd.net
-b-api.facebook.com
 b.dlsite.net
 b.marfeelcache.com
 b2bapi.zee5.com
@@ -406,7 +396,6 @@ cdn7.digitaltrends.com
 cdn7.es.digitaltrends.com
 cdn9.es.digitaltrends.com
 cdnapisec.kaltura.com
-cdninstagram.com
 cdnjs.cloudflare.com
 cdns.gigya.com
 cdnssl.softpedia.com
@@ -417,13 +406,10 @@ cfl.dropboxstatic.com
 cfvod.kaltura.com
 ch.dlsite.com
 changelogs.ubuntu.com
-channel.facebook.com
 channel9.msdn.com
 channelawesome.com
 charltonteaching.blogspot.gr
 chart.googleapis.com
-chat.cdn.whatsapp.net
-chat.facebook.com
 chatenabled.mail.google.com
 checkout.stripe.com
 chicago.cbslocal.com
@@ -490,7 +476,6 @@ compass-ssl.microsoft.com.edgekey.net
 completion.amazon.co.uk
 confib.ifmo.ru
 confusedmatthew.com
-connect.facebook.net
 connect.googleforwork.com
 connectivitycheck.android.com
 connectivitycheck.gstatic.com
@@ -576,12 +561,9 @@ demotywatory.pl
 denis-ovs.narod.ru
 det-ta-g7g.amazon.com
 detectportal.firefox.com
-dev.twitter.com
 dev.virtualearth.net
 developer.android.com
 developer.mozilla.org
-developer.twitter.com
-developers.facebook.com
 developers.google.com
 developers.medium.com
 devfiles.co
@@ -667,8 +649,6 @@ echo.edge.messenger.live.com
 ecn.dev.virtualearth.net
 ecx.images-amazon.com
 edata.ndtv.com
-edge-chat.facebook.com
-edge-mqtt.facebook.com
 edge.api.brightcove.com
 edgesuite.net
 eds.xboxlive.com
@@ -729,13 +709,10 @@ f-droid.org
 f.kinja-static.com
 f1.media.brightcove.com
 f95zone.to
-facebook.com
-facebook.net
 fakenamegenerator.com
 familydollar.com
 fanghornforest.wordpress.com
 fapforfun.net
-faq.whatsapp.com
 fast.fonts.net
 fastestvpn.com
 fb.com
@@ -829,7 +806,6 @@ g.api.mega.co.nz
 g.co
 g.download.windowsupdate.com.c.footprint.net
 g.live.com
-g.whatsapp.net
 gab.ai
 gamestailer94.de
 gan.doubleclick.net
@@ -894,9 +870,6 @@ googlevideo.com
 gopjn.com
 gov.gr
 gp.se
-graph.facebook.com
-graph.instagram.com
-graph.whatsapp.net
 gravatar.com
 grecostrom.gr
 greyenlightenment.com
@@ -1030,7 +1003,6 @@ indianexpress.com
 inference.location.live.net
 inoreader.com
 insomniagamingfestival.com
-instagram.c10r.facebook.com
 instantmessaging-pa.googleapis.com
 intercom.io
 intsig.net
@@ -1103,7 +1075,6 @@ kqzyfj.com
 krakow.tvp.pl
 kroger.com
 kv701-prod.do.dsp.mp.microsoft.com.edgekey.net
-l.facebook.com
 ladyfootlocker.com
 laposte.net
 lastfm-img2.akamaized.net
@@ -1168,7 +1139,6 @@ m.cricbuzz.com
 m.csmonitor.com
 m.digitaltrends.com
 m.en.softonic.com
-m.facebook.com
 m.foxnews.com
 m.gitee.com
 m.gizmodo.com
@@ -1260,18 +1230,6 @@ mitpress.mit.edu
 mix1065fm.cbslocal.com
 mlb.com
 mls.com
-mme.whatsapp.net
-mme6.whatsapp.net
-mmg-fna.whatsapp.net
-mmg.whatsapp.net
-mmi244.whatsapp.net
-mmi269.whatsapp.net
-mmi479.whatsapp.net
-mmi483.whatsapp.net
-mmi651.whatsapp.net
-mmi701.whatsapp.net
-mmi731.whatsapp.net
-mms.whatsapp.net
 mobile-ap.spotify.com
 mobile.in.gr
 mobilenetworkscoring-pa.googleapis.com
@@ -1283,7 +1241,6 @@ mozilla.net
 mozilla.org
 mozillazine.org
 mpcdot.com
-mqtt-mini.facebook.com
 mscomajax.vo.msecnd.net
 msedge.net
 msftncsi.com
@@ -1479,7 +1436,6 @@ photos.google.com
 photos.googleapis.com
 pi-hole.net
 pi.hole
-pic.twitter.com
 pihole-smb
 pilkanozna.pl
 pimp4003-torrents.me
@@ -1492,11 +1448,8 @@ pixel.wp.com
 pjatr.com
 pjtra.com
 pkobp.pl
-pl-pl.facebook.com
 placehold.it
 placeholdit.imgix.net
-platform.instagram.com
-platform.twitter.com
 play.dlsite.com
 play.google.com
 play.googleapis.com
@@ -1529,7 +1482,6 @@ pool.ntp.org
 pop.gmx.de
 pornscum.com
 postimage.org
-pps.whatsapp.net
 preferences.about-scheme
 pricelist.skype.com
 prisjakt.nu
@@ -1623,7 +1575,6 @@ rxferret.wordpress.com
 rzeszow.tvp.pl
 s-msft.com
 s-passets-cache-ak0.pinimg.com
-s-static.ak.facebook.com
 s.4cdn.org
 s.cdn.turner.com
 s.gateway.messenger.live.com
@@ -1656,8 +1607,6 @@ s5.symcb.com
 sa-blacklist.stearns.org
 sa.symcb.com
 sacramento.cbslocal.com
-safebrowsing.google.com
-safebrowsing.googleapis.com
 sakuradite.com
 samsung.com
 sanfrancisco.cbslocal.com
@@ -1668,7 +1617,6 @@ sbi.co.in
 sbi.com
 sbs.com.au
 sbsvodns-vh.akamaihd.net
-scontent-iad3-1.cdninstagram.com
 scontent-lhr3-1.xx.fbcdn.net
 scontent.fgdl5-1.fna.fbcdn.net
 scontent.xx.fbcdn.net
@@ -1678,7 +1626,6 @@ script.google.com
 script.googleapis.com
 seal.verisign.com
 search.torrents.io
-search.twitter.com
 sears.com
 searx.me
 secure-media1.hotstarext.com
@@ -1776,8 +1723,6 @@ stacksocial.com
 staging.plex.tv
 standardnotes.org
 stanev.org
-star.c10r.facebook.com
-star.facebook.com
 starbucks.com
 startpage.com
 starwars.wikia.com
@@ -1786,7 +1731,6 @@ static-asm.secure.skypeassets.com
 static.127777.com
 static.adguard.com
 static.adguard.comm
-static.ak.facebook.com
 static.appsumo.com
 static.fontawesome.com
 static.hubspot.com
@@ -1794,7 +1738,6 @@ static.kickstarter.com
 static.licdn.com
 static.medium.com
 static.theguardian.com
-static.whatsapp.net
 static.wired.com
 static.wixstatic.com
 static.www.odcdn.com.edgekey.net
@@ -1977,9 +1920,7 @@ update.pushbullet.com
 updates-http.cdn-apple.com
 updates.push.services.mozilla.com
 upgrade.scdn.com
-upload.facebook.com
 upload.pushbullet.com
-upload.twitter.com
 uploaded.net
 uploaded.to
 upstore.net
@@ -1994,11 +1935,9 @@ useraction.zee5.com-v2.edgekey.net
 userapi.zee5.com-v4.edgekey.net
 userscloud.com
 userscripts-mirror.org
-userstream.twitter.com
 userstyles.org
 v.firebog.net
 v.pinimg.com
-v.whatsapp.net
 v0.wordpress.com
 v10.events.data.microsoft.com
 v20.events.data.microsoft.com
@@ -2043,17 +1982,7 @@ vox.com
 voxday.blogspot.gr
 vpos.eurocommerce.gr
 vr-ov-crl.thawte.com
-vupload2.facebook.com
-vupload2.t.facebook.com
-w1.web.whatsapp.com
-w2.web.whatsapp.com
-w3.web.whatsapp.com
 w3schools.com
-w4.web.whatsapp.com
-w5.web.whatsapp.com
-w6.web.whatsapp.com
-w7.web.whatsapp.com
-w8.web.whatsapp.com
 walgreens.com
 walmart.com
 warhammer40kdatabase.tumblr.com
@@ -2066,7 +1995,6 @@ weather.gr
 weatherunlocked.com
 web.archive.org
 web.de
-web.whatsapp.com
 webcam.yahoo.com
 webextender.net
 webextensions.uservoice.com
@@ -2115,7 +2043,6 @@ wtkr.com
 wupfile.com
 ww1.cydral.com
 ww1.thepirateproxy.info
-www-cdn.whatsapp.net
 www.2checkout.com
 www.7eer.net
 www.about.medium.com
