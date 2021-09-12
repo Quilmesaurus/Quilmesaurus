@@ -153,10 +153,12 @@ $removeparam=_openstat
 *##.button_to_top
 *##.csBackToTop
 *##.dynamic-to-top
+*##.entry-meta > .head-social > .social-icons-list
 *##.fbt-top
 *##.floatingfeedback
 *##.goToTop
 *##.go_to_top
+*##.head-social
 *##.icon_gototop
 *##.icon_scrollup
 *##.ic_pagetop
@@ -172,6 +174,7 @@ $removeparam=_openstat
 *##.scroll_top
 *##.share-buttons
 *##.simple-back-to-top
+*##.social-icons-list
 *##.spacer:not(html, body):not(:has-text(/\S/))
 *##.sticky-footer.ad__mobile
 *##.sticky-footer.to-top
