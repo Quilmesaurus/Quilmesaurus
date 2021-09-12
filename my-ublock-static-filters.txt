@@ -2,7 +2,6 @@
 ###tickercr
 ###without_new_articles
 ##.ad-container
-##.affix.back-to-top
 ##.back-to-top
 ##.body-spacer:not(html, body)
 ##.elementor-spacer:not(html, body)
@@ -97,17 +96,10 @@ $removeparam=utm_viz_id
 $removeparam=wbraid
 $removeparam=yclid
 $removeparam=_openstat
-*###.show.backToTop
-*###back-top
 *###infiload-return-top
 *###scroll-to-top
 *###videopwp
-*##.active.backToTop
-*##.affix.back-to-top
-*##.back-to-top
-*##.fbt-is-visible.fbt-top
 *##.is-active.js-scrollButtons.u-scrollButtons
-*##.show.backToTop
 *##.spacer:not(html, body):not(:has-text(/\S/))
 *##.sticky-footer.ad__mobile
 *##.sticky-footer.to-top
@@ -143,7 +135,6 @@ $removeparam=_openstat
 .appBackToTop_
 .avada-to-top
 .back-to-top
-.back-to-top-
 .back-top-btn
 .backtotop
 .back_to_top
@@ -165,13 +156,10 @@ $removeparam=_openstat
 .lnkBackToTop
 .scroll-to-top
 .scroll-top
-.scroll-top-and-bottom
 .scrollBtnTop
 .scrolltopcontrol
 .scrolltoplugin
 .scrolltotop
-.scrollToTop.min
-.scrollToTopConcat
 .scrollup_button
 .scroll_top
 .simple-back-to-top
@@ -221,7 +209,6 @@ $removeparam=_openstat
 /topbutton.js
 /torna-su.
 /to_pagetop.
-/ui.totop_
 /^\w+://10\.(?:(?:[1-9]?\d|1\d\d|2(?:[0-4]\d|5[0-5]))\.){2}(?:[1-9]?\d|1\d\d|2(?:[0-4]\d|5[0-5]))[:/]/$third-party,domain=~localhost|~127.0.0.1|~[::1]|~0.0.0.0|~[::]|~local
 /^\w+://127\.(?:(?:[1-9]?\d|1\d\d|2(?:[0-4]\d|5[0-5]))\.){2}(?:[1-9]?\d|1\d\d|2(?:[0-4]\d|5[0-5]))[:/]/$third-party,domain=~localhost|~127.0.0.1|~[::1]|~0.0.0.0|~[::]|~local
 /^\w+://169\.254\.(?:[1-9]\d?|1\d{2}|2(?:[0-4]\d|5[0-4]))\.(?:[1-9]?\d|1\d{2}|2(?:[0-4]\d|5[0-5]))[:/]/$third-party,domain=~localhost|~127.0.0.1|~[::1]|~0.0.0.0|~[::]|~local
@@ -257,7 +244,6 @@ $removeparam=_openstat
 @@||aodos.gr^$document
 @@||app.adjust.com^|
 @@||arch.b4k.co^
-@@||archive.wakarimasen.moe^
 @@||archived.moe^
 @@||artifactory.appodeal.com^|
 @@||askvg.com^$document
@@ -272,7 +258,6 @@ $removeparam=_openstat
 @@||businessinsider.com.pl/*&srcc=ucs$removeparam
 @@||buy.xmarks.com^$document
 @@||c.digikey.com^|
-@@||c6.paypal.com^
 @@||calibre-ebook.com^$document
 @@||capital.gr^$document
 @@||cdn.privatehost.com/videos*/$removeparam
@@ -322,7 +307,6 @@ $removeparam=_openstat
 @@||insurancexblog.blogspot.com/?utm_source=$removeparam=utm_source
 @@||intersport.peerius.com^|
 @@||iptorrents.eu^$document
-@@||iptorrents.me/cdn-cgi/bm^
 @@||iptorrents.me^
 @@||iptorrents.me^$document
 @@||kerdos.gr^$document
@@ -392,7 +376,6 @@ $removeparam=_openstat
 @@||theonion.com^$document
 @@||tlaol.com^|
 @@||toptechtalk.xyz/?utm_source=$removeparam=utm_source
-@@||torako.wakarimasen.moe^
 @@||torrentfreak.com^$document
 @@||tplinkextender.net^$document
 @@||track.rutarget.ru^|
@@ -406,13 +389,10 @@ $removeparam=_openstat
 @@||wakarimasen.moe^
 @@||weather.com^$document
 @@||www.baka-tsuki.org/$document
-@@||www.dmm.co.jp^
 @@||www.googleadservices.com^|
-@@||www.iefimerida.gr##.share-tools-bar
 @@||www.iefimerida.gr^
 @@||www.jdoqocy.com^|
 @@||www.ma3comic.com/$document
-@@||www.paypal.com^
 @@||www.paypalobjects.com^
 @@||www.sankakucomplex.com/$document
 @@||www.shadbase.com/$document
@@ -448,16 +428,12 @@ imgur.com##.get-the-app
 imgur.com##.getTheApp
 imgur.com##.PopOverBannerFull
 imgur.com##.PopOverBannerSmall
-pornolab.net###page_footer > div > table
-pornolab.net##div:nth-of-type(8)
 reddit.com##.DualPartInterstitial
 reddit.com##.SnackBar
 reddit.com##.XPromoAdFeed
 reddit.com##.xpromoMinimal
 reddit.com##.XPromoPill
 reddit.com##.XPromoPopup
-reddit.com##a[class="TopButton"][href*=".app.link/"]
-reddit.com##a[href*=".app.link/"]:not(.PostHeader__post-link)
 stoiximan.gr##*
 thepiratebay.org###details > div:nth-of-type(3) > .download:nth-of-type(1) > a[href^="//cdn.bitx.tv/bx.php"]
 thepiratebay.org###details > iframe
@@ -525,15 +501,11 @@ www.mkvcage.com###masthead > center > span
 www.moneyreview.gr###nx-bill-placeholder
 www.moneyreview.gr##.ad-row.row
 www.moneyreview.gr##div.widget_nx_ads_widget.hide-mob:nth-of-type(1)
-www.msn.com###sticky-footer
 www.ot.gr###bottom-txc
 www.protothema.gr##.featImg.section > .wrapper
 www.protothema.gr##div.server-side-component.mceNonEditable.configurable-element.stickyBanner.bannerWrp:nth-of-type(1)
 www.reddit.com###change-username-tooltip-id>span:has-text(/Coin Sale/)
 www.reddit.com###thing_t1_d3n0ka9 > .RES-keyNav-activeElement.unvoted.entry > .buttons.flat-list > li:nth-of-type(3) > .noCtrlF.embed-comment
-www.reddit.com###thing_t1_d3n0ka9 > .unvoted.entry > .buttons.flat-list > .give-gold-button
-www.reddit.com###thing_t1_d3njzxc > .RES-keyNav-activeElement.unvoted.entry > .buttons.flat-list > .give-gold-button
-www.reddit.com###thing_t1_d3nprb7 > .unvoted.entry > .buttons.flat-list > .give-gold-button
 www.reddit.com##.give-gold-button
 www.reddit.com##.happening-now-wrap
 www.reddit.com##.promotedlink
