@@ -1,3 +1,54 @@
+###.show.backToTop
+###tickercr
+###without_new_articles
+##.ad-container
+##.affix.back-to-top
+##.back-to-top
+##.body-spacer:not(html, body)
+##.elementor-spacer:not(html, body)
+##.fbt-is-visible.fbt-top
+##.mk-padding-divider:not(html, body)
+##.section-break:not(html, body)
+##.show.backToTop
+##.show.floatingfeedback
+##.skille
+##.smart-banner-download__wrapper.smart-banner__wrapper
+##.space20:not(html, body)
+##.spacer-20:not(html, body)
+##.spacer-block:not(html, body)
+##.video-ads
+##.ViewInAppLink
+##.wp-block-spacer:not(html, body)
+##.ytp-ad-progress-list
+##a.app-cta[target="_blank"]
+##a[href*=".app.link/"]
+##back-top
+##horizontalspace
+##p:-moz-only-whitespace
+##p:empty
+*###.show.backToTop
+*###back-top
+*###infiload-return-top
+*###scroll-to-top
+*###videopwp
+*##.active.backToTop
+*##.affix.back-to-top
+*##.back-to-top
+*##.fbt-is-visible.fbt-top
+*##.is-active.js-scrollButtons.u-scrollButtons
+*##.show.backToTop
+*##.spacer:not(html, body):not(:has-text(/\S/))
+*##.sticky-footer.ad__mobile
+*##.sticky-footer.to-top
+*##back-top
+*##div.inline-ad-wrapper:nth-of-type(1)
+*##div.inline-ad-wrapper:nth-of-type(2)
+*##div.inline-ad-wrapper:nth-of-type(3)
+*##div.inline-ad-wrapper:nth-of-type(4)
+*##div.inline-ad-wrapper:nth-of-type(5)
+*##p:has-text(/^ $/):not(:has-text(/\S/)):not(:has(img))
+*##p:has-text(/^\xA0$/):not(:has-text(/\S/)):not(:has(img))
+*##p:has-text(/^\xA0\xA0$/):not(:has-text(/\S/)):not(:has(span))
 *##popup-push
 *##[href*="adcash.com"]
 *##[href*="adultfriendfinder.com"]
@@ -16,6 +67,91 @@
 *##[href*="vube.com"]
 *##[href*="www.appimat.com"]
 *##[href*="www.vitorrent.org"]
+-scroll-to-top/
+.appBackToTop.
+.appBackToTop_
+.avada-to-top
+.back-to-top
+.back-to-top-
+.back-top-btn
+.backtotop
+.back_to_top
+.bg_scrollup_button
+.btn_back2top
+.btn_gotop
+.btn_pagetop
+.bt_pagetop
+.button_to_top
+.csBackToTop
+.dynamic-to-top
+.fbt-top
+.floatingfeedback
+.goToTop
+.go_to_top
+.icon_gototop
+.icon_scrollup
+.ic_pagetop
+.lnkBackToTop
+.scroll-to-top
+.scroll-top
+.scroll-top-and-bottom
+.scrollBtnTop
+.scrolltopcontrol
+.scrolltoplugin
+.scrolltotop
+.scrollToTop.min
+.scrollToTopConcat
+.scrollup_button
+.scroll_top
+.simple-back-to-top
+.td-scroll-up
+.topbutton
+.totop_
+.to_pagetop
+/appBackToTop/*
+/appBackToTop_
+/avada-to-top.
+/back-to-top-
+/back-to-top.
+/back-top-btn.
+/backtotop.
+/back_to_top.
+/back_to_top_
+/bg_scrollup_button.
+/btn_back2top.
+/btn_back2top_
+/btn_gotop.
+/btn_pagetop.
+/bt_pagetop.
+/button_to_top.
+/csBackToTop.js
+/dynamic-to-top/*
+/goToTop.
+/go_to_top.
+/hs.go-to.js
+/hs.go-to.min.js
+/icon_gototop.
+/icon_scrollup.
+/ic_pagetop.
+/sbtt.js
+/scroll-to-top.
+/scroll-to-top/*
+/scroll-top-and-bottom/*
+/scroll-top.
+/scrollBtnTop.
+/scrolltopcontrol.
+/scrolltoplugin.
+/scrollToTop.min.
+/scrolltotop/*
+/scrollToTopConcat.
+/scrollup_button.
+/scroll_top.
+/simple-back-to-top/*
+/topbutton.js
+/torna-su.
+/to_pagetop.
+/ui.totop_
+=adunit&
 @@dnsotls-ds.metric.gstatic.com^
 @@http://adserver.juicyads.com/adshow.php?adzone=162642
 @@http://adserver.juicyads.com/adshow.php?adzone=93433
@@ -139,7 +275,6 @@
 @@||play.spotify.com^$document
 @@||podnapisi.net^$document
 @@||projectwonderful.com/$document
-@@||protagongr.disqus.com^$domain=protagon.gr,important
 @@||proto2ad.durasite.net^|
 @@||pt.afl.rakuten.co.jp^|
 @@||pushbullet.com^$document
@@ -174,6 +309,7 @@
 @@||www.baka-tsuki.org/$document
 @@||www.dmm.co.jp^
 @@||www.googleadservices.com^|
+@@||www.iefimerida.gr##.share-tools-bar
 @@||www.iefimerida.gr^
 @@||www.jdoqocy.com^|
 @@||www.ma3comic.com/$document
@@ -181,7 +317,9 @@
 @@||www.paypalobjects.com^
 @@||www.sankakucomplex.com/$document
 @@||www.shadbase.com/$document
+@@||www.tanea.gr^$document
 @@||www.the-editing-room.com/$document
+@@||www.tovima.gr^$document
 @@||xkcd.com/$document
 @@||yifysubtitles.com^$document
 @@||youtube.com/*&user=softlygaloshes$document
@@ -205,6 +343,20 @@ fapforfun.net##p:nth-of-type(9)
 flashifyit.com##.pum-active.click_open.auto_open.popmake-overlay.pum-theme-default-theme.pum-theme-55647.pum-overlay.pum
 go.microsoft.com/fwlink/*
 gr.euronews.com##.u-show-for-xlarge.base-leaderboard--wallpaper.base-leaderboard--top.base-leaderboard
+imgur.com##.AppBanner-text
+imgur.com##.FloatingOIA-container
+imgur.com##.get-the-app
+imgur.com##.getTheApp
+imgur.com##.PopOverBannerFull
+imgur.com##.PopOverBannerSmall
+reddit.com##.DualPartInterstitial
+reddit.com##.SnackBar
+reddit.com##.XPromoAdFeed
+reddit.com##.xpromoMinimal
+reddit.com##.XPromoPill
+reddit.com##.XPromoPopup
+reddit.com##a[class="TopButton"][href*=".app.link/"]
+reddit.com##a[href*=".app.link/"]:not(.PostHeader__post-link)
 stoiximan.gr##*
 thepiratebay.org###details > div:nth-of-type(3) > .download:nth-of-type(1) > a[href^="//cdn.bitx.tv/bx.php"]
 thepiratebay.org###details > iframe
@@ -242,6 +394,7 @@ www.economist.com##div.advert--inline.incontent.advert:nth-of-type(4)
 www.economist.com##div.advert--inline.incontent.advert:nth-of-type(5)
 www.euro2day.gr##.gn-follow
 www.facebook.com###mobile_mirror_banner
+www.forbes.com##.data-viz__users
 www.france24.com##.o-ad-container--with-background.o-ad-container--banner-top.o-ad-container
 www.france24.com##.o-banana-split__ad-n-newsfeed.o-block-ad-n-newsfeed > .m-block-ad > .m-block-ad__content
 www.i2ocr.com###content > div
@@ -260,7 +413,6 @@ www.iefimerida.gr##div.inline-ad-wrapper:nth-of-type(3)
 www.iefimerida.gr##div.inline-ad-wrapper:nth-of-type(4)
 www.in.gr###videopwp
 www.in.gr##div.dfp-slot:nth-of-type(1)
-www.in.gr##[src="/wp-content/themes/ingr_v2/common/imgs/ingr_logo_pride.png"]
 www.liberal.gr##.banner728x90_billboard > .diafimisi.elm
 www.limetorrents.cc###content > table:nth-of-type(1) > tbody > tr > td:nth-of-type(1) > .torrentinfo > .downloadarea:nth-of-type(5)
 www.limetorrents.cc###content > table:nth-of-type(1) > tbody > tr > td:nth-of-type(1) > .torrentinfo > .downloadareabig:nth-of-type(3)
@@ -273,7 +425,7 @@ www.moneyreview.gr###nx-bill-placeholder
 www.moneyreview.gr##.ad-row.row
 www.moneyreview.gr##div.widget_nx_ads_widget.hide-mob:nth-of-type(1)
 www.msn.com###sticky-footer
-www.politico.eu##.sticky-footer.ad__mobile
+www.ot.gr###bottom-txc
 www.protothema.gr##.featImg.section > .wrapper
 www.protothema.gr##div.server-side-component.mceNonEditable.configurable-element.stickyBanner.bannerWrp:nth-of-type(1)
 www.reddit.com###change-username-tooltip-id>span:has-text(/Coin Sale/)
@@ -302,9 +454,17 @@ www.youtube.com###button > .ytd-notification-topbar-button-renderer.style-scope
 www.youtube.com###button > .ytd-topbar-menu-button-renderer.style-scope
 www.youtube.com###content > .branded-page-v2-secondary-column-hidden.branded-page-v2-has-top-row.branded-page-v2-container-flex-width.branded-page-base-bold-titles.branded-page-v2-container > .branded-page-v2-top-row > .yt-card.channel-header.branded-page-v2-header
 www.youtube.com###expand-ad
+youtube.com###masthead-ad
+youtube.com##+js(json-prune, 2.playerResponse.adPlacements playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds)
+youtube.com##+js(json-prune, 2.playerResponse.adPlacements)
+youtube.com##+js(json-prune, playerResponse.adPlacements)
+youtube.com##+js(json-prune, playerResponse.playerAds)
+youtube.com##+js(set, ytInitialPlayerResponse.adPlacements, null)
 youtube.com##div#theater-background.player-height
 yts.ag###at4-share
 yts.am##.ibox-bordered
+_backToTop.
+_site/gotop.
 |http://firsthottesttube.com/*
 ||adcash.com^
 ||adclickservice.com/$subdocument
@@ -315,8 +475,12 @@ yts.am##.ibox-bordered
 ||contentabc.com^
 ||crashlyticsreports-pa.googleapis.com^
 ||creative.wwwpromoter.com/*$subdocument
+||doubleclick.net^
 ||firebase-settings.crashlytics.com^
+||flashtalking.com$domain=youtube.com
 ||fleshlight-international.eu^
+||googleadservices.com
+||googlesyndication.com^
 ||kingplayer.com^
 ||m.imgur.com/public/assets/app-icon*.png
 ||mediaduke.net^
@@ -324,11 +488,13 @@ yts.am##.ibox-bordered
 ||mg.dt00.net/public/informers/torrents.2ru.html?rnd=409272
 ||mg.dt00.net/public/informers/torrents.2ru.html?rnd=571239
 ||mgid.com^
+||music.youtube.com^$csp=worker-src 'none'
 ||netbet.com^
 ||pornmaki.com^
 ||rapidgator.net/images/pics/36_300%D1%85250_1.gif$image
 ||rutrk.org/bn/skladchik/02/index.html$subdocument
 ||s.ynet.me/assets/images/website/vpno.jpg$image
+||s0.2mdn.net/ads
 ||safebrowsing.googleapis.com^
 ||sessions.bugsnag.com^
 ||sharelive.net^
@@ -342,9 +508,17 @@ yts.am##.ibox-bordered
 ||web.vortex.data.msn.com^
 ||www.bloomberg.com/subscription-offer$subdocument
 ||www.e-shop.gr/*g$image
+||www.google.*/pagead$domain=youtube.com
 ||www.i2ocr.com/images/patterns/wood.png$image
-||www.in.gr/*ingr_logo_pride.png$image
 ||www.limetorrents.cc/static/images/headerbg.png$image
+||www.youtube.com/api/stats
+||www.youtube.com/pagead
+||www.youtube.com/ptracking
+||www.youtube.com/[[computeEmptyGif_()]]$image
+||www.youtube.com/[[computeThumbnailUrl_(data.thumbnail)]]
+||www.youtube.com^$csp=worker-src 'none'
 ||yac.mx/ssc/images/*
 ||yts.am/211.gif$image
 ||yunbofangbt.com/96080.gif$image
+~gog.com##.footer-spacer:not(html, body)
+~schengenvisainfo.com##.vc_empty_space:not(html, body)
