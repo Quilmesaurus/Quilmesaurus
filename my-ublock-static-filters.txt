@@ -1058,3 +1058,4 @@ _site/gotop.
 ||[::]^$third-party,domain=~localhost|~127.0.0.1|~[::1]|~0.0.0.0|~[::]|~local
 ~gog.com##.footer-spacer:not(html, body)
 ~schengenvisainfo.com##.vc_empty_space:not(html, body)
+*##.banner-container
