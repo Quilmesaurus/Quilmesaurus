@@ -34,7 +34,6 @@
 ##horizontalspace
 ##p:-moz-only-whitespace
 ##p:empty
-##popup-push
 $removeparam=/^curator_clanid/,domain=steampowered.com|steamcommunity.com
 $removeparam=action_object_map
 $removeparam=action_ref_map
@@ -144,6 +143,7 @@ $removeparam=_openstat
 *###videopwp
 *##-scroll-to-top
 *##.appBackToTop
+*##.bannerWrp
 *##.entry-meta > .head-social > .social-icons-list
 *##.head-social
 *##.is-active.js-scrollButtons.u-scrollButtons
@@ -159,6 +159,7 @@ $removeparam=_openstat
 *##div.inline-ad-wrapper:nth-of-type(3)
 *##div.inline-ad-wrapper:nth-of-type(4)
 *##div.inline-ad-wrapper:nth-of-type(5)
+*##div.server-side-component.mceNonEditable.configurable-element.stickyBanner
 *##p:has-text(/^ $/):not(:has-text(/\S/)):not(:has(img))
 *##p:has-text(/^\xA0$/):not(:has-text(/\S/)):not(:has(img))
 *##p:has-text(/^\xA0\xA0$/):not(:has-text(/\S/)):not(:has(span))
@@ -180,7 +181,6 @@ $removeparam=_openstat
 *##[href*="vube.com"]
 *##[href*="www.appimat.com"]
 *##[href*="www.vitorrent.org"]
-*.stickyBanner
 */adsanity-ad-block-detection/public/js/*$script
 -scroll-to-top/
 .appBackToTop.
@@ -367,7 +367,6 @@ $removeparam=_openstat
 @@||c.digikey.com^|
 @@||calibre-ebook.com^$document
 @@||capital.gr^$document
-@@||cdn.cloudflare.steamstatic.com
 @@||cdn.privatehost.com/videos*/$removeparam
 @@||cindyholbrook.lpages.co^|
 @@||cj.dotomi.com^|
@@ -378,7 +377,6 @@ $removeparam=_openstat
 @@||clk*.tradedoubler.com^|
 @@||cm-beacon.nakanohito.jp^|
 @@||cm-widget.nakanohito.jp^|
-@@||Community.cloudflare.steamstatic.com
 @@||content.time.com^$document
 @@||cs.attiki-odos.gr^
 @@||cs.attiki-odos.gr^$document
@@ -407,7 +405,6 @@ $removeparam=_openstat
 @@||guce.advertising.com^
 @@||h-sdk.online-metrix.net^|
 @@||hb.afl.rakuten.co.jp^|
-@@||help.steampowered.com
 @@||howtogeek.com^$document
 @@||href.li^|
 @@||https://www.google.com/js/bg/*
@@ -419,7 +416,6 @@ $removeparam=_openstat
 @@||iptorrents.eu^$document
 @@||iptorrents.me^
 @@||iptorrents.me^$document
-@@||iptorrents.me^
 @@||kerdos.gr^$document
 @@||komputerswiat.pl/*&srcc=ucs$removeparam
 @@||kotaku.com/embed/comments$removeparam
@@ -461,7 +457,6 @@ $removeparam=_openstat
 @@||podnapisi.net^$document
 @@||pornolab.net^$document
 @@||projectwonderful.com/$document
-@@||protagongr.disqus.com^$domain=protagon.gr
 @@||proto2ad.durasite.net^|
 @@||przegladsportowy.pl/*&srcc=ucs$removeparam
 @@||pt.afl.rakuten.co.jp^|
@@ -475,9 +470,8 @@ $removeparam=_openstat
 @@||redlettermedia.com^$document
 @@||rightnowtech.com/engagement/api/consumer/nvidia/*/requestEngagement?pool=$removeparam
 @@||rsbakker.wordpress.com/$document
+@@||smbc-@@comics.com##IMG[onmousedown="showBlock(\"aftercomic\")"]
 @@||startpage.com^$document
-@@||steamcommunity.com
-@@||store.steampowered.com
 @@||str.hit.gemius.pl^|
 @@||subloader.com^$document
 @@||subscene.com^$document
@@ -684,7 +678,6 @@ _site/gotop.
 |http://firsthottesttube.com/*
 ||0.0.0.0^$third-party,domain=~localhost|~127.0.0.1|~[::1]|~0.0.0.0|~[::]|~local
 ||0x65.dev/static/img/social-icons/
-||10:33:02.339^$important
 ||ad.admitad.com^$removeparam=/^subid/
 ||ad.doubleclick.net/ddm/trackclk/$removeparam=/^dc_trk_/
 ||adcash.com^
@@ -965,7 +958,6 @@ _site/gotop.
 ||wargaming.net^
 ||web.de/logoutlounge$removeparam=p
 ||web.de^$removeparam=mc
-||web.facebook.com^$important
 ||web.setup.home^$third-party,domain=~localhost|~127.0.0.1|~[::1]|~0.0.0.0|~[::]|~local
 ||web.setup^$third-party,domain=~localhost|~127.0.0.1|~[::1]|~0.0.0.0|~[::]|~local
 ||web.vortex.data.microsoft.com^
@@ -1064,3 +1056,5 @@ _site/gotop.
 ||zerkalo.io^$removeparam=vk
 ||[::1]^$third-party,domain=~localhost|~127.0.0.1|~[::1]|~0.0.0.0|~[::]|~local
 ||[::]^$third-party,domain=~localhost|~127.0.0.1|~[::1]|~0.0.0.0|~[::]|~local
+~gog.com##.footer-spacer:not(html, body)
+~schengenvisainfo.com##.vc_empty_space:not(html, body)
