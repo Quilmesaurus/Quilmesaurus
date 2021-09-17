@@ -4252,6 +4252,7 @@
 0.0.0.0 ads1.mediacapital.pt
 0.0.0.0 ads1.msn.com
 0.0.0.0 ads1.rne.com
+0.0.0.0 ads1.textra.me
 0.0.0.0 ads1.virtual-nights.com
 0.0.0.0 ads10.speedbit.com
 0.0.0.0 ads12.vertamedia.com
@@ -4272,6 +4273,7 @@
 0.0.0.0 ads2.rne.com
 0.0.0.0 ads2.servebom.com
 0.0.0.0 ads2.techads.info
+0.0.0.0 ads2.textra.me
 0.0.0.0 ads2.virtual-nights.com
 0.0.0.0 ads2.webdrive.no
 0.0.0.0 ads2.xnet.cz
@@ -4290,6 +4292,7 @@
 0.0.0.0 ads3.eqads.com
 0.0.0.0 ads3.fingersoft.net
 0.0.0.0 ads3.gamecity.net
+0.0.0.0 ads3.textra.me
 0.0.0.0 ads3.virtual-nights.com
 0.0.0.0 ads30.adcolony.com
 0.0.0.0 ads31.vertamedia.com
@@ -4304,8 +4307,10 @@
 0.0.0.0 ads5-adnow.com
 0.0.0.0 ads5-noneu.truecaller.com
 0.0.0.0 ads5.sabah.com.tr
+0.0.0.0 ads5.textra.me
 0.0.0.0 ads5.virtual-nights.com
 0.0.0.0 ads6.gamecity.net
+0.0.0.0 ads6.textra.me
 0.0.0.0 ads7.gamecity.net
 0.0.0.0 adsaccount.appcpi.net
 0.0.0.0 adsafeprotected.com
@@ -7337,6 +7342,7 @@
 0.0.0.0 apps.ad-x.co.uk
 0.0.0.0 apps.admob.com
 0.0.0.0 apps.crowdtangle.com
+0.0.0.0 apps.metactrl.com
 0.0.0.0 apps.mobilityware.com
 0.0.0.0 apps.nexus.bazaarvoice.com
 0.0.0.0 apps.nielsen.com
@@ -38489,6 +38495,7 @@
 0.0.0.0 sessionapihk.veinteractive.com
 0.0.0.0 sessioncam.com
 0.0.0.0 sessionm.com
+0.0.0.0 sessions.bugsnag.com
 0.0.0.0 sessions.exchange
 0.0.0.0 sessionstack.com
 0.0.0.0 setbackrelishdivine.com
