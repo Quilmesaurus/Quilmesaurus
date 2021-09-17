@@ -37506,6 +37506,7 @@
 0.0.0.0 safe555.xyz
 0.0.0.0 safeattributeexcept.com
 0.0.0.0 safebrowsdv.com
+0.0.0.0 safebrowsing-cache.google.com
 0.0.0.0 safebrowsing.google.com
 0.0.0.0 safebrowsing.googleapis.com
 0.0.0.0 safedomkk.com
