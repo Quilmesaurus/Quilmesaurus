@@ -143,6 +143,7 @@ $removeparam=_openstat
 *###videopwp
 *##-scroll-to-top
 *##.appBackToTop
+*##.banner-container
 *##.bannerWrp
 *##.entry-meta > .head-social > .social-icons-list
 *##.head-social
@@ -915,6 +916,7 @@ _site/gotop.
 ||s3.amazonaws.com/cdn.aimtell.com$third-party
 ||s3.amazonaws.com/shopifyspmprod$third-party
 ||s4.reutersmedia.net/resources_v3/js/win-sharetools.
+||safebrowsing-cache.google.com^
 ||safebrowsing.googleapis.com^
 ||samsung.router^$third-party,domain=~localhost|~127.0.0.1|~[::1]|~0.0.0.0|~[::]|~local
 ||scoop.it/resources/img/hs/btn.
@@ -1058,4 +1060,3 @@ _site/gotop.
 ||[::]^$third-party,domain=~localhost|~127.0.0.1|~[::1]|~0.0.0.0|~[::]|~local
 ~gog.com##.footer-spacer:not(html, body)
 ~schengenvisainfo.com##.vc_empty_space:not(html, body)
-*##.banner-container
