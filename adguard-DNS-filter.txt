@@ -40742,6 +40742,7 @@
 ||stats.jpush.cn^
 ||stats.kaltura.com^
 ||stats.kumulos.com^
+||stats.lineageos.org^
 ||stats.lotlinx.com^
 ||stats.macmillanusa.com^
 ||stats.mako.co.il^
