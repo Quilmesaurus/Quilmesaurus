@@ -37508,6 +37508,7 @@
 ||safe555.xyz^
 ||safeattributeexcept.com^
 ||safebrowsdv.com^
+||safebrowsing-cache.google.com^
 ||safebrowsing.google.com^
 ||safebrowsing.googleapis.com^
 ||safedomkk.com^
