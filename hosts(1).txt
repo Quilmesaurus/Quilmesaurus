@@ -38163,6 +38163,7 @@
 0.0.0.0 secure.trust-guard.com
 0.0.0.0 secure.webconnect.net
 0.0.0.0 secureaddisplay.com
+0.0.0.0 secureads.g.doubleclick.net
 0.0.0.0 secureanalytic.com
 0.0.0.0 securebankapp.online
 0.0.0.0 secureboom.net
@@ -43735,6 +43736,7 @@
 0.0.0.0 tracking-amp.vnexpress.net
 0.0.0.0 tracking-config-service.glority.com
 0.0.0.0 tracking-opi.fonpit.de
+0.0.0.0 tracking-protection.cdn.mozilla.net
 0.0.0.0 tracking-rce.veeseo.com
 0.0.0.0 tracking-receiver.prod-general.stocard-backend.com
 0.0.0.0 tracking-server-prod-1.zenmxapps.com
