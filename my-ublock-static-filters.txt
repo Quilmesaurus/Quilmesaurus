@@ -534,12 +534,6 @@ cdn.mymemberspace.com/*
 cdn.technologyreview.com/_/dist/js/article.js
 cdn.tinypass.com*
 experience.tinypass.com*
-fapforfun.net###wpd-bubble-wrapper
-fapforfun.net##.clr.entry-content [href="https://fapforfun.net/fap-for-fun-vip"]
-fapforfun.net##.size-full.wp-image-27716.aligncenter
-fapforfun.net##.wpd-rating-wrap
-fapforfun.net##p:nth-of-type(12)
-fapforfun.net##p:nth-of-type(9)
 flashifyit.com##.pum-active.click_open.auto_open.popmake-overlay.pum-theme-default-theme.pum-theme-55647.pum-overlay.pum
 go.microsoft.com/fwlink/*
 gr.euronews.com##.u-show-for-xlarge.base-leaderboard--wallpaper.base-leaderboard--top.base-leaderboard
