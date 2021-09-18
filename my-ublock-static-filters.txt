@@ -1,3 +1,4 @@
+! Title: my ublock static filters
 ###.show.backToTop
 ###adblock-message
 ###dashboard_browser_nag
