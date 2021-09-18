@@ -129,6 +129,7 @@ $removeparam=_openstat
 *###ic_pagetop
 *###infiload-return-top
 *###lnkBackToTop
+*###popup-push
 *###scroll-to-top
 *###scroll-top
 *###scrollBtnTop
@@ -137,6 +138,7 @@ $removeparam=_openstat
 *###scrollup_button
 *###scroll_top
 *###simple-back-to-top
+*###slidebox
 *###td-scroll-up
 *###topbutton
 *###totop
@@ -149,6 +151,7 @@ $removeparam=_openstat
 *##.entry-meta > .head-social > .social-icons-list
 *##.head-social
 *##.is-active.js-scrollButtons.u-scrollButtons
+*##.lnkBackToTop
 *##.share-buttons
 *##.social-icons-list
 *##.sp-separator
@@ -651,6 +654,7 @@ www.reddit.com##div[style*=--Toaster-indicatorColor]:nth-ancestor(1)
 www.reporter.gr###pageWrapper > .header > .blockcenter > .clearfix > .logoPlc.headeritem > .clearfix > .socialIcons
 www.skai.gr###popup-push
 www.skai.gr###slidebox
+www.skai.gr##.lnkBackToTop
 www.thetimes.co.uk##.blkkuy.sc-iRbamj
 www.torrentleech.org###bottomSpacer
 www.torrentleech.org###downleft > .ui-corner-all.ui-widget-content.ui-widget
