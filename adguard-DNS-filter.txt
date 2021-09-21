@@ -16072,6 +16072,7 @@
 ||dnovaku.ru^
 ||dnoyrz.com^
 ||dns-clientinfo.cbsivideo.com^
+||dns.google^
 ||dnsdelegation.io^
 ||dnskuu.com^
 ||dnsseed.bitcoin.dashjr.org^
@@ -27938,6 +27939,9 @@
 ||masdpanalytics.azureedge.net^
 ||masersannups.com^
 ||mashtourgaunt.com^
+||mask-h2.icloud.com^
+||mask.apple-dns.net^
+||mask.icloud.com^
 ||maskbaby.com.cn^
 ||masklink.org^
 ||masktoelevity.com^

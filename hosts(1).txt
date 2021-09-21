@@ -16071,6 +16071,7 @@
 0.0.0.0 dnovaku.ru
 0.0.0.0 dnoyrz.com
 0.0.0.0 dns-clientinfo.cbsivideo.com
+0.0.0.0 dns.google
 0.0.0.0 dnsdelegation.io
 0.0.0.0 dnskuu.com
 0.0.0.0 dnsseed.bitcoin.dashjr.org
@@ -27937,6 +27938,9 @@
 0.0.0.0 masdpanalytics.azureedge.net
 0.0.0.0 masersannups.com
 0.0.0.0 mashtourgaunt.com
+0.0.0.0 mask-h2.icloud.com
+0.0.0.0 mask.apple-dns.net
+0.0.0.0 mask.icloud.com
 0.0.0.0 maskbaby.com.cn
 0.0.0.0 masklink.org
 0.0.0.0 masktoelevity.com
