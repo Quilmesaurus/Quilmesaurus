@@ -6858,6 +6858,7 @@
 0.0.0.0 api.cazamba.com
 0.0.0.0 api.chartbeat.com
 0.0.0.0 api.cleverpush.com
+0.0.0.0 api.cloud.tenda.com.cn
 0.0.0.0 api.cloudmobi.net
 0.0.0.0 api.company-target.com
 0.0.0.0 api.connecto.io

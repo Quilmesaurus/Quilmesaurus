@@ -6859,6 +6859,7 @@
 ||api.cazamba.com^
 ||api.chartbeat.com^
 ||api.cleverpush.com^
+||api.cloud.tenda.com.cn^
 ||api.cloudmobi.net^
 ||api.company-target.com^
 ||api.connecto.io^
