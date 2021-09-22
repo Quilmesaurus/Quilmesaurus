@@ -24888,6 +24888,7 @@
 ||js.casalemedia.com^
 ||js.ccmeng.com^
 ||js.colo2.jp^
+||js.driftt.com^
 ||js.duotegame.com^
 ||js.fout.jp^
 ||js.gdsln.ru^
