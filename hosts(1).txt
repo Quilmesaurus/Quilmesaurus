@@ -40468,6 +40468,7 @@
 0.0.0.0 stat.torrentbar.com
 0.0.0.0 stat.tvigle.ru
 0.0.0.0 stat.uitools.space
+0.0.0.0 stat.uptodown.com
 0.0.0.0 stat.ustore.bz
 0.0.0.0 stat.valica.it
 0.0.0.0 stat.videonow.ru

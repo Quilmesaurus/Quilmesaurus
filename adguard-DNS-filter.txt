@@ -40469,6 +40469,7 @@
 ||stat.torrentbar.com^
 ||stat.tvigle.ru^
 ||stat.uitools.space^
+||stat.uptodown.com^
 ||stat.ustore.bz^
 ||stat.valica.it^
 ||stat.videonow.ru^
