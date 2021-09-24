@@ -38,6 +38,7 @@
 @@||8pecxstudios.com^
 @@||9to5google.com^
 @@||a-msedge.net^
+@@||a.adwolf.ru^|
 @@||a.disquscdn.com^
 @@||a.pomf.se^
 @@||a.sellpoint.net^
@@ -52,6 +53,7 @@
 @@||accounts.about-scheme^
 @@||accounts.firefox.com^
 @@||accounts.google.com^
+@@||accounts.google.com^$document
 @@||accounts.spotify.com^
 @@||accuweather.com^
 @@||acdn.adnxs.com^
@@ -68,9 +70,12 @@
 @@||adblock.gjtech.net^
 @@||adblock.mahakala.is^
 @@||adblockplus.org^
+@@||adblockplus.org^$document
 @@||addic7ed.com^
 @@||addons.about-scheme^
+@@||addons.mozilla.org^$document
 @@||addons.prestashop.com^
+@@||addons.videolan.org^$document
 @@||adf.ly^
 @@||adfoc.us^
 @@||adguard.com^
@@ -107,6 +112,7 @@
 @@||amazon.co.jp^
 @@||amazon.co.uk^
 @@||amazon.com^
+@@||amazon.com^$document
 @@||amazon.de^
 @@||amazon.es^
 @@||amazon.fr^
@@ -122,6 +128,7 @@
 @@||androidfilehost.com^
 @@||androidforums.com^
 @@||androidpolice.com^
+@@||androidpolice.com^$document
 @@||anepigone.blogspot.com^
 @@||anepigone.blogspot.gr^
 @@||angel.co^
@@ -131,6 +138,7 @@
 @@||answers.com^
 @@||answers.yahoo.com^
 @@||aodos.gr^
+@@||aodos.gr^$document
 @@||aolcdn.com^
 @@||ap.spotify.com^
 @@||api-ep.worldweatheronline.com^
@@ -169,6 +177,7 @@
 @@||ask.fm^
 @@||askubuntu.com^
 @@||askvg.com^
+@@||askvg.com^$document
 @@||aspnetcdn.com^
 @@||asset.wsj.net^
 @@||assets.adobedtm.com^
@@ -191,10 +200,12 @@
 @@||az764295.vo.msecnd.net^
 @@||b.marfeelcache.com^
 @@||b2bapi.zee5.com^
+@@||bakabt.me/$document
 @@||bakabt.me^
 @@||baltimore.cbslocal.com^
 @@||bane.wikia.com^
 @@||banner.eisys-bcs.jp^
+@@||bay01.calendar.live.com^$document
 @@||bbci.co.uk^
 @@||bbs.archlinux.org^
 @@||bc.marfeelcache.com^
@@ -213,6 +224,7 @@
 @@||bing.co.uk^
 @@||bing.com.br^
 @@||bing.com^
+@@||bing.com^$document
 @@||bing.cz^
 @@||bing.es^
 @@||bing.fi^
@@ -234,10 +246,12 @@
 @@||bleacherreport.com^
 @@||bleepingcomputer.com^
 @@||blip.tv^
+@@||blip.tv^$document
 @@||block.energized.pro^
 @@||blocklist.kowabit.de^
 @@||blog.dictionary.com^
 @@||blog.jim.com^
+@@||blog.kowalczyk.info/$document
 @@||blog.kowalczyk.info^
 @@||blog.logrocket.com^
 @@||blog.sessionstack.com^
@@ -258,6 +272,8 @@
 @@||bt.com^
 @@||business.officedepot.com.edgekey.net^
 @@||businessinsider.com^
+@@||businessinsider.com^$elemhide
+@@||buy.xmarks.com^$document
 @@||buzzfeed.com^
 @@||c.digikey.com^
 @@||c.disquscdn.com^
@@ -265,8 +281,10 @@
 @@||c.trello.com^
 @@||calendar.google.com^
 @@||calibre-ebook.com^
+@@||calibre-ebook.com^$document
 @@||calomel.org^
 @@||capital.gr^
+@@||capital.gr^$document
 @@||cc-dt.com^
 @@||ccleaner.com^
 @@||cda.pl^
@@ -370,6 +388,7 @@
 @@||content-icc.pulselive.com^
 @@||content.dropboxapi.com^
 @@||content.jwplatform.com^
+@@||content.time.com^$document
 @@||contributions.guardianapis.comn^
 @@||convertkit.com^
 @@||corp.kaltura.com^
@@ -387,6 +406,7 @@
 @@||crunchbase.com^
 @@||cryptostorm.is^
 @@||cryptostorm.org^
+@@||cs.attiki-odos.gr^$document
 @@||cs.silverpop.com^
 @@||cs22.wpc.v0cdn.net^
 @@||cs9.wac.phicdn.net^
@@ -428,6 +448,7 @@
 @@||dictionary.reference.com^
 @@||digg.com^
 @@||digitaltrends.com^
+@@||dilbert.com/$document
 @@||dilbert.com^
 @@||directvapplications.hb.omtrdc.net^
 @@||directvnow.com^
@@ -466,7 +487,9 @@
 @@||drop.ndtv.com.edgekey.net^
 @@||dropbox.com^
 @@||dropboxwiki.com^
+@@||dub120.mail.live.com^$document
 @@||duckduckgo.com^
+@@||duckduckgo.com^$document
 @@||dweb.link^
 @@||e-hentai.org^
 @@||ea.com^
@@ -478,6 +501,7 @@
 @@||ebayimg.com^
 @@||ebayrtm.com^
 @@||ebaystatic.com^
+@@||ebook.online-convert.com/$document
 @@||ebook.online-convert.com^
 @@||ec-ns.sascdn.com^
 @@||ecx.images-amazon.com^
@@ -528,6 +552,7 @@
 @@||feed.adrelayer.com^
 @@||feedburner.google.com^
 @@||feedly.com^
+@@||feedly.com^$document
 @@||feedproxy.google.com^
 @@||feeds2.feedburner.com^
 @@||fg.download.windowsupdate.com.c.footprint.net^
@@ -580,6 +605,7 @@
 @@||freebsd.org^
 @@||freenet.de^
 @@||freewaregenius.com^
+@@||freewaregenius.com^$document
 @@||frys.com^
 @@||fte.web.future.net.uk^
 @@||ftp.heanet.ie^
@@ -591,6 +617,7 @@
 @@||gamestailer94.de^
 @@||gap.com^
 @@||gatesofvienna.net^
+@@||gawker.com/$document
 @@||gawker.com^
 @@||gazeta.pl^
 @@||gearbest.com^
@@ -602,6 +629,7 @@
 @@||getstrike.net^
 @@||gfycat.com^
 @@||ghacks.net^
+@@||ghacks.net^$document
 @@||gigaom.com^
 @@||giphy.com^
 @@||git.io^
@@ -609,6 +637,7 @@
 @@||gitcdn.xyz^
 @@||gitee.com^
 @@||github.com^
+@@||github.com^$document
 @@||github.io^
 @@||githubusercontent.com^
 @@||gitlab.com^
@@ -686,6 +715,7 @@
 @@||houston.cbslocal.com^
 @@||howtoforge.com^
 @@||howtogeek.com^
+@@||howtogeek.com^$document
 @@||href.li^
 @@||https-everywhere.s3.brave.com^
 @@||hub.docker.com^
@@ -749,7 +779,9 @@
 @@||ipleak.net^
 @@||iptorrents.com^
 @@||iptorrents.eu^
+@@||iptorrents.eu^$document
 @@||iptorrents.me^
+@@||iptorrents.me^$document
 @@||iptorrents.ru^
 @@||ipv6.ndtv.com.edgekey.net^
 @@||iqdb.org^
@@ -775,6 +807,7 @@
 @@||katfile.com^
 @@||kathimerini.newspaperdirect.com^
 @@||kerdos.gr^
+@@||kerdos.gr^$document
 @@||keystone.mwbsys.com^
 @@||khanacademy.org^
 @@||kickass.so^
@@ -801,6 +834,7 @@
 @@||ladyfootlocker.com^
 @@||laposte.net^
 @@||lastpass.com^
+@@||lastpass.com^$document
 @@||lasvegas.cbslocal.com^
 @@||latimes.com^
 @@||launches.appsflyer.com^
@@ -811,6 +845,7 @@
 @@||lh5.google.com^
 @@||lh6.google.com^
 @@||liamja.co.uk^
+@@||liamja.co.uk^$document
 @@||licdn.com^
 @@||lifehack.org^
 @@||lifehacker.com^
@@ -833,6 +868,7 @@
 @@||log.mmstat.com^
 @@||login.msa.akadns6.net^
 @@||login.sendpulse.com^
+@@||login.xmarks.com^$document
 @@||logincdn.msauth.net^
 @@||logmein-gateway.com^
 @@||logmein.com^
@@ -854,6 +890,7 @@
 @@||mail.yahoo.com^
 @@||mail01.tinyletterapp.com^
 @@||mailcatch.com^
+@@||mailcatch.com^$document
 @@||majorgeeks.com^
 @@||makerdevs.com^
 @@||malcolmpollack.com^
@@ -868,6 +905,7 @@
 @@||market.spotify.com^
 @@||marketwatch.com^
 @@||mashable.com^
+@@||mashable.com^$document
 @@||maxcdn.bootstrapcdn.com^
 @@||maxthon.com^
 @@||mboxedge22.tt.omtrdc.net^
@@ -919,14 +957,18 @@
 @@||msg.edit.yahoo.com^
 @@||msg.yahoo.com^
 @@||msn.com^
+@@||msn.com^$document
 @@||multiup.org^
 @@||my.jdownloader.org^
 @@||my.plexapp.com^
 @@||my.tealiumiq.com^
 @@||my.vmware.com^
+@@||my.xmarks.com^$document
 @@||myanonamouse.net^
+@@||myanonamouse.net^$document
 @@||myshadow.org^
 @@||mywot.com^
+@@||mywot.com^$document
 @@||mzstatic.com^
 @@||namecheap.com^
 @@||namu.wiki^
@@ -971,12 +1013,14 @@
 @@||nk.pl^
 @@||no-ip.com^
 @@||node.plexapp.com^
+@@||nonadventures.com/$document
 @@||nonadventures.com^
 @@||nordvpn.com^
 @@||notifications.google.com^
 @@||npmjs.com^
 @@||npr-news.streaming.adswizz.com^
 @@||npr.org^
+@@||nqhf001.dediseedbox.com^$document
 @@||nsatc.net^
 @@||nt3.ggpht.com^
 @@||ntlea.codeplex.com^
@@ -987,6 +1031,7 @@
 @@||nypost.com^
 @@||nytimes.com^
 @@||oaee.gr^
+@@||oaee.gr^$document
 @@||oauth.reddit.comm^
 @@||oboom.com^
 @@||observer.com^
@@ -1001,6 +1046,7 @@
 @@||officedepot.com^
 @@||official.paymaya.com^
 @@||offliberty.com^
+@@||offliberty.com^$document
 @@||ogs.google.com^
 @@||ojrq.net^
 @@||ola.com^
@@ -1008,6 +1054,7 @@
 @@||oladblock.services^
 @@||oladblock.xyz^
 @@||oldpiratebay.org^
+@@||oldpiratebay.org^$document
 @@||oload.cc^
 @@||oload.cloud^
 @@||oload.club^
@@ -1044,6 +1091,7 @@
 @@||openload.pw^
 @@||openloed.co^
 @@||openmailbox.org^
+@@||openmailbox.org^$document
 @@||opensubtitles.org^
 @@||opentrackers.org^
 @@||openuserjs.org^
@@ -1063,6 +1111,7 @@
 @@||partners.webmasterplan.com^
 @@||pathe.emsecure.net^
 @@||paypal.com^
+@@||paypal.com^$document
 @@||paypal.de^
 @@||paytm.com^
 @@||people.com^
@@ -1073,6 +1122,7 @@
 @@||philadelphia.cbslocal.com^
 @@||phishing.mailscanner.info^
 @@||phonearena.com^
+@@||phonearena.com^$document
 @@||photos.google.com^
 @@||pi-hole.net^
 @@||pi.hole^
@@ -1083,6 +1133,7 @@
 @@||pinimg.com^
 @@||piratebaymirrors.com^
 @@||pittsburgh.cbslocal.com^
+@@||pixlr.com$generichide
 @@||pjatr.com^
 @@||pjtra.com^
 @@||pkobp.pl^
@@ -1090,6 +1141,7 @@
 @@||play.google.com^
 @@||play.lego.com^
 @@||play.spotify.com^
+@@||play.spotify.com^$document
 @@||play.spotify.edgekey.net^
 @@||playboard.me^
 @@||player.pl^
@@ -1109,8 +1161,10 @@
 @@||pntrack.com^
 @@||pochta.ru^
 @@||podnapisi.net^
+@@||podnapisi.net^$document
 @@||pool.ntp.org^
 @@||pornolab.net^
+@@||pornolab.net^$document
 @@||pornscum.com^
 @@||postimage.org^
 @@||preferences.about-scheme^
@@ -1118,6 +1172,7 @@
 @@||prnt.sc^
 @@||prod.telemetry.ros.rockstargames.com^
 @@||projectgus.com^
+@@||projectwonderful.com/$document
 @@||projectwonderful.com^
 @@||promodj.com^
 @@||prostovpn.org^
@@ -1134,17 +1189,20 @@
 @@||pubsub.plex.bz^
 @@||purch.com^
 @@||pushbullet.com^
+@@||pushbullet.com^$document
 @@||q.stripe.com^
 @@||qksrv.net^
 @@||quora.com^
 @@||qwant.com^
 @@||radd.it^
+@@||radd.it^$document
 @@||radiofrance.targetspot.com^
 @@||radiostacja.pl^
 @@||raindrop.io^
 @@||rapidgator.net^
 @@||rapidvideo.com^
 @@||rarbg.com^
+@@||rarbg.com^$document
 @@||rarbgproxy.org^
 @@||raspberrytips.com^
 @@||raw.githack.com^
@@ -1152,6 +1210,7 @@
 @@||rawgit.com^
 @@||raymondhill.net^
 @@||readability.com^
+@@||readability.com^$document
 @@||real-debrid.com^
 @@||recaptcha.net^
 @@||redditlist.com^
@@ -1164,6 +1223,7 @@
 @@||redirectingat.com^
 @@||redirector.gvt1.com^
 @@||redlettermedia.com^
+@@||redlettermedia.com^$document
 @@||reebok.com^
 @@||refersion.com^
 @@||reg2.bluemailapp.com^
@@ -1175,6 +1235,7 @@
 @@||road.adblock.ro^
 @@||roku.com^
 @@||router.lan^
+@@||rsbakker.wordpress.com/$document
 @@||rt.com^
 @@||rukminim1.flixcart.com^
 @@||rutube.ru^
@@ -1277,6 +1338,7 @@
 @@||stanev.org^
 @@||starbucks.com^
 @@||startpage.com^
+@@||startpage.com^$document
 @@||starwars.wikia.com^
 @@||statebankrewardz.com^
 @@||static-asm.secure.skypeassets.com^
@@ -1299,8 +1361,11 @@
 @@||strawpoll.me^
 @@||strefa.fm^
 @@||subloader.com^
+@@||subloader.com^$document
 @@||subscene.com^
+@@||subscene.com^$document
 @@||sumatrapdfreader.org^
+@@||sumatrapdfreader.org^$document
 @@||support.dnsimple.com^
 @@||support.theguardian.com^
 @@||surveymonkey.com^
@@ -1340,6 +1405,7 @@
 @@||the.earth.li^
 @@||theandroidsoul.com^
 @@||thechive.com^
+@@||thedoghousediaries.com/$document
 @@||thedoghousediaries.com^
 @@||thedroidreview.com^
 @@||thefreethoughtproject.com^
@@ -1349,6 +1415,7 @@
 @@||themoviedb.com^
 @@||thenextweb.com^
 @@||theonion.com^
+@@||theonion.com^$document
 @@||thepiratebay.am^
 @@||thepiratebay.gd^
 @@||thepiratebay.gs^
@@ -1388,10 +1455,12 @@
 @@||torrent-finder.info^
 @@||torrentbytes.net^
 @@||torrentfreak.com^
+@@||torrentfreak.com^$document
 @@||torrents.yourexotic.com^
 @@||torrentshack.me^
 @@||toysrus.com^
 @@||tplinkextender.net^
+@@||tplinkextender.net^$document
 @@||tr4.cbsistatic.com^
 @@||track.adform.net^
 @@||track.rutarget.ru^
@@ -1415,6 +1484,7 @@
 @@||tvp.pl^
 @@||tvthemes.plexapp.com^
 @@||tvtropes.org^
+@@||tvtropes.org^$document
 @@||tweakhound.com^
 @@||twimg.com^
 @@||u.nya.is^
@@ -1422,6 +1492,7 @@
 @@||ubuntuforums.org^
 @@||ufile.io^
 @@||uid.si^
+@@||uid.si^$document
 @@||uj3wazyk5u4hnvtk.onion.link^
 @@||underarmour.scene7.com^
 @@||unibytes.com^
@@ -1442,7 +1513,9 @@
 @@||userapi.zee5.com-v4.edgekey.net^
 @@||userscloud.com^
 @@||userscripts-mirror.org^
+@@||userscripts.org/$document
 @@||userscripts.org^
+@@||userstyles.org/$document
 @@||userstyles.org^
 @@||v.firebog.net^
 @@||vanilla.futurecdn.net^
@@ -1488,6 +1561,7 @@
 @@||watchmojo.com^
 @@||wccftech.com^
 @@||weather.com^
+@@||weather.com^$document
 @@||weather.gr^
 @@||weatherunlocked.com^
 @@||web.de^
@@ -1537,6 +1611,7 @@
 @@||www.armyvoice.gr^
 @@||www.asiatorrents.me^
 @@||www.avclub.com^
+@@||www.baka-tsuki.org/$document
 @@||www.baka-tsuki.org^
 @@||www.balena.io^
 @@||www.barbariankeep.com^
@@ -1598,6 +1673,7 @@
 @@||www.kathimerini.gr^
 @@||www.kungfucinema.com^
 @@||www.lidl-hellas.gr^
+@@||www.ma3comic.com/$document
 @@||www.ma3comic.com^
 @@||www.malekal.com^
 @@||www.malwarebytes.com^
@@ -1644,8 +1720,10 @@
 @@||www.rottentomatoes.com^
 @@||www.rpgmakerweb.com^
 @@||www.safaribooksonline.com^
+@@||www.sankakucomplex.com/$document
 @@||www.sankakucomplex.com^
 @@||www.secure.pixiv.net^
+@@||www.shadbase.com/$document
 @@||www.shadbase.com^
 @@||www.skai.gr^
 @@||www.skroutz.gr^
@@ -1659,11 +1737,13 @@
 @@||www.srsroot.com^
 @@||www.stardock.com^
 @@||www.tanea.gr^
+@@||www.tanea.gr^$document
 @@||www.tatacliq.com.edgekey.net^
 @@||www.techdirt.com^
 @@||www.techperiod.com^
 @@||www.techsupportalert.com^
 @@||www.teesoft.info^
+@@||www.the-editing-room.com/$document
 @@||www.the-editing-room.com^
 @@||www.theguardian.com^
 @@||www.theoccidentalobserver.net^
@@ -1673,6 +1753,7 @@
 @@||www.torrentdownloads.me^
 @@||www.torrents.to^
 @@||www.tovima.gr^
+@@||www.tovima.gr^$document
 @@||www.trueactivist.com^
 @@||www.typewise.app^
 @@||www.unz.com^
@@ -1695,6 +1776,7 @@
 @@||wyspagier.pl^
 @@||x.kinja-static.com^
 @@||xboxlive.com^
+@@||xkcd.com/$document
 @@||xkcd.com^
 @@||xkms.xbolive.com^
 @@||xmarks.com^
@@ -1704,6 +1786,7 @@
 @@||yandex.ru^
 @@||yastatic.net^
 @@||yifysubtitles.com^
+@@||yifysubtitles.com^$document
 @@||youtu.be^
 @@||youtube-dl.org^
 @@||youtube-nocookie.com^
