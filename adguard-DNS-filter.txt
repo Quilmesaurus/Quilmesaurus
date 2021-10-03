@@ -3894,6 +3894,7 @@
 ||ads.everesttech.net^
 ||ads.exactdrive.com^
 ||ads.expat-blog.biz^
+||ads.facebook.com^
 ||ads.fairfax.com.au^
 ||ads.farakav.com^
 ||ads.fastcomgroup.it^
@@ -6427,6 +6428,7 @@
 ||analytics.nike.com^
 ||analytics.ns1.ff.avast.com^
 ||analytics.omniscientai.com^
+||analytics.oneplus.cn^
 ||analytics.onlyonlinemarketing.com^
 ||analytics.ooyala.com^
 ||analytics.optilead.co.uk^
@@ -10389,6 +10391,7 @@
 ||browser-updater.yandex.net^
 ||browser.events.data.microsoft.com^
 ||browser.events.data.msn.com^
+||browser.sentry-cdn.com^
 ||browser1.ru^
 ||browsercollector.oneapm.com^
 ||browsermine.com^
@@ -38145,6 +38148,7 @@
 ||samiana.com^
 ||sample-api-v2.crazyegg.com^
 ||samplerpouch.com^
+||samsung-com.112.2o7.net^
 ||samsungacr.com^
 ||samsungadhub.com^
 ||samsungads.com^
@@ -49703,6 +49707,7 @@
 ||yourwebbars.com^
 ||yousee.com^
 ||youshouge513.cn^
+||youtube.cleverads.vn^
 ||youtube2top.com^
 ||youtubex.top^
 ||youvisit.com^
