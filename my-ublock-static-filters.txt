@@ -400,6 +400,7 @@ $removeparam=_openstat
 @@||ebook.online-convert.com/$document
 @@||email.corp.skyeng.ru^|
 @@||fakt.pl/*&srcc=ucs$removeparam
+@@||fapforfun.net^
 @@||feed.adrelayer.com^|
 @@||feedly.com^$document
 @@||forum.notebookreview.com^|
