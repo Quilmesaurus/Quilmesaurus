@@ -180,7 +180,6 @@ $removeparam=_openstat
 *##[href*="juicyads.com"]
 *##[href*="media.888.com"]
 *##[href*="netbet.com"]
-*##[href*="ouo.io"]
 *##[href*="pornmaki.com"]
 *##[href*="privacy.microsoft.com"]
 *##[href*="stoiximan.gr"]
