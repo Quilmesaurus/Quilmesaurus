@@ -146,6 +146,8 @@ $removeparam=_openstat
 *###totop
 *###to_pagetop
 *###videopwp
+*###wpd-bubble-all-comments-count
+*###wpd-bubble-count
 *##-scroll-to-top
 *##.appBackToTop
 *##.banner-container
