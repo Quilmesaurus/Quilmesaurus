@@ -360,6 +360,7 @@ $removeparam=_openstat
 @@||amazon.com^$document
 @@||androidpolice.com^$document
 @@||aodos.gr^$document
+@@||api.nextgen.guardianapps.co.uk^
 @@||apis.google.com/js/plusone.js$domain=abcnews.go.com
 @@||app.adjust.com^|
 @@||arch.b4k.co^
@@ -395,6 +396,7 @@ $removeparam=_openstat
 @@||cm-widget.nakanohito.jp^|
 @@||community.cloudflare.steamstatic.com
 @@||content.time.com^$document
+@@||contributions.guardianapis.com^
 @@||cs.attiki-odos.gr^
 @@||cs.attiki-odos.gr^$document
 @@||cs.silverpop.com^|
@@ -473,6 +475,7 @@ $removeparam=_openstat
 @@||omniture.walmart.com^|
 @@||onet.pl/?utm_source=$removeparam
 @@||openmailbox.org^$document
+@@||ophan.theguardian.com^
 @@||pathe.emsecure.net^|
 @@||paypal.com^
 @@||paypal.com^$document
@@ -498,6 +501,7 @@ $removeparam=_openstat
 @@||rightnowtech.com/engagement/api/consumer/nvidia/*/requestEngagement?pool=$removeparam
 @@||rsbakker.wordpress.com/$document
 @@||smbc-@@comics.com##IMG[onmousedown="showBlock(\"aftercomic\")"]
+@@||sourcepoint.theguardian.com^
 @@||startpage.com^$document
 @@||steamcommunity.com
 @@||store.steampowered.com
