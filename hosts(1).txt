@@ -14976,6 +14976,7 @@
 0.0.0.0 contrarysignificancedolls.com
 0.0.0.0 contretaillames.site
 0.0.0.0 contribusourcesyndication.com
+0.0.0.0 contributions.guardianapis.com
 0.0.0.0 contributiont.biz
 0.0.0.0 contributorshaveangry.com
 0.0.0.0 contried.com
@@ -24573,6 +24574,7 @@
 0.0.0.0 grapefruitlifestyle.com
 0.0.0.0 grapeshot.co.uk
 0.0.0.0 graph.bluecava.com
+0.0.0.0 graph.facebook.com
 0.0.0.0 graph.gcloud.bluecava.com
 0.0.0.0 grapheffect.com
 0.0.0.0 graphicuseless.com
@@ -25043,6 +25045,7 @@
 0.0.0.0 h.imedia.cz
 0.0.0.0 h.mobcells.com
 0.0.0.0 h.online-metrix.net
+0.0.0.0 h.ophan.co.uk
 0.0.0.0 h.parrable.com
 0.0.0.0 h.seznam.cz
 0.0.0.0 h0.t.hubspotemail.net
@@ -39580,6 +39583,7 @@
 0.0.0.0 pnhdnlrzwu.com
 0.0.0.0 pnhtmagmhbu.com
 0.0.0.0 pnmoclqxtcsbw.com
+0.0.0.0 pnp.aptoide.com
 0.0.0.0 pnrblholty.com
 0.0.0.0 pnrt-stsdk.vivo.com.cn
 0.0.0.0 pnrt.stsdk.vivo.com.cn
@@ -41567,6 +41571,7 @@
 0.0.0.0 qualityofeve.biz
 0.0.0.0 qualitypageviews.com
 0.0.0.0 quallyrimers.com
+0.0.0.0 qualtrics.com
 0.0.0.0 quan7.cc
 0.0.0.0 quandangdang.net
 0.0.0.0 quandarydisadvantage.com
@@ -65927,6 +65932,7 @@
 0.0.0.0 zmuphhlienv.com
 0.0.0.0 zmusic-online.com
 0.0.0.0 zmyuer.com
+0.0.0.0 zn1ynnliufrct75cb-paypalxm.siteintercept.qualtrics.com
 0.0.0.0 znaptag.com
 0.0.0.0 znbdr.com
 0.0.0.0 zncat.cn

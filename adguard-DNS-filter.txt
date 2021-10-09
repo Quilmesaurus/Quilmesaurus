@@ -14977,6 +14977,7 @@
 ||contrarysignificancedolls.com^
 ||contretaillames.site^
 ||contribusourcesyndication.com^
+||contributions.guardianapis.com^
 ||contributiont.biz^
 ||contributorshaveangry.com^
 ||contried.com^
@@ -24574,6 +24575,7 @@
 ||grapefruitlifestyle.com^
 ||grapeshot.co.uk^
 ||graph.bluecava.com^
+||graph.facebook.com^
 ||graph.gcloud.bluecava.com^
 ||grapheffect.com^
 ||graphicuseless.com^
@@ -25044,6 +25046,7 @@
 ||h.imedia.cz^
 ||h.mobcells.com^
 ||h.online-metrix.net^
+||h.ophan.co.uk^
 ||h.parrable.com^
 ||h.seznam.cz^
 ||h0.t.hubspotemail.net^
@@ -39581,6 +39584,7 @@
 ||pnhdnlrzwu.com^
 ||pnhtmagmhbu.com^
 ||pnmoclqxtcsbw.com^
+||pnp.aptoide.com^
 ||pnrblholty.com^
 ||pnrt-stsdk.vivo.com.cn^
 ||pnrt.stsdk.vivo.com.cn^
@@ -41568,6 +41572,7 @@
 ||qualityofeve.biz^
 ||qualitypageviews.com^
 ||quallyrimers.com^
+||qualtrics.com^
 ||quan7.cc^
 ||quandangdang.net^
 ||quandarydisadvantage.com^
@@ -65928,6 +65933,7 @@
 ||zmuphhlienv.com^
 ||zmusic-online.com^
 ||zmyuer.com^
+||zn1ynnliufrct75cb-paypalxm.siteintercept.qualtrics.com^
 ||znaptag.com^
 ||znbdr.com^
 ||zncat.cn^
