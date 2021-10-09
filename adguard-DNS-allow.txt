@@ -39,6 +39,7 @@
 @@||9to5google.com^
 @@||a-msedge.net^
 @@||a.4cdn.org^
+@@||a.adwolf.ru^
 @@||a.adwolf.ru^|
 @@||a.disquscdn.com^
 @@||a.pomf.se^
@@ -75,8 +76,10 @@
 @@||adblockplus.org^$document
 @@||addic7ed.com^
 @@||addons.about-scheme^
+@@||addons.mozilla.org^
 @@||addons.mozilla.org^$document
 @@||addons.prestashop.com^
+@@||addons.videolan.org^
 @@||addons.videolan.org^$document
 @@||adf.ly^
 @@||adfoc.us^
@@ -214,6 +217,7 @@
 @@||baltimore.cbslocal.com^
 @@||bane.wikia.com^
 @@||banner.eisys-bcs.jp^
+@@||bay01.calendar.live.com^
 @@||bay01.calendar.live.com^$document
 @@||bbci.co.uk^
 @@||bbs.archlinux.org^
@@ -284,6 +288,7 @@
 @@||businessinsider.com.pl/*&srcc=ucs$removeparam
 @@||businessinsider.com^
 @@||businessinsider.com^$elemhide
+@@||buy.xmarks.com^
 @@||buy.xmarks.com^$document
 @@||buzzfeed.com^
 @@||c.digikey.com^
@@ -413,8 +418,10 @@
 @@||content-icc.pulselive.com^
 @@||content.dropboxapi.com^
 @@||content.jwplatform.com^
+@@||content.time.com^
 @@||content.time.com^$document
 @@||contributions.guardianapis.comn^
+@@||contributions.guardianapis.com^
 @@||convertkit.com^
 @@||corp.kaltura.com^
 @@||cosmopolitan.com^
@@ -515,6 +522,7 @@
 @@||drop.ndtv.com.edgekey.net^
 @@||dropbox.com^
 @@||dropboxwiki.com^
+@@||dub120.mail.live.com^
 @@||dub120.mail.live.com^$document
 @@||duckduckgo.com^
 @@||duckduckgo.com^$document
@@ -797,6 +805,7 @@
 @@||images.pluto.tv^
 @@||images.theconversation.com^
 @@||imagesak.secureserver.net^
+@@||imasdk.googleapis.com^
 @@||imasdk.googleapis.com^|
 @@||imdb.com^
 @@||img.brightcove.com^
@@ -926,6 +935,7 @@
 @@||login.msa.akadns6.net^
 @@||login.sendpulse.com^
 @@||login.sendpulse.com^|
+@@||login.xmarks.com^
 @@||login.xmarks.com^$document
 @@||logincdn.msauth.net^
 @@||logmein-gateway.com^
@@ -1023,6 +1033,7 @@
 @@||my.tealiumiq.com^
 @@||my.tealiumiq.com^|
 @@||my.vmware.com^
+@@||my.xmarks.com^
 @@||my.xmarks.com^$document
 @@||myanonamouse.net^
 @@||myanonamouse.net^$document
@@ -1083,6 +1094,7 @@
 @@||npmjs.com^
 @@||npr-news.streaming.adswizz.com^
 @@||npr.org^
+@@||nqhf001.dediseedbox.com^
 @@||nqhf001.dediseedbox.com^$document
 @@||nsatc.net^
 @@||nt3.ggpht.com^
@@ -1138,6 +1150,7 @@
 @@||olpair.com^
 @@||olx.in^
 @@||om.cbsi.com^
+@@||omniture.walmart.com^
 @@||omniture.walmart.com^|
 @@||oms.symantec.com^
 @@||onceuponatime.wikia.com^
@@ -1244,6 +1257,7 @@
 @@||projectwonderful.com^
 @@||promodj.com^
 @@||prostovpn.org^
+@@||protagongr.disqus.com^
 @@||protagongr.disqus.com^$domain=protagon.gr,important
 @@||proto2ad.durasite.net^
 @@||proto2ad.durasite.net^|
@@ -1292,6 +1306,7 @@
 @@||redfin.com^
 @@||redir.tradedoubler.com^
 @@||redir.tradedoubler.com^|
+@@||redirect.appmetrica.yandex.com^
 @@||redirect.appmetrica.yandex.com^|
 @@||redirect.at^
 @@||redirect.viglink.com^
@@ -1312,6 +1327,7 @@
 @@||roku.com^
 @@||router.lan^
 @@||rsbakker.wordpress.com/$document
+@@||rsbakker.wordpress.com^
 @@||rt.com^
 @@||rukminim1.flixcart.com^
 @@||rutube.ru^
@@ -1763,6 +1779,7 @@
 @@||www.iplocation.net^
 @@||www.isegoria.net^
 @@||www.jack-donovan.com^
+@@||www.jdoqocy.com^
 @@||www.jdoqocy.com^|
 @@||www.jzrputtbut.net^
 @@||www.kathimerini.gr^
