@@ -1,4 +1,3 @@
-! Title: my ublock static filters
 ###.show.backToTop
 ###adblock-message
 ###dashboard_browser_nag
@@ -349,6 +348,7 @@ $removeparam=_openstat
 @@|https://www.gstatic.com/recaptcha|$document
 @@|https://www.quantcast.com/reddit.com|$document
 @@|https://www.youtube.com/watch?$document
+@@||127.0.0.1^*/intel/$xhr,domain=www.intel.*
 @@||a.4cdn.org^
 @@||a.adwolf.ru^|
 @@||a.sellpoint.net^|
@@ -706,6 +706,7 @@ yts.am##.ibox-bordered
 zelka.org##.blocker-form
 zelka.org##.magla
 [Adblock Plus 2.0]
+[uBlock Origin]
 ^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]
 ^(.+[_.-])?telemetry[_.-]
 ^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]
@@ -830,6 +831,7 @@ _site/gotop.
 ||hepsiburada.com^$removeparam=wt_af
 ||hi.link^$third-party,domain=~localhost|~127.0.0.1|~[::1]|~0.0.0.0|~[::]|~local
 ||hitronhub.home^$third-party,domain=~localhost|~127.0.0.1|~[::1]|~0.0.0.0|~[::]|~local
+||home.arpa^$third-party,domain=~localhost|~127.0.0.1|~[::1]|~0.0.0.0|~[::]|~local
 ||homerouter.cpe^$third-party,domain=~localhost|~127.0.0.1|~[::1]|~0.0.0.0|~[::]|~local
 ||huaweimobilewifi.com^$third-party,domain=~localhost|~127.0.0.1|~[::1]|~0.0.0.0|~[::]|~local
 ||idealo.de/*.html$removeparam=offerKey
