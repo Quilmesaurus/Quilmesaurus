@@ -45289,6 +45289,7 @@
 0.0.0.0 sentphysically.com
 0.0.0.0 sentrapromosi.com
 0.0.0.0 sentry.arc.io
+0.0.0.0 sentry.deepl.com
 0.0.0.0 sentry.mediacdn.vn
 0.0.0.0 sentry01.zerg.rambler.ru
 0.0.0.0 senxiaopang.top

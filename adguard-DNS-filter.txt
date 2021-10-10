@@ -45290,6 +45290,7 @@
 ||sentphysically.com^
 ||sentrapromosi.com^
 ||sentry.arc.io^
+||sentry.deepl.com^
 ||sentry.mediacdn.vn^
 ||sentry01.zerg.rambler.ru^
 ||senxiaopang.top^
