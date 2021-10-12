@@ -1,5 +1,4 @@
 ! Title: my ublock static filters
-###.show.backToTop
 ###adblock-message
 ###dashboard_browser_nag
 ###SentryOverlay
@@ -12,22 +11,14 @@
 ###__memberspace_modal_protected_page
 ##.ad-container
 ##.back-to-top
-##.body-spacer:not(html, body)
-##.elementor-spacer:not(html, body)
 ##.fbt-is-visible.fbt-top
-##.mk-padding-divider:not(html, body)
-##.section-break:not(html, body)
 ##.Sentry_blanket
 ##.show.backToTop
 ##.show.floatingfeedback
 ##.skille
 ##.smart-banner-download__wrapper.smart-banner__wrapper
-##.space20:not(html, body)
-##.spacer-20:not(html, body)
-##.spacer-block:not(html, body)
 ##.video-ads
 ##.ViewInAppLink
-##.wp-block-spacer:not(html, body)
 ##.ytp-ad-progress-list
 ##a.app-cta[target="_blank"]
 ##a[href*=".app.link/"]
@@ -160,7 +151,6 @@ $removeparam=_openstat
 *##.social-grid
 *##.social-icons-list
 *##.sp-separator
-*##.spacer:not(html, body):not(:has-text(/\S/))
 *##.sticky-footer.ad__mobile
 *##.sticky-footer.to-top
 *##back-top
@@ -441,7 +431,6 @@ $removeparam=_openstat
 @@||iptorrents.me/cdn-cgi/bm^
 @@||iptorrents.me^
 @@||iptorrents.me^$document
-@@||iptorrents.me^$important
 @@||kerdos.gr^$document
 @@||komputerswiat.pl/*&srcc=ucs$removeparam
 @@||kotaku.com/embed/comments$removeparam
@@ -486,7 +475,6 @@ $removeparam=_openstat
 @@||podnapisi.net^$document
 @@||pornolab.net^$document
 @@||projectwonderful.com/$document
-@@||protagongr.disqus.com^$domain=protagon.gr,important
 @@||proto2ad.durasite.net^|
 @@||przegladsportowy.pl/*&srcc=ucs$removeparam
 @@||pt.afl.rakuten.co.jp^|
@@ -500,7 +488,6 @@ $removeparam=_openstat
 @@||redlettermedia.com^$document
 @@||rightnowtech.com/engagement/api/consumer/nvidia/*/requestEngagement?pool=$removeparam
 @@||rsbakker.wordpress.com/$document
-@@||smbc-@@comics.com##IMG[onmousedown="showBlock(\"aftercomic\")"]
 @@||sourcepoint.theguardian.com^
 @@||startpage.com^$document
 @@||steamcommunity.com
@@ -1097,5 +1084,4 @@ _site/gotop.
 ||zerkalo.io^$removeparam=vk
 ||[::1]^$third-party,domain=~localhost|~127.0.0.1|~[::1]|~0.0.0.0|~[::]|~local
 ||[::]^$third-party,domain=~localhost|~127.0.0.1|~[::1]|~0.0.0.0|~[::]|~local
-~gog.com##.footer-spacer:not(html, body)
-~schengenvisainfo.com##.vc_empty_space:not(html, body)
+
