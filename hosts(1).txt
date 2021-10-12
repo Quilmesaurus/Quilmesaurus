@@ -10030,6 +10030,7 @@
 0.0.0.0 beacons.helium.com
 0.0.0.0 beacons.mediamelon.com
 0.0.0.0 beacons2.extremereach.io
+0.0.0.0 beacons5.gvt3.com
 0.0.0.0 beaconserver-ce-vpc0-1537565064.eu-west-1.elb.amazonaws.com
 0.0.0.0 beaconserver-ce-vpc0-1909323404.us-west-2.elb.amazonaws.com
 0.0.0.0 beaconstreetservices.com
@@ -13088,6 +13089,7 @@
 0.0.0.0 centraltag.com
 0.0.0.0 centremotorleech.com
 0.0.0.0 centuriesactionperfectly.com
+0.0.0.0 centurylink.tt.omtrdc.net
 0.0.0.0 centwrite.com
 0.0.0.0 ceo8000.net
 0.0.0.0 cepailru.com
@@ -36718,6 +36720,7 @@
 0.0.0.0 oconner.link
 0.0.0.0 ocsff.com
 0.0.0.0 ocslab.com
+0.0.0.0 ocsp.incommon-ecc.org
 0.0.0.0 octavius.rocks
 0.0.0.0 octclck.xyz
 0.0.0.0 octobird.com
@@ -49220,6 +49223,7 @@
 0.0.0.0 sync.alphonso.tv
 0.0.0.0 sync.aniview.com
 0.0.0.0 sync.aralego.com
+0.0.0.0 sync.atsptp.com
 0.0.0.0 sync.bfmio.com
 0.0.0.0 sync.commander1.com
 0.0.0.0 sync.connectad.io
@@ -58244,6 +58248,7 @@
 0.0.0.0 www.computerrecover.com
 0.0.0.0 www.computerscanv1.com
 0.0.0.0 www.condome.tv
+0.0.0.0 www.conduit.com
 0.0.0.0 www.congtouzailai.net
 0.0.0.0 www.consumers-reviews.net
 0.0.0.0 www.content.dollarrevenue.com
@@ -60213,6 +60218,7 @@
 0.0.0.0 www.ksoluwir.cn
 0.0.0.0 www.kstaweb.it
 0.0.0.0 www.ktaweb.it
+0.0.0.0 www.ku6.com
 0.0.0.0 www.kukutrustnet666.info
 0.0.0.0 www.kukutrustnet7.info
 0.0.0.0 www.kunst-heute.com
@@ -63503,6 +63509,7 @@
 0.0.0.0 www.vkrgilio.it
 0.0.0.0 www.vlirgilio.it
 0.0.0.0 www.vm-onlinescan.net
+0.0.0.0 www.vmn.net
 0.0.0.0 www.vmocecax.cn
 0.0.0.0 www.vmuhidec.cn
 0.0.0.0 www.vnfsex3.info

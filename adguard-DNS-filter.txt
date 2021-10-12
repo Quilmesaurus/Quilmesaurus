@@ -10031,6 +10031,7 @@
 ||beacons.helium.com^
 ||beacons.mediamelon.com^
 ||beacons2.extremereach.io^
+||beacons5.gvt3.com^
 ||beaconserver-ce-vpc0-1537565064.eu-west-1.elb.amazonaws.com^
 ||beaconserver-ce-vpc0-1909323404.us-west-2.elb.amazonaws.com^
 ||beaconstreetservices.com^
@@ -13089,6 +13090,7 @@
 ||centraltag.com^
 ||centremotorleech.com^
 ||centuriesactionperfectly.com^
+||centurylink.tt.omtrdc.net^
 ||centwrite.com^
 ||ceo8000.net^
 ||cepailru.com^
@@ -36719,6 +36721,7 @@
 ||oconner.link^
 ||ocsff.com^
 ||ocslab.com^
+||ocsp.incommon-ecc.org^
 ||octavius.rocks^
 ||octclck.xyz^
 ||octobird.com^
@@ -49221,6 +49224,7 @@
 ||sync.alphonso.tv^
 ||sync.aniview.com^
 ||sync.aralego.com^
+||sync.atsptp.com^
 ||sync.bfmio.com^
 ||sync.commander1.com^
 ||sync.connectad.io^
@@ -58245,6 +58249,7 @@
 ||www.computerrecover.com^
 ||www.computerscanv1.com^
 ||www.condome.tv^
+||www.conduit.com^
 ||www.congtouzailai.net^
 ||www.consumers-reviews.net^
 ||www.content.dollarrevenue.com^
@@ -60214,6 +60219,7 @@
 ||www.ksoluwir.cn^
 ||www.kstaweb.it^
 ||www.ktaweb.it^
+||www.ku6.com^
 ||www.kukutrustnet666.info^
 ||www.kukutrustnet7.info^
 ||www.kunst-heute.com^
@@ -63504,6 +63510,7 @@
 ||www.vkrgilio.it^
 ||www.vlirgilio.it^
 ||www.vm-onlinescan.net^
+||www.vmn.net^
 ||www.vmocecax.cn^
 ||www.vmuhidec.cn^
 ||www.vnfsex3.info^
