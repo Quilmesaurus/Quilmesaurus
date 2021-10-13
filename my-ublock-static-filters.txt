@@ -338,6 +338,7 @@ $removeparam=_openstat
 @@|https://www.gstatic.com/recaptcha|$document
 @@|https://www.quantcast.com/reddit.com|$document
 @@|https://www.youtube.com/watch?$document
+@@||200.nl67.seedit4.me^
 @@||a.4cdn.org^
 @@||a.adwolf.ru^|
 @@||a.sellpoint.net^|
@@ -448,12 +449,14 @@ $removeparam=_openstat
 @@||mashable.com^$document
 @@||medonet.pl/*&srcc=ucs$removeparam
 @@||msn.com^$document
+@@||my.seedit4.me^
 @@||my.tealiumiq.com^|
 @@||my.xmarks.com^$document
 @@||myanonamouse.net^$document
 @@||mywot.com^$document
 @@||news.google.com^
 @@||nineto5mac-d.openx.net^|
+@@||nl67.seedit4.me^
 @@||noizz.pl/*&srcc=ucs$removeparam
 @@||nonadventures.com/$document
 @@||nqhf001.dediseedbox.com^$document
@@ -488,6 +491,7 @@ $removeparam=_openstat
 @@||redlettermedia.com^$document
 @@||rightnowtech.com/engagement/api/consumer/nvidia/*/requestEngagement?pool=$removeparam
 @@||rsbakker.wordpress.com/$document
+@@||seedit4.me^
 @@||sourcepoint.theguardian.com^
 @@||startpage.com^$document
 @@||steamcommunity.com
@@ -1084,4 +1088,3 @@ _site/gotop.
 ||zerkalo.io^$removeparam=vk
 ||[::1]^$third-party,domain=~localhost|~127.0.0.1|~[::1]|~0.0.0.0|~[::]|~local
 ||[::]^$third-party,domain=~localhost|~127.0.0.1|~[::1]|~0.0.0.0|~[::]|~local
-

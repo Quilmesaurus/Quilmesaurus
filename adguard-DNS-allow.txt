@@ -27,6 +27,7 @@
 @@||1fichier.com^
 @@||1hosts.cf^
 @@||1und1.de^
+@@||200.nl67.seedit4.me^
 @@||206.189.252.21^
 @@||2shared.com^
 @@||4.bp.blogspot.com^
@@ -1030,6 +1031,7 @@
 @@||multiup.org^
 @@||my.jdownloader.org^
 @@||my.plexapp.com^
+@@||my.seedit4.me^
 @@||my.tealiumiq.com^
 @@||my.tealiumiq.com^|
 @@||my.vmware.com^
@@ -1084,6 +1086,7 @@
 @@||nitroflare.com^
 @@||nj.com^
 @@||nk.pl^
+@@||nl67.seedit4.me^
 @@||no-ip.com^
 @@||node.plexapp.com^
 @@||noizz.pl/*&srcc=ucs$removeparam
@@ -1371,6 +1374,7 @@
 @@||securel.longtailvideo.com^
 @@||securemecca.com^
 @@||secureplugins.longtailvideo.com^
+@@||seedit4.me^
 @@||sendspace.com^
 @@||serverfault.com^
 @@||services.sonarr.tv^

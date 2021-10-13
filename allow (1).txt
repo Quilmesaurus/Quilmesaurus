@@ -31,6 +31,7 @@
 2-01-3cf7-000c.cdx.cedexis.net
 2.android.pool.ntp.org
 2.us.pool.ntp.org
+200.nl67.seedit4.me
 206.189.252.21
 2shared.com
 3.amazonaws.com
@@ -1396,6 +1397,7 @@ multiup.org
 mva.microsoft.com
 my.jdownloader.org
 my.plexapp.com
+my.seedit4.me
 my.tealiumiq.com
 my.tealiumiq.com|
 my.vmware.com
@@ -1458,6 +1460,7 @@ nithgrim.wordpress.com
 nitroflare.com
 nj.com
 nk.pl
+nl67.seedit4.me
 nls.techrepublic.com
 no-cache.hubspot.com
 no-ip.com
@@ -1845,6 +1848,7 @@ securel.longtailvideo.com
 securemecca.com
 secureplugins.longtailvideo.com
 securetoken.googleapis.com
+seedit4.me
 selenium-release.storage.googleapis.com
 self-testing.gov.gr
 sendspace.com
