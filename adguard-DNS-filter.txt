@@ -12463,6 +12463,7 @@
 ||click.mmosite.com^
 ||click.mobile-bt.com^
 ||click.negociosdigitaisnapratica.com.br^
+||click.oneplus.cn^
 ||click.oneplus.com^
 ||click.redditmail.com^
 ||click.rssfwd.com^
@@ -19842,6 +19843,7 @@
 ||flash-counter.com^
 ||flash-players.info^
 ||flash.doubleclick-analytics.com^
+||flash.sec.intl.miui.com^
 ||flashadengine.com^
 ||flashclicks.com^
 ||flashdollars.com^
@@ -28436,6 +28438,7 @@
 ||licantrum.com^
 ||licenseblindnessbureau.com^
 ||licensebuttons.net^
+||licensing.bitmovin.com^
 ||licensing.blinkreceipt.com^
 ||licensingvideo.com^
 ||licentchamom.club^
@@ -43827,6 +43830,7 @@
 ||sqyueda.com^
 ||sra.moresophy.net^
 ||sravniali.ru^
+||src.ebay-us.com^
 ||srchus.xyz^
 ||srcip.com^
 ||srcsmrtgs.com^

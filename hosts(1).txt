@@ -12725,6 +12725,7 @@
 0.0.0.0 carutinv.com
 0.0.0.0 carveac.com
 0.0.0.0 cas.as.criteo.com
+0.0.0.0 cas.avalon.perfdrive.com
 0.0.0.0 cas.clickability.com
 0.0.0.0 cas.cluep.com
 0.0.0.0 cas.eu.criteo.com
@@ -13226,6 +13227,7 @@
 0.0.0.0 cdn.lentainform.com
 0.0.0.0 cdn.lfstmedia.com
 0.0.0.0 cdn.liftoff.io
+0.0.0.0 cdn.lmiutil.com
 0.0.0.0 cdn.locallogic.co
 0.0.0.0 cdn.lodeo.io
 0.0.0.0 cdn.logly.co.jp
@@ -14248,6 +14250,7 @@
 0.0.0.0 click.mmosite.com
 0.0.0.0 click.mobile-bt.com
 0.0.0.0 click.negociosdigitaisnapratica.com.br
+0.0.0.0 click.oneplus.cn
 0.0.0.0 click.oneplus.com
 0.0.0.0 click.redditmail.com
 0.0.0.0 click.rssfwd.com
@@ -16283,6 +16286,7 @@
 0.0.0.0 cs.atdmt.com
 0.0.0.0 cs.emxdgt.com
 0.0.0.0 cs.lkqd.net
+0.0.0.0 cs.luckyorange.net
 0.0.0.0 cs.media.net
 0.0.0.0 cs.nex8.net
 0.0.0.0 cs.vdopia.com
@@ -22496,6 +22500,7 @@
 0.0.0.0 flash-counter.com
 0.0.0.0 flash-players.info
 0.0.0.0 flash.doubleclick-analytics.com
+0.0.0.0 flash.sec.intl.miui.com
 0.0.0.0 flashadengine.com
 0.0.0.0 flashclicks.com
 0.0.0.0 flashdollars.com
@@ -24638,6 +24643,7 @@
 0.0.0.0 globaladmedia.net
 0.0.0.0 globaladsales.com
 0.0.0.0 globaladv.net
+0.0.0.0 globalapi.ad.xiaomi.com
 0.0.0.0 globalcasinoopen.net
 0.0.0.0 globalcasinoviva.net
 0.0.0.0 globalefinder.com
@@ -31917,6 +31923,7 @@
 0.0.0.0 licantrum.com
 0.0.0.0 licenseblindnessbureau.com
 0.0.0.0 licensebuttons.net
+0.0.0.0 licensing.bitmovin.com
 0.0.0.0 licensing.blinkreceipt.com
 0.0.0.0 licensingvideo.com
 0.0.0.0 licentchamom.club
@@ -34549,6 +34556,7 @@
 0.0.0.0 metrics.ctv.ca
 0.0.0.0 metrics.ctvdigital.net
 0.0.0.0 metrics.dailymotion.com
+0.0.0.0 metrics.data.hicloud.com
 0.0.0.0 metrics.dynad.net
 0.0.0.0 metrics.ee.co.uk
 0.0.0.0 metrics.el-mundo.net
@@ -34585,6 +34593,8 @@
 0.0.0.0 metrics.tv2.dk
 0.0.0.0 metrics.washingtonpost.com
 0.0.0.0 metrics0.com
+0.0.0.0 metrics1.data.hicloud.com
+0.0.0.0 metrics2.data.hicloud.com
 0.0.0.0 metrics34.com
 0.0.0.0 metrics4.data.hicloud.com
 0.0.0.0 metrics5.data.hicloud.com
@@ -39744,6 +39754,7 @@
 0.0.0.0 peatoc.cn
 0.0.0.0 pebadu.com
 0.0.0.0 pebblemedia.be
+0.0.0.0 pebed.dm-event.net
 0.0.0.0 pebed.dm.gg
 0.0.0.0 pebidigra.pro
 0.0.0.0 pecaning.com
@@ -45951,6 +45962,7 @@
 0.0.0.0 scripts.affiliatefuture.com
 0.0.0.0 scripts.agilone.com
 0.0.0.0 scripts.bestprice.gr
+0.0.0.0 scripts.cleverwebserver.com
 0.0.0.0 scripts.demandbase.com
 0.0.0.0 scripts.downloadv3.com
 0.0.0.0 scripts.mediavine.com
@@ -46139,6 +46151,7 @@
 0.0.0.0 sdkdm.com
 0.0.0.0 sdkfjxjertertry.com
 0.0.0.0 sdkgw.us1.twilio.com
+0.0.0.0 sdki.truepush.com
 0.0.0.0 sdklogs.avocarrot.com
 0.0.0.0 sdkm.w.inmobi.cn
 0.0.0.0 sdkm.w.inmobi.com
@@ -46831,6 +46844,7 @@
 0.0.0.0 settings.gfxgraphics.net
 0.0.0.0 settings.iconnectyou.biz
 0.0.0.0 settings.imergeyou.com
+0.0.0.0 settings.luckyorange.net
 0.0.0.0 settings.updatemysettings.com
 0.0.0.0 settleis.com
 0.0.0.0 settlepineapple.com
@@ -48992,6 +49006,7 @@
 0.0.0.0 sr-weight.rlcdn.com
 0.0.0.0 sra.moresophy.net
 0.0.0.0 sravniali.ru
+0.0.0.0 src.ebay-us.com
 0.0.0.0 srchus.xyz
 0.0.0.0 srcip.com
 0.0.0.0 srcsmrtgs.com
@@ -57935,6 +57950,7 @@
 0.0.0.0 widget.utinet.ru
 0.0.0.0 widget.va.us.criteo.com
 0.0.0.0 widget.va1.vip.prod.criteo.com
+0.0.0.0 widget.yallarec.com
 0.0.0.0 widget.zenback.jp
 0.0.0.0 widgetadvertising.biz
 0.0.0.0 widgetbucks.com
@@ -59770,6 +59786,7 @@
 0.0.0.0 www.ccorriere.it
 0.0.0.0 www.cdcopysite.com
 0.0.0.0 www.cdegate.com
+0.0.0.0 www.cdn.ad.xiaomi.com
 0.0.0.0 www.cdorriere.it
 0.0.0.0 www.ceculedim.cn
 0.0.0.0 www.cefjedhoha.com
