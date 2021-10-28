@@ -17121,6 +17121,7 @@
 ||dxkkb5tytkivf.cloudfront.net^
 ||dxmci.com^
 ||dxokavey.cn^
+||dxp.baidu.com^
 ||dxprljqoay4rt.cloudfront.net^
 ||dxpxlt.com^
 ||dxracers.accountant^
@@ -23755,6 +23756,7 @@
 ||hmfcyy.com^
 ||hmikw.com^
 ||hmksex.info^
+||hmma.baidu.com^
 ||hmnjf.com^
 ||hmongcash.com^
 ||hmonstabb.fun^
