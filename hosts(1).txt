@@ -1981,6 +1981,7 @@
 0.0.0.0 9e0u.cn
 0.0.0.0 9e1486fffbec3.com
 0.0.0.0 9e5420f6be48ccc.com
+0.0.0.0 9e97cf8b099a.cdn4.forter.com
 0.0.0.0 9eb10b7a3d04a.com
 0.0.0.0 9ed5f5b4.api.splkmobile.com
 0.0.0.0 9egiyiyt1o18.com
@@ -8312,6 +8313,7 @@
 0.0.0.0 appad-api-02.perfectcorp.com
 0.0.0.0 appads.com
 0.0.0.0 appaldishonestbribe.com
+0.0.0.0 appanalysis.banggood.com
 0.0.0.0 apparatuslip.com
 0.0.0.0 appared.online
 0.0.0.0 appareint.fun
@@ -23369,6 +23371,7 @@
 0.0.0.0 fundamentalenvironmental.com
 0.0.0.0 fundardsesaz.club
 0.0.0.0 fundingchoices.google.com
+0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 funeducation.com
 0.0.0.0 fungal-infection-treatment.net
 0.0.0.0 fungetbag.info
