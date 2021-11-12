@@ -807,6 +807,7 @@
 ||35clouds.com.cn^
 ||35d59588f15966.com^
 ||35kds.com^
+||360.bestprice.gr^
 ||360640.com^
 ||360ads.com^
 ||360adshost.com^
@@ -2646,6 +2647,7 @@
 ||ad.leadboltmobile.net^
 ||ad.leap.app^
 ||ad.letmeads.com^
+||ad.lgappstv.com^
 ||ad.linksynergy.com^
 ||ad.lionmobi.com^
 ||ad.liveinternet.ru^
@@ -2670,6 +2672,7 @@
 ||ad.net-tool.jp^
 ||ad.netmedia.hu^
 ||ad.netowl.jp^
+||ad.nettvservices.com^
 ||ad.netzquadrat.de^
 ||ad.nicovideo.jp^
 ||ad.nozonedata.com^
@@ -4126,6 +4129,7 @@
 ||ads.roku.com^
 ||ads.sabah.com.tr^
 ||ads.samba.tv^
+||ads.samsung.com^
 ||ads.satyamonline.com^
 ||ads.schmoozecom.net^
 ||ads.scifi.com^
@@ -10406,6 +10410,7 @@
 ||brcdn.com^
 ||brdlplgvdq.com^
 ||brdmin.com^
+||breadbalance.com^
 ||breadpro.com^
 ||breadstringscrashed.com^
 ||breadthchip.com^
@@ -12085,6 +12090,7 @@
 ||chilly3xvids.com^
 ||chillymovs.com^
 ||chimaerason.com^
+||chimpstatic.com^
 ||chin-adnetwork.com^
 ||china-netwave.com^
 ||china-pengdu.cn^
@@ -15555,6 +15561,7 @@
 ||decidepious.com^
 ||decisionmark.com^
 ||decisionnews.com^
+||decisivebase.com^
 ||decisivedrawer.com^
 ||decisiveducks.com^
 ||decknetwork.net^
@@ -19742,6 +19749,7 @@
 ||firewoodnativewoodlands.com^
 ||fireworkadservices.com^
 ||fireworkanalytics.com^
+||fireworks-advertising.com^
 ||fireworkssetstill.com^
 ||firexclamation.com^
 ||firgilio.it^
@@ -20504,6 +20512,7 @@
 ||friendbuy.com^
 ||friendlybcs.pro^
 ||friendlyduck.com^
+||friendwool.com^
 ||friesel-mustin.com^
 ||frightenedpotato.com^
 ||fristminyas.com^
@@ -20731,6 +20740,7 @@
 ||fw5e8yga.top^
 ||fwbntw.com^
 ||fwccw.com^
+||fwcdn1.com^
 ||fwcdn2.com^
 ||fwdservice.com^
 ||fwjoi.com^
@@ -22336,6 +22346,7 @@
 ||gp32.com^
 ||gpjph.com^
 ||gplayer.kmpmedia.net^
+||gpm.samsungqbe.com^
 ||gpogle.it^
 ||gpoint.gpoint.com.gr^
 ||gpoogle.it^
@@ -28342,6 +28353,7 @@
 ||lfzxcp.com^
 ||lg.lotus.vn^
 ||lg.smardroid.com^
+||lgad.cjpowercast.com.edgesuite.net^
 ||lgcblkbn.com^
 ||lgjygg.com^
 ||lglady.cn^
@@ -28349,6 +28361,7 @@
 ||lgmsekxqwxe.com^
 ||lgpumcja.com^
 ||lgse.com^
+||lgsmartad.com^
 ||lgsvywogylblv.com^
 ||lgtqcl8r5i9w.com^
 ||lh5lg.top^
@@ -44000,6 +44013,7 @@
 ||stakenallisin.club^
 ||stakingscrew.com^
 ||stakingslope.com^
+||stakingsmile.com^
 ||staleseat.com^
 ||staleshow.com^
 ||stalesummer.com^
@@ -44095,6 +44109,7 @@
 ||stat.freetool.it^
 ||stat.glaze.ai^
 ||stat.headlines.pw^
+||stat.i3.dmm.com^
 ||stat.ijinshan.com^
 ||stat.kbs.co.kr^
 ||stat.kika-backend.com^

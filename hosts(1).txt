@@ -900,6 +900,7 @@
 0.0.0.0 35clouds.com.cn
 0.0.0.0 35d59588f15966.com
 0.0.0.0 35kds.com
+0.0.0.0 360.bestprice.gr
 0.0.0.0 3606.api.swrve.com
 0.0.0.0 360640.com
 0.0.0.0 360ads.com
@@ -3029,6 +3030,7 @@
 0.0.0.0 ad.leadboltmobile.net
 0.0.0.0 ad.leap.app
 0.0.0.0 ad.letmeads.com
+0.0.0.0 ad.lgappstv.com
 0.0.0.0 ad.linkprice.com
 0.0.0.0 ad.linksynergy.com
 0.0.0.0 ad.lionmobi.com
@@ -3062,6 +3064,7 @@
 0.0.0.0 ad.net-tool.jp
 0.0.0.0 ad.netmedia.hu
 0.0.0.0 ad.netowl.jp
+0.0.0.0 ad.nettvservices.com
 0.0.0.0 ad.netzquadrat.de
 0.0.0.0 ad.nicovideo.jp
 0.0.0.0 ad.nozonedata.com
@@ -4666,6 +4669,7 @@
 0.0.0.0 ads.rubiconproject.com
 0.0.0.0 ads.sabah.com.tr
 0.0.0.0 ads.samba.tv
+0.0.0.0 ads.samsung.com
 0.0.0.0 ads.samsungads.com
 0.0.0.0 ads.satyamonline.com
 0.0.0.0 ads.saymedia.com
@@ -11772,6 +11776,7 @@
 0.0.0.0 brcdn.com
 0.0.0.0 brdlplgvdq.com
 0.0.0.0 brdmin.com
+0.0.0.0 breadbalance.com
 0.0.0.0 breadpro.com
 0.0.0.0 breadstringscrashed.com
 0.0.0.0 breadthchip.com
@@ -13848,6 +13853,7 @@
 0.0.0.0 chilly3xvids.com
 0.0.0.0 chillymovs.com
 0.0.0.0 chimaerason.com
+0.0.0.0 chimpstatic.com
 0.0.0.0 chin-adnetwork.com
 0.0.0.0 china-netwave.com
 0.0.0.0 china-pengdu.cn
@@ -17708,6 +17714,7 @@
 0.0.0.0 decision.taplytics.com
 0.0.0.0 decisionmark.com
 0.0.0.0 decisionnews.com
+0.0.0.0 decisivebase.com
 0.0.0.0 decisivedrawer.com
 0.0.0.0 decisiveducks.com
 0.0.0.0 decknetwork.net
@@ -22395,6 +22402,7 @@
 0.0.0.0 firewoodnativewoodlands.com
 0.0.0.0 fireworkadservices.com
 0.0.0.0 fireworkanalytics.com
+0.0.0.0 fireworks-advertising.com
 0.0.0.0 fireworkssetstill.com
 0.0.0.0 firexclamation.com
 0.0.0.0 firgilio.it
@@ -23213,6 +23221,7 @@
 0.0.0.0 friendbuy.com
 0.0.0.0 friendlybcs.pro
 0.0.0.0 friendlyduck.com
+0.0.0.0 friendwool.com
 0.0.0.0 friesel-mustin.com
 0.0.0.0 frightenedpotato.com
 0.0.0.0 fristminyas.com
@@ -23455,6 +23464,7 @@
 0.0.0.0 fw5e8yga.top
 0.0.0.0 fwbntw.com
 0.0.0.0 fwccw.com
+0.0.0.0 fwcdn1.com
 0.0.0.0 fwcdn2.com
 0.0.0.0 fwdservice.com
 0.0.0.0 fwjoi.com
@@ -25217,6 +25227,7 @@
 0.0.0.0 gp32.com
 0.0.0.0 gpjph.com
 0.0.0.0 gplayer.kmpmedia.net
+0.0.0.0 gpm.samsungqbe.com
 0.0.0.0 gpogle.it
 0.0.0.0 gpoint.gpoint.com.gr
 0.0.0.0 gpoogle.it
@@ -31825,6 +31836,7 @@
 0.0.0.0 lga-bh-bgp.contextweb.com
 0.0.0.0 lga-bh.contextweb.com
 0.0.0.0 lga-tr.contextweb.com
+0.0.0.0 lgad.cjpowercast.com.edgesuite.net
 0.0.0.0 lgcblkbn.com
 0.0.0.0 lgjygg.com
 0.0.0.0 lglady.cn
@@ -31832,6 +31844,7 @@
 0.0.0.0 lgmsekxqwxe.com
 0.0.0.0 lgpumcja.com
 0.0.0.0 lgse.com
+0.0.0.0 lgsmartad.com
 0.0.0.0 lgsvywogylblv.com
 0.0.0.0 lgtqcl8r5i9w.com
 0.0.0.0 lh5lg.top
@@ -49249,6 +49262,7 @@
 0.0.0.0 stakenallisin.club
 0.0.0.0 stakingscrew.com
 0.0.0.0 stakingslope.com
+0.0.0.0 stakingsmile.com
 0.0.0.0 staleseat.com
 0.0.0.0 staleshow.com
 0.0.0.0 stalesummer.com
@@ -49348,6 +49362,7 @@
 0.0.0.0 stat.glaze.ai
 0.0.0.0 stat.hasmobi.net
 0.0.0.0 stat.headlines.pw
+0.0.0.0 stat.i3.dmm.com
 0.0.0.0 stat.ijinshan.com
 0.0.0.0 stat.kbs.co.kr
 0.0.0.0 stat.kika-backend.com
