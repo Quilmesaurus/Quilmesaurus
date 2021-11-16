@@ -369,7 +369,6 @@
 @@||cdn.arstechnica.net^
 @@||cdn.chocolatey.org^
 @@||cdn.cloudflare.net^
-@@||cdn.cloudflare.steamstatic.com
 @@||cdn.cloudflare.steamstatic.com^
 @@||cdn.convertkit.com^
 @@||cdn.datatables.net^
@@ -504,7 +503,6 @@
 @@||collegehumor.com^
 @@||colonyofcommodus.wordpress.com^
 @@||commission-junction.com^
-@@||community.cloudflare.steamstatic.com
 @@||community.cloudflare.steamstatic.com^
 @@||community.plus.net^
 @@||community.spiceworks.com^
@@ -942,7 +940,6 @@
 @@||hello.myfonts.net^
 @@||help.appsumo.com^
 @@||help.medium.com^
-@@||help.steampowered.com
 @@||help.steampowered.com^
 @@||help.ui.xboxlive.com^
 @@||helpdeskgeek.com^
@@ -1832,7 +1829,6 @@
 @@||static2cdn.hubspot.com^
 @@||stats.streamelements.com^
 @@||status.plex.tv^
-@@||steamcommunity.com
 @@||steamcommunity.com^
 @@||stickypassword.com^
 @@||stitcher.pluto.tv^
@@ -1842,7 +1838,6 @@
 @@||storage.msn.com^
 @@||store-images.microsoft.com^
 @@||store-images.s-microsoft.com^
-@@||store.steampowered.com
 @@||store.steampowered.com^
 @@||storecatalogrevocation.storequality.microsoft.com^
 @@||storeedgefd.dsx.mp.microsoft.com^
