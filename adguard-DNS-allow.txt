@@ -456,8 +456,6 @@
 @@||click.simba.taobao.com^
 @@||click.trafficguard.ai^
 @@||click.virt.exacttarget.com^
-@@||click.virt.s*.exacttarget.com^
-@@||click.virt.s*.exacttarget.com^|
 @@||clickserve.cc-dt.com^
 @@||clickserve.dartsearch.net^
 @@||client-s.gateway.messenger.live.com^
@@ -475,8 +473,7 @@
 @@||clients5.google.com^
 @@||clients6.google.com^
 @@||clients?.google.com^
-@@||clk*.tradedoubler.com^
-@@||clk*.tradedoubler.com^|
+@@||clk||00-gov.cn^
 @@||clk.tradedoubler.com^
 @@||cloud.google.com^
 @@||cloudconfig.googleapis.com^
@@ -2515,7 +2512,6 @@
 @@||youtube-dl.org^
 @@||youtube-nocookie.com^
 @@||youtube-ui.l.google.com^
-@@||youtube.com/*&user=softlygaloshes^
 @@||youtube.com^
 @@||youtubei.googleapis.com^
 @@||yt3.ggpht.com^
