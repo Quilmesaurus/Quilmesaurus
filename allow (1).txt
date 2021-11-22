@@ -191,6 +191,7 @@ app.adaway.org
 app.adjust.com
 app.convertkit.com
 app.plex.tv
+app.sinilink.com
 app.usb0.net
 appboot.netflix.com
 appengine.google.com
@@ -1299,6 +1300,7 @@ mozilla.net
 mozilla.org
 mozillazine.org
 mpcdot.com
+mq.sinilink.com
 mscomajax.vo.msecnd.net
 msedge.net
 msftncsi.com
@@ -1748,6 +1750,7 @@ siatka.org
 signal-sdk-service-production.ap-south-1.elasticbeanstalk.com
 silo.pluto.tv
 siloh.pluto.tv
+sinilink.com
 sitepoint.com
 sites.google.com
 skaigr.disqus.com
@@ -2414,6 +2417,7 @@ www.secure.pixiv.net
 www.secure.techrepublic.com
 www.services.medium.com
 www.shadbase.com
+www.sinilink.com
 www.sitepoint.com
 www.skai.gr
 www.skroutz.gr
