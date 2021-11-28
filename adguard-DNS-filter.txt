@@ -2977,6 +2977,7 @@
 ||actionteaser.ru^
 ||actirinius.com^
 ||activate.ensighten.com^
+||activation.gfe.nvidia.com^
 ||active-tracking.de^
 ||active-trk7.com^
 ||active.iperceptions.com^
@@ -30627,6 +30628,7 @@
 ||j.diangon.com^
 ||j.imdb.cn^
 ||j.microad.net^
+||j.ophan.co.uk^
 ||j.uralweb.ru^
 ||j.zucks.net.zimg.jp^
 ||j1.piaobing.com^
@@ -57652,6 +57654,7 @@
 ||us.bksn.se^
 ||us.criteo.com^
 ||us.criteo.net^
+||us.device3.mobile.pendo.io^
 ||us.dotomi.weighted.com.akadns.net^
 ||us.i1.yimg.com^
 ||us.iad.legacy.dotomi.weighted.com.akadns.net^
