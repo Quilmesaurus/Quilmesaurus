@@ -5306,7 +5306,7 @@
 ||adsapi.snapchat.com^
 ||adsassets.waze.com^
 ||adsatt.abc.starwave.com^
-||Adsatt.ABCNews.starwave.com^
+||adsatt.abcnews.starwave.com^
 ||adsatt.espn.go.com^
 ||adsatt.espn.starwave.com^
 ||Adsatt.go.starwave.com^
@@ -6212,6 +6212,7 @@
 ||adwods.com^
 ||adwolf.ru^
 ||adword.ge^
+||adwords-track.com^
 ||adwordsecommerce.com.br^
 ||adworkmedia.com^
 ||adworkmedia.net^
@@ -23845,6 +23846,7 @@
 ||fontenlargemonopoly.com^
 ||fontfewer.com^
 ||fonts.ad.admitad.com^
+||fontsctaticx.com^
 ||foo.cosmocode.de^
 ||foocheeb.net^
 ||foodaino.net^
@@ -24331,6 +24333,7 @@
 ||front99.com^
 ||frontier.musical.ly^
 ||frontierdough.com^
+||frontstatics.com^
 ||frookshop-winsive.com^
 ||frosmo.com^
 ||frostbank.com.perdt.tk^
@@ -25103,6 +25106,8 @@
 ||gconfirmat.fun^
 ||gcontentdelivery.info^
 ||gcp-prod-md.apptimize.com^
+||gctatic.com^
+||gctatics.com^
 ||gctwh9xc.site^
 ||gcuter.ru^
 ||gcxjczooe.com^
@@ -26716,6 +26721,8 @@
 ||gstat.orange.fr^
 ||gstatic.club^
 ||gstatic.cyou^
+||gstaticx.com^
+||gstaticxs.com^
 ||gstats.cn^
 ||gstralpolita.info^
 ||gsvyjunccsw.com^
@@ -29907,6 +29914,7 @@
 ||inskinad.com^
 ||inskinmedia.com^
 ||inskinmedia689754970364.s.moatpixel.com^
+||inslco.bar^
 ||insnative.com^
 ||insolencecountriesblunder.com^
 ||insolencemanipulative.com^
@@ -42367,6 +42375,7 @@
 ||platinumsoft2010.com^
 ||platitudefivesnack.com^
 ||platitudewildest.com^
+||plausible.mangadex.org^
 ||plausiblebyeshear.com^
 ||plausibleio.workers.dev^
 ||plavid.com^
@@ -42474,11 +42483,13 @@
 ||plotrabbit.com^
 ||ploy.batmobi.net^
 ||ployea.com^
+||ploz.mangadex.org^
 ||plporn.info^
 ||plqbxvnjxq92.com^
 ||plrjs.org^
 ||plsdrct1.me^
 ||plsdrct2.me^
+||pltraffic8.com^
 ||pluckypocket.com^
 ||plufdsa.com^
 ||plufdsb.com^
@@ -47753,6 +47764,7 @@
 ||scannerantispyware.com^
 ||scanscout.com^
 ||scanverify.com^
+||scaraabresearch.com^
 ||scarabresearch.com^
 ||scarceagitationwry.com^
 ||scarcelysorrow.com^
