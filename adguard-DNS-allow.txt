@@ -62,6 +62,7 @@
 @@||abebooks.com^
 @@||about.medium.com^
 @@||about.me^
+@@||abp.oisd.nl^
 @@||abuse.ch^
 @@||access.redhat.com.edgekey.net^
 @@||account.live.com^
@@ -484,6 +485,7 @@
 @@||cm-beacon.nakanohito.jp^
 @@||cm-widget.nakanohito.jp^
 @@||cms.techrepublic.com^
+@@||cn.ntp.org.cn^
 @@||cnbc.com^
 @@||cnet2.cbsistatic.com^
 @@||cnet3.cbsistatic.com^
@@ -929,6 +931,7 @@
 @@||gwapi.zee5.com-v2.edgekey.net^
 @@||h-sdk.online-metrix.net^
 @@||hackaday.com^
+@@||hath.network^
 @@||hb.afl.rakuten.co.jp^
 @@||hbogo.com^
 @@||hbogo.pl^
@@ -1045,6 +1048,7 @@
 @@||imgops.com^
 @@||imgs.xkcd.com^
 @@||imgtaxi.com^
+@@||in-addr.arpa^
 @@||in.linkedin.com^
 @@||in.yahoo.com^
 @@||inc.com^
@@ -1171,6 +1175,7 @@
 @@||lm.licenses.adobe.com^
 @@||load.to^
 @@||loadbalancing.modaco.com^
+@@||local.adguard.org^
 @@||localfonts.eu^
 @@||localhost^
 @@||location-inference-westus.cloudapp.net^
@@ -1242,6 +1247,7 @@
 @@||maxthon.com^
 @@||mboxedge22.tt.omtrdc.net^
 @@||mclients.googleapis.com^
+@@||media.ci-en.jp^
 @@||media.dlsite.com^
 @@||media.licdn.com^
 @@||media.sbs.com.au^
@@ -1420,6 +1426,7 @@
 @@||official.paymaya.com^
 @@||offliberty.com^
 @@||ogs.google.com^
+@@||oisd.nl^
 @@||ojrq.net^
 @@||ola.com^
 @@||oladblock.me^
@@ -1445,6 +1452,7 @@
 @@||olpair.com^
 @@||olx.in^
 @@||om.cbsi.com^
+@@||omnimedia.eurobank.gr^
 @@||omniture.walmart.com^
 @@||oms.symantec.com^
 @@||onceuponatime.wikia.com^
@@ -1860,6 +1868,7 @@
 @@||sync.brave.com^
 @@||synctocloud.net^
 @@||sys.4chan.org^
+@@||sys.4channel.org^
 @@||sysctl.org^
 @@||szczecin.tvp.pl^
 @@||t-online.at^
@@ -1999,6 +2008,7 @@
 @@||ui.skype.com^
 @@||uid.si^
 @@||uj3wazyk5u4hnvtk.onion.link^
+@@||ulmf.org^
 @@||unagi-na.amazon.com^
 @@||underarmour.scene7.com^
 @@||unibytes.com^
