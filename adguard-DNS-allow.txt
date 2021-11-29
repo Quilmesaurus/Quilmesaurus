@@ -27,6 +27,7 @@
 @@||192.168.100.7^
 @@||192.168.100.87^
 @@||192.168.100^
+@@||192.168.1^
 @@||192.168^
 @@||1drv.com^
 @@||1fichier.com^
@@ -694,7 +695,9 @@
 @@||edgesuite.net^
 @@||eds.xboxlive.com^
 @@||edxp.meowcat.org^
+@@||eff.map.fastly.net^
 @@||eff.org^
+@@||ehgt.org^
 @@||ejie.me^
 @@||electionsdata.ndtv.com^
 @@||eleftherostypos.gr^
