@@ -2976,6 +2976,7 @@
 0.0.0.0 actionteaser.ru
 0.0.0.0 actirinius.com
 0.0.0.0 activate.ensighten.com
+0.0.0.0 activation.gfe.nvidia.com
 0.0.0.0 active-tracking.de
 0.0.0.0 active-trk7.com
 0.0.0.0 active.iperceptions.com
@@ -5304,10 +5305,10 @@
 0.0.0.0 adsapi.snapchat.com
 0.0.0.0 adsassets.waze.com
 0.0.0.0 adsatt.abc.starwave.com
-0.0.0.0 Adsatt.ABCNews.starwave.com
+0.0.0.0 adsatt.abcnews.starwave.com
 0.0.0.0 adsatt.espn.go.com
 0.0.0.0 adsatt.espn.starwave.com
-0.0.0.0 Adsatt.go.starwave.com
+0.0.0.0 adsatt.go.starwave.com
 0.0.0.0 adsaturn.com
 0.0.0.0 adsb4trk.com
 0.0.0.0 adsbang.top
@@ -6210,6 +6211,7 @@
 0.0.0.0 adwods.com
 0.0.0.0 adwolf.ru
 0.0.0.0 adword.ge
+0.0.0.0 adwords-track.com
 0.0.0.0 adwordsecommerce.com.br
 0.0.0.0 adworkmedia.com
 0.0.0.0 adworkmedia.net
@@ -21357,7 +21359,9 @@
 0.0.0.0 ema.cabinetkbg.com
 0.0.0.0 emagazing.fun
 0.0.0.0 emaids.co.za
+0.0.0.0 email-clk.adguard.com
 0.0.0.0 email-match.com
+0.0.0.0 email-opn.adguard.com
 0.0.0.0 email-reflex.com
 0.0.0.0 emailicon.org
 0.0.0.0 emailmeditateencourage.com
@@ -22500,6 +22504,7 @@
 0.0.0.0 expresentc.top
 0.0.0.0 express-submit.de
 0.0.0.0 expresswebtraffic.com
+0.0.0.0 expulsionunderstanding.com
 0.0.0.0 exrtbsrv.com
 0.0.0.0 exru.website
 0.0.0.0 ext-inv-cdn.presage.io
@@ -23843,6 +23848,7 @@
 0.0.0.0 fontenlargemonopoly.com
 0.0.0.0 fontfewer.com
 0.0.0.0 fonts.ad.admitad.com
+0.0.0.0 fontsctaticx.com
 0.0.0.0 foo.cosmocode.de
 0.0.0.0 foocheeb.net
 0.0.0.0 foodaino.net
@@ -24329,6 +24335,7 @@
 0.0.0.0 front99.com
 0.0.0.0 frontier.musical.ly
 0.0.0.0 frontierdough.com
+0.0.0.0 frontstatics.com
 0.0.0.0 frookshop-winsive.com
 0.0.0.0 frosmo.com
 0.0.0.0 frostbank.com.perdt.tk
@@ -25101,6 +25108,8 @@
 0.0.0.0 gconfirmat.fun
 0.0.0.0 gcontentdelivery.info
 0.0.0.0 gcp-prod-md.apptimize.com
+0.0.0.0 gctatic.com
+0.0.0.0 gctatics.com
 0.0.0.0 gctwh9xc.site
 0.0.0.0 gcuter.ru
 0.0.0.0 gcxjczooe.com
@@ -25481,6 +25490,7 @@
 0.0.0.0 gf.umenglog.com
 0.0.0.0 gf108.com
 0.0.0.0 gfazzetta.it
+0.0.0.0 gfcim5.gq
 0.0.0.0 gfcowlrmdt.com
 0.0.0.0 gfd80.com
 0.0.0.0 gfftsqrc.com
@@ -26714,6 +26724,8 @@
 0.0.0.0 gstat.orange.fr
 0.0.0.0 gstatic.club
 0.0.0.0 gstatic.cyou
+0.0.0.0 gstaticx.com
+0.0.0.0 gstaticxs.com
 0.0.0.0 gstats.cn
 0.0.0.0 gstralpolita.info
 0.0.0.0 gsvyjunccsw.com
@@ -29905,6 +29917,7 @@
 0.0.0.0 inskinad.com
 0.0.0.0 inskinmedia.com
 0.0.0.0 inskinmedia689754970364.s.moatpixel.com
+0.0.0.0 inslco.bar
 0.0.0.0 insnative.com
 0.0.0.0 insolencecountriesblunder.com
 0.0.0.0 insolencemanipulative.com
@@ -30626,6 +30639,7 @@
 0.0.0.0 j.diangon.com
 0.0.0.0 j.imdb.cn
 0.0.0.0 j.microad.net
+0.0.0.0 j.ophan.co.uk
 0.0.0.0 j.uralweb.ru
 0.0.0.0 j.zucks.net.zimg.jp
 0.0.0.0 j1.piaobing.com
@@ -42365,6 +42379,7 @@
 0.0.0.0 platinumsoft2010.com
 0.0.0.0 platitudefivesnack.com
 0.0.0.0 platitudewildest.com
+0.0.0.0 plausible.mangadex.org
 0.0.0.0 plausiblebyeshear.com
 0.0.0.0 plausibleio.workers.dev
 0.0.0.0 plavid.com
@@ -42472,11 +42487,13 @@
 0.0.0.0 plotrabbit.com
 0.0.0.0 ploy.batmobi.net
 0.0.0.0 ployea.com
+0.0.0.0 ploz.mangadex.org
 0.0.0.0 plporn.info
 0.0.0.0 plqbxvnjxq92.com
 0.0.0.0 plrjs.org
 0.0.0.0 plsdrct1.me
 0.0.0.0 plsdrct2.me
+0.0.0.0 pltraffic8.com
 0.0.0.0 pluckypocket.com
 0.0.0.0 plufdsa.com
 0.0.0.0 plufdsb.com
@@ -47751,6 +47768,7 @@
 0.0.0.0 scannerantispyware.com
 0.0.0.0 scanscout.com
 0.0.0.0 scanverify.com
+0.0.0.0 scaraabresearch.com
 0.0.0.0 scarabresearch.com
 0.0.0.0 scarceagitationwry.com
 0.0.0.0 scarcelysorrow.com
@@ -57652,6 +57670,7 @@
 0.0.0.0 us.bksn.se
 0.0.0.0 us.criteo.com
 0.0.0.0 us.criteo.net
+0.0.0.0 us.device3.mobile.pendo.io
 0.0.0.0 us.dotomi.weighted.com.akadns.net
 0.0.0.0 us.i1.yimg.com
 0.0.0.0 us.iad.legacy.dotomi.weighted.com.akadns.net
@@ -70012,6 +70031,7 @@
 0.0.0.0 zd74zkwy8t.com
 0.0.0.0 zdajdudqfq.com
 0.0.0.0 zdaptrksg.com
+0.0.0.0 zdbb.net
 0.0.0.0 zdcuivnen.com
 0.0.0.0 zddxlih.com
 0.0.0.0 zde-affinity.edgecaching.net
