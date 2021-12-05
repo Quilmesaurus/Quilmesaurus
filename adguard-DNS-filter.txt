@@ -5309,7 +5309,7 @@
 ||adsatt.abcnews.starwave.com^
 ||adsatt.espn.go.com^
 ||adsatt.espn.starwave.com^
-||Adsatt.go.starwave.com^
+||adsatt.go.starwave.com^
 ||adsaturn.com^
 ||adsb4trk.com^
 ||adsbang.top^
@@ -21360,7 +21360,9 @@
 ||ema.cabinetkbg.com^
 ||emagazing.fun^
 ||emaids.co.za^
+||email-clk.adguard.com^
 ||email-match.com^
+||email-opn.adguard.com^
 ||email-reflex.com^
 ||emailicon.org^
 ||emailmeditateencourage.com^
@@ -22503,6 +22505,7 @@
 ||expresentc.top^
 ||express-submit.de^
 ||expresswebtraffic.com^
+||expulsionunderstanding.com^
 ||exrtbsrv.com^
 ||exru.website^
 ||ext-inv-cdn.presage.io^
@@ -25488,6 +25491,7 @@
 ||gf.umenglog.com^
 ||gf108.com^
 ||gfazzetta.it^
+||gfcim5.gq^
 ||gfcowlrmdt.com^
 ||gfd80.com^
 ||gfftsqrc.com^
@@ -70027,6 +70031,7 @@
 ||zd74zkwy8t.com^
 ||zdajdudqfq.com^
 ||zdaptrksg.com^
+||zdbb.net^
 ||zdcuivnen.com^
 ||zddxlih.com^
 ||zde-affinity.edgecaching.net^
