@@ -615,6 +615,7 @@
 @@||digg.com^
 @@||digitaltrends.com^
 @@||dilbert.com^
+@@||dilosi.services.gov.gr^
 @@||directvapplications.hb.omtrdc.net^
 @@||directvnow.com^
 @@||discord.com^
