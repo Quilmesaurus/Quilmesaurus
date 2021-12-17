@@ -3815,6 +3815,7 @@
 ||adfalcon.com^
 ||adfangxiang.com^
 ||adfarm.mediaplex.com^
+||adfeed.marchex.com^
 ||adfeedstrk.com^
 ||adfiles.auditude.com^
 ||adfill.me^
@@ -13262,6 +13263,7 @@
 ||calibercomparable.com^
 ||caligula.pro^
 ||caliskankoylu.com^
+||call-ad-network-api.marchex.com^
 ||call-tracking.by^
 ||call-tracking.co.uk^
 ||call.theowl.gr^
@@ -14180,6 +14182,7 @@
 ||cdyqc.com^
 ||cdzimeijia.com^
 ||ce.lijit.com^
+||ce3e75d5.jpush.cn^
 ||ce62e0d222bc5aca.com^
 ||cea53c4833.com^
 ||cea9d3d4f74fb831.com^
@@ -15013,6 +15016,7 @@
 ||click.email.sonos.com^
 ||click.fool.com^
 ||click.gowadogo.com^
+||click.hookupinyourcity.com^
 ||click.hooligapps.com^
 ||click.howdoesin.net^
 ||click.jasmin.com^
@@ -17339,6 +17343,7 @@
 ||custom.plausible.io^
 ||custom.yieldify.com^
 ||customad.cnn.com^
+||customads.co^
 ||customer.heartinternet.co.uk^
 ||customer.iad-03.braze.com^
 ||customer.io^
@@ -20821,6 +20826,7 @@
 ||easyspyware.com^
 ||easystopadblock.com^
 ||easytarget.ru^
+||easytomessage.com^
 ||easytracking.de^
 ||easyviettravel.vn^
 ||easywebverification2.info^
@@ -22326,6 +22332,7 @@
 ||evsembu.com^
 ||evt.bfmio.com^
 ||evt.houzz.com^
+||evt.mxplay.com^
 ||evt.undertone.com^
 ||evtvpaid.bfmio.com^
 ||evvcrisisfund.com^
@@ -43009,6 +43016,7 @@
 ||ppac.de^
 ||ppae8oe4eku9.com^
 ||ppaginebianche.it^
+||ppc.adhere.marchex.com^
 ||ppc.netnet44.net^
 ||ppcdweb.cc^
 ||ppcindo.com^
@@ -44531,6 +44539,7 @@
 ||qkspafpgg.com^
 ||qksrv.net^
 ||qksz.net^
+||ql.tc^
 ||ql.uzuzuz.com^
 ||ql01t4.com^
 ||qlaot.com^
@@ -51448,6 +51457,7 @@
 ||static-ssl.mediav.com^
 ||static-ssp.yidianzixun.com^
 ||static-tagr.gd1.mookie1.com^
+||static-tracking.klaviyo.com^
 ||static.2mdn.net^
 ||static.a-ads.com^
 ||static.accesstrade.vn^
@@ -53139,6 +53149,7 @@
 ||t.mtagmonetizationb.com^
 ||t.my.jobs^
 ||t.myvisualiq.net^
+||t.news.browns-restaurants.co.uk^
 ||t.njzrxx.xyz^
 ||t.ofsys.com^
 ||t.paypal.com^
