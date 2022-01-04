@@ -5627,6 +5627,7 @@
 ||adsmeda.com^
 ||adsmetadata.mobileadexchange.net^
 ||adsmetadata.startappk8s.com^
+||adsmetadata.startappservice.com^
 ||adsmira.offerstrack.net^
 ||adsmmgp.com^
 ||adsmo.ru^
@@ -8445,6 +8446,7 @@
 ||api.doumob.com^
 ||api.engager.ecbsn.com^
 ||api.ent.mobileanjian.com^
+||api.eu.amplitude.com^
 ||api.exc.mob.com^
 ||api.flat-ads.com^
 ||api.freewebfonts.org^
@@ -8492,6 +8494,7 @@
 ||api.keen.io^
 ||api.kiip.me^
 ||api.kochava.com^
+||api.lab.amplitude.com^
 ||api.lanistaads.com^
 ||api.leadpages.io^
 ||api.leanplum.com^
@@ -8752,6 +8755,7 @@
 ||app-abq.marketo.com^
 ||app-adforce.jp^
 ||app-analytics-ru.huami.com^
+||app-analytics-v2.snapchat.com^
 ||app-analytics.snapchat.com^
 ||app-config.enhance.co^
 ||app-department.report^
@@ -11024,6 +11028,8 @@
 ||beak.bigdata.dpgmmservices.nl^
 ||beakdragon.com^
 ||beakedpissod.com^
+||beam-ws.giraffe360.com^
+||beam.giraffe360.com^
 ||beam.mjhlifesciences.com^
 ||beam.remp.impresa.pt^
 ||beamincrease.com^
@@ -15014,6 +15020,7 @@
 ||click.cision.com^
 ||click.e.juiceplus.com^
 ||click.eclk.club^
+||click.em.blizzard.com^
 ||click.email.bbc.com^
 ||click.email.sonos.com^
 ||click.fool.com^
@@ -15332,6 +15339,7 @@
 ||cloudcoins.biz^
 ||clouderrorreporting.googleapis.com^
 ||cloudfastads.ru^
+||cloudflare-dacdn.visualwebsiteoptimizer.com^
 ||cloudflare.solutions^
 ||cloudflareinsights.com^
 ||cloudfront-labs.amazonaws.com^
@@ -22331,6 +22339,7 @@
 ||evriposgases.gr^
 ||evrognosi.gr^
 ||evs.jivox.com^
+||evs.sgmt.loom.com^
 ||evsembu.com^
 ||evt.bfmio.com^
 ||evt.houzz.com^
@@ -22965,6 +22974,7 @@
 ||faultyfowl.com^
 ||faunarium.net^
 ||faunlesnuff.co^
+||fave.co^
 ||favillafarine.com^
 ||favorit-network.com^
 ||favoriteruffle.com^
@@ -25959,6 +25969,7 @@
 ||go.drivecleaner.com^
 ||go.errorsafe.com^
 ||go.hangzhou.com.cn^
+||go.icann.org^
 ||go.jetswap.com^
 ||go.ldmtracking.com^
 ||go.loadingnow.me^
@@ -29623,6 +29634,7 @@
 ||income88.com^
 ||incoming-data-sense360.s3.amazonaws.com^
 ||incoming-news.online^
+||incoming-telemetry.thunderbird.net^
 ||incoming.bm23.com^
 ||incoming.telemetry.mozilla.org^
 ||incompatiblemisterfarmer.com^
@@ -35134,6 +35146,7 @@
 ||marketing.modalife.com^
 ||marketing.net.brillen.de^
 ||marketing.net.home24.de^
+||marketing.net.occhiali24.it^
 ||marketing.nyi.net^
 ||marketing.osijek031.com^
 ||marketing.tllms.com^
@@ -37629,6 +37642,7 @@
 ||myams.cn^
 ||myaudience.de^
 ||mybasilsoup.com^
+||mybbc-analytics.files.bbci.co.uk^
 ||mybce.top^
 ||mybestdc.com^
 ||mybestgame.net^
@@ -38319,6 +38333,8 @@
 ||netizen.co^
 ||netliker.com^
 ||netloader.cc^
+||netmera-web.com^
+||netmera.com^
 ||netminers.dk^
 ||netmining.com^
 ||netmng.com^
@@ -42055,6 +42071,7 @@
 ||ping.buto.tv^
 ||ping.chartbeat.net^
 ||ping.dozuki.com^
+||ping.hashnode.com^
 ||ping.hellobar.com^
 ||ping.hungama.com^
 ||ping.smyte.com^
@@ -44951,6 +44968,7 @@
 ||raab3frog.com^
 ||raaliforniaat.biz^
 ||rabbithole.top^
+||rabbitrifle.com^
 ||rabc1.iteye.com^
 ||rablecerta.club^
 ||raccourir.xyz^
@@ -53196,6 +53214,7 @@
 ||t.update.wtag.adaptv.advertising.com^
 ||t.vi-serve.com^
 ||t.vimeo.com^
+||t.visitorqueue.com^
 ||t.wayfair.com^
 ||t.webjavaskript.net^
 ||t.wizards.com^
@@ -55452,6 +55471,7 @@
 ||track.lobi.co^
 ||track.loopme.me^
 ||track.mads.ph^
+||track.mailalert.io^
 ||track.mailerlite.com^
 ||track.mdrctr.com^
 ||track.miro.com^
@@ -55586,6 +55606,7 @@
 ||tracker.beezup.com^
 ||tracker.bestshopping.com^
 ||tracker.blutv.com^
+||tracker.bongngo.bar^
 ||tracker.bongngo.store^
 ||tracker.brainsins.com^
 ||tracker.calameo.com^
@@ -55875,6 +55896,7 @@
 ||tracking.vtcnew.com.vn^
 ||tracking.waterfrontmedia.com^
 ||tracking.webtradecenter.com^
+||tracking.wetter.at^
 ||tracking.wlscripts.net^
 ||tracking.ws.eurosport.com^
 ||tracking.xapads.com^
@@ -56334,6 +56356,7 @@
 ||trk.adbutter.net^
 ||trk.apperol.com^
 ||trk.atomex.net^
+||trk.bad-tool-tell-doubt.xyz^
 ||trk.bc.shutterfly.com^
 ||trk.bee-data.com^
 ||trk.clinch.co^
