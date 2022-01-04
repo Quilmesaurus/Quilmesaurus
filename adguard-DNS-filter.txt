@@ -6060,6 +6060,7 @@
 ||advertisespace.com^
 ||advertiseworld.com^
 ||advertiseyourgame.com^
+||advertising-api-eu.amazon.com^
 ||advertising-money.info^
 ||advertising.amazon.co.jp^
 ||advertising.amazon.co.uk^
@@ -6495,6 +6496,7 @@
 ||affiliation.planethoster.info^
 ||affiliation.software^
 ||affiliationcash.com^
+||affiliationjs.s3.amazonaws.com^
 ||affiliationpartner.it^
 ||affiliationworld.com^
 ||affiliationzone.com^
