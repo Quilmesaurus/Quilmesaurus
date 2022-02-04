@@ -235,6 +235,7 @@
 @@||au.download.windowsupdate.com^
 @@||audible.com^
 @@||audio-ake.spotify.com.edgesuite.net^
+@@||audiobookbay.fi^
 @@||audiobookbay.nl^
 @@||audiopocket.net^
 @@||auditrecording-pa.googleapis.com^
@@ -707,6 +708,7 @@
 @@||emby.media^
 @@||emdl.ws.microsoft.com^
 @@||emjcd.com^
+@@||empornium.is^
 @@||emulator-zone.com^
 @@||emvolio.gov.gr^
 @@||en.bab.la^
@@ -1398,6 +1400,7 @@
 @@||ntp.org^
 @@||ny.com^
 @@||ny1.com^
+@@||nyaa.si^
 @@||nydailynews.com^
 @@||nymag.com^
 @@||nypost.com^
@@ -1522,6 +1525,7 @@
 @@||pimp4003-torrents.me^
 @@||pings.conviva.com^
 @@||pinimg.com^
+@@||piratebay-proxylist.com^
 @@||piratebaymirrors.com^
 @@||pittsburgh.cbslocal.com^
 @@||pixel.nymag.com^
@@ -1586,6 +1590,8 @@
 @@||proxy.plex.bz^
 @@||proxy.plex.tv^
 @@||proxy02.pop.ord.plex.bz^
+@@||proxybay.github.io^
+@@||proxyof2.com^
 @@||pt.afl.rakuten.co.jp^
 @@||public-api.wordpress.com^
 @@||publichd.to^
@@ -1856,6 +1862,7 @@
 @@||subloader.com^
 @@||subscene.com^
 @@||subscribe.wired.com^
+@@||sukebei.nyaa.si^
 @@||sumatrapdfreader.org^
 @@||support.dnsimple.com^
 @@||support.microsoft.com^
@@ -1924,6 +1931,7 @@
 @@||thepiratebay.org^
 @@||thepiratebay.se^
 @@||thepiratebay.vg^
+@@||thepiratebay0.org^
 @@||thepiratebay10.org^
 @@||theralphretort.com^
 @@||theregister.co.uk^
@@ -2009,6 +2017,9 @@
 @@||uj3wazyk5u4hnvtk.onion.link^
 @@||ulmf.org^
 @@||unagi-na.amazon.com^
+@@||unblockit.how^
+@@||unblockninja.com^
+@@||unblocktorrents.github.io^
 @@||underarmour.scene7.com^
 @@||unibytes.com^
 @@||unity3d.com^
@@ -2259,6 +2270,7 @@
 @@||www.eleftheriaonline.gr^
 @@||www.elephantjournal.com^
 @@||www.emjcd.com^
+@@||www.empornium.is^
 @@||www.empornium.me^
 @@||www.emuparadise.mobi^
 @@||www.en.w3schools.com^
