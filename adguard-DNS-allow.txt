@@ -318,6 +318,7 @@
 @@||blogs.discovermagazine.com^
 @@||blogs.indiewire.com^
 @@||blogs.techrepublic.com^
+@@||blogspot.com^
 @@||board.jdownloader.org^
 @@||boards.greenhouse.io^
 @@||bokser.org^
