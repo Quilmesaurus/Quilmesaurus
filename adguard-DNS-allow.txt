@@ -587,6 +587,7 @@
 @@||de.catbox.moe^
 @@||debian.org^
 @@||dediseedbox.com^
+@@||deepl.com^
 @@||def-vef.xboxlive.com^
 @@||definitionupdates.microsoft.com^
 @@||delivery.vidible.tv^
@@ -1317,6 +1318,7 @@
 @@||msg.yahoo.com^
 @@||msh.amazon.com^
 @@||msn.com^
+@@||mtool.app^
 @@||multiup.org^
 @@||mva.microsoft.com^
 @@||my.jdownloader.org^
@@ -1991,6 +1993,7 @@
 @@||translate.google.com^
 @@||travel.latimes.com^
 @@||triplebyte.com^
+@@||trs.mtool.app^
 @@||truste.com^
 @@||tuba.fm^
 @@||tubemate.net^
@@ -2513,6 +2516,7 @@
 @@||www.zippyshare.com^
 @@||www.zoho.com^
 @@||www.zytpirwai.net^
+@@||www2.deepl.com^
 @@||www2.jlist.com^
 @@||www5.econ.ne.jp^
 @@||www6.freewrt.org^
