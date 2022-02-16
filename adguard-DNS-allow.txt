@@ -41,6 +41,8 @@
 @@||2shared.com^
 @@||4.bp.blogspot.com^
 @@||4cdn.org^
+@@||4chan.org^
+@@||4channel.org^
 @@||4shared.com^
 @@||5231.xg4ken.com^
 @@||7eer.net^
@@ -53,6 +55,7 @@
 @@||a.disquscdn.com^
 @@||a.pomf.se^
 @@||a.sellpoint.net^
+@@||a.thumbs.redditmedia.com^
 @@||a.trellocdn.com^
 @@||a1014.g.akamai.net^
 @@||a463.w10.akamai.net^
@@ -170,6 +173,7 @@
 @@||api.dropboxapi.com^
 @@||api.getpocket.com^
 @@||api.github.com^
+@@||api.imgur.com^
 @@||api.ipify.org^
 @@||api.medium.com^
 @@||api.nextgen.guardianapps.co.uk^
@@ -320,6 +324,8 @@
 @@||blogs.techrepublic.com^
 @@||blogspot.com^
 @@||board.jdownloader.org^
+@@||boards.4chan.org^
+@@||boards.4channel.org^
 @@||boards.greenhouse.io^
 @@||bokser.org^
 @@||bookmarklets.com^
@@ -669,6 +675,7 @@
 @@||dropbox.com^
 @@||dropboxwiki.com^
 @@||dsms0mj1bbhn4.cloudfront.net^
+@@||dualstack.reddit.map.fastly.net^
 @@||dub120.mail.live.com^
 @@||duckduckgo.com^
 @@||dw.techrepublic.com^
@@ -864,6 +871,7 @@
 @@||gcm.googleapis.com^
 @@||gearbest.com^
 @@||geforce.com^
+@@||gelbooru.com^
 @@||geo-prod.do.dsp.mp.microsoft.com^
 @@||geo3.ggpht.com^
 @@||get.adobe.com^
@@ -918,6 +926,7 @@
 @@||gopjn.com^
 @@||gov.gr^
 @@||gp.se^
+@@||gql.reddit.com^
 @@||gravatar.com^
 @@||grecostrom.gr^
 @@||greyenlightenment.com^
@@ -1055,6 +1064,7 @@
 @@||in-addr.arpa^
 @@||in.linkedin.com^
 @@||in.yahoo.com^
+@@||inalan.gr^
 @@||inc.com^
 @@||indeed.com^
 @@||indianexpress.com^
@@ -1077,6 +1087,7 @@
 @@||iptorrents.me/cdn-cgi/bm^
 @@||iptorrents.me^
 @@||iptorrents.ru^
+@@||ipv4.imgur.map.fastly.net^
 @@||ipv6.ndtv.com.edgekey.net^
 @@||iqdb.org^
 @@||ir.ebaystatic.com^
@@ -1321,6 +1332,7 @@
 @@||mtool.app^
 @@||multiup.org^
 @@||mva.microsoft.com^
+@@||my.inalan.gr^
 @@||my.jdownloader.org^
 @@||my.plexapp.com^
 @@||my.seedit4.me^
@@ -1594,6 +1606,7 @@
 @@||proxy.plex.tv^
 @@||proxy02.pop.ord.plex.bz^
 @@||proxybay.github.io^
+@@||proxyof.com^
 @@||proxyof2.com^
 @@||pt.afl.rakuten.co.jp^
 @@||public-api.wordpress.com^
@@ -1636,9 +1649,11 @@
 @@||real-debrid.com^
 @@||realestate.nj.com^
 @@||recaptcha.net^
+@@||redd.it^
 @@||reddestdream.github.io^
 @@||redditlist.com^
 @@||redditmedia.comm^
+@@||redditmedia.com^
 @@||redditstatic.com^
 @@||redfin.com^
 @@||redir.tradedoubler.com^
@@ -1708,6 +1723,8 @@
 @@||sakuradite.com^
 @@||samsung.com^
 @@||sanfrancisco.cbslocal.com^
+@@||sankaku.b-cdn.net^
+@@||sankakucomplex.com^
 @@||satkurier.pl^
 @@||saucenao.com^
 @@||sb-ssl.google.com^
@@ -1974,11 +1991,13 @@
 @@||torcache.gs^
 @@||toreedgefd.dsx.mp.microsoft.com^
 @@||torrage.com^
+@@||torrends.to^
 @@||torrent-finder.info^
 @@||torrentbytes.net^
 @@||torrentfreak.com^
 @@||torrents.yourexotic.com^
 @@||torrentshack.me^
+@@||torrentsites.com^
 @@||toysrus.com^
 @@||tplinkextender.net^
 @@||tr4.cbsistatic.com^
@@ -2021,6 +2040,7 @@
 @@||uj3wazyk5u4hnvtk.onion.link^
 @@||ulmf.org^
 @@||unagi-na.amazon.com^
+@@||unblockit.cam^
 @@||unblockit.how^
 @@||unblockninja.com^
 @@||unblocktorrents.github.io^
@@ -2056,6 +2076,8 @@
 @@||userstyles.org^
 @@||v.firebog.net^
 @@||v.pinimg.com^
+@@||v.redd.it^
+@@||v.sankakucomplex.com^
 @@||v0.wordpress.com^
 @@||v10.events.data.microsoft.com^
 @@||v20.events.data.microsoft.com^
@@ -2534,6 +2556,7 @@
 @@||xmpp-server.l.google.com^
 @@||xsts.auth.xboxlive.com^
 @@||yadi.sk^
+@@||yande.re^
 @@||yandex.com^
 @@||yandex.ru^
 @@||yastatic.net^
