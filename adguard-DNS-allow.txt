@@ -100,6 +100,7 @@
 @@||adf.ly^
 @@||adfoc.us^
 @@||adguard.com^
+@@||adguard.org^
 @@||adidas.com^
 @@||admin.dable.io^
 @@||adtidy.org^
@@ -128,6 +129,7 @@
 @@||alluremedia.com.au^
 @@||alluremedia.com^
 @@||aloha.viber.com^
+@@||aloha46.viber.com^
 @@||alternative-right.blogspot.gr^
 @@||alternativeto.net^
 @@||amazon.at^
@@ -166,6 +168,7 @@
 @@||api-ep.worldweatheronline.com^
 @@||api-global.netflix.com^
 @@||api-godaddy.nd.nudatasecurity.com^
+@@||api-m.paypal.com^
 @@||api.accounts.firefox.com^
 @@||api.adguard.com^
 @@||api.apptentive.com^
@@ -213,6 +216,7 @@
 @@||archive.is^
 @@||archive.moe^
 @@||archive.org^
+@@||archive.raspberrypi.org^
 @@||archive.wakarimasen.moe^
 @@||archived.moe^
 @@||arstechnica.com^
@@ -673,6 +677,7 @@
 @@||drop.ndtv.com.edgekey.net^
 @@||dropbox.comdl.dropbox.com^
 @@||dropbox.com^
+@@||dropboxapi.com^
 @@||dropboxwiki.com^
 @@||dsms0mj1bbhn4.cloudfront.net^
 @@||dualstack.reddit.map.fastly.net^
@@ -803,6 +808,7 @@
 @@||finance.yahoo.com^
 @@||financialexpress.com^
 @@||firebasestorage.googleapis.com^
+@@||firefox.com^
 @@||firestore.googleapis.com^
 @@||flashgames247.com^
 @@||flashtorrents.org^
@@ -1138,6 +1144,7 @@
 @@||kit-free.fontawesome.com^
 @@||kit-pro.fontawesome.com^
 @@||kit.fontawesome.com^
+@@||kiwibrowser.com^
 @@||kmart.com^
 @@||knowyourmeme.com^
 @@||kodi^
@@ -1362,6 +1369,7 @@
 @@||netbsd.org^
 @@||netdna.bootstrapcdn.com^
 @@||netflix.com^
+@@||netmon-control.dropbox.com^
 @@||netpnb.com^
 @@||nettop.gr^
 @@||new.ixquick.com^
@@ -1591,6 +1599,7 @@
 @@||prnt.sc^
 @@||prod.telemetry.ros.rockstargames.com^
 @@||products.office.com^
+@@||profile.accounts.firefox.com^
 @@||profit.ndtv.com^
 @@||projectgus.com^
 @@||projectwonderful.com^
@@ -1636,6 +1645,7 @@
 @@||rapidvideo.com^
 @@||rarbg.com^
 @@||rarbgproxy.org^
+@@||raspberrypi.org^
 @@||raspberrytips.com^
 @@||raw.githack.com^
 @@||raw.github.com^
@@ -2010,7 +2020,6 @@
 @@||trailers.apple.com^
 @@||trak.in^
 @@||translate.google.com^
-@@||travel.latimes.com^
 @@||triplebyte.com^
 @@||trs.mtool.app^
 @@||truste.com^
@@ -2053,6 +2062,7 @@
 @@||unsplash.com^
 @@||update.code.visualstudio.com^
 @@||update.dreamsavior.net^
+@@||update.kiwibrowser.com^
 @@||update.pushbullet.com^
 @@||updates-http.cdn-apple.com^
 @@||updates.push.services.mozilla.com^
@@ -2086,6 +2096,7 @@
 @@||variety.com^
 @@||vc.yahoo.com^
 @@||verisign.com^
+@@||versioncheck.addons.mozilla.org^
 @@||vgy.me^
 @@||viber.com^
 @@||vice.com^
