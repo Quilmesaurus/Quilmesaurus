@@ -180,6 +180,7 @@
 @@||api.ipify.org^
 @@||api.medium.com^
 @@||api.nextgen.guardianapps.co.uk^
+@@||api.opap.gr^
 @@||api.peer5.com^
 @@||api.pluto.tv^
 @@||api.pushbullet.com^
@@ -2190,6 +2191,7 @@
 @@||wnba.com^
 @@||wordpress.com^
 @@||wp.com^
+@@||wqoq0j4z8s71q7ew.opap.gr^
 @@||wrongsideofhistoryblog.wordpress.com^
 @@||ws.audioscrobbler.com^
 @@||wsj.com^
@@ -2426,6 +2428,7 @@
 @@||www.olx.in^
 @@||www.oneclickroot.com^
 @@||www.onenetworkdirect.net^
+@@||www.opap.gr^
 @@||www.opennic.org^
 @@||www.overthinkingit.com^
 @@||www.ow.ly^
