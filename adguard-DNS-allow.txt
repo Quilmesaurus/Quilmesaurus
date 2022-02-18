@@ -1489,6 +1489,7 @@
 @@||onesignal.com^
 @@||onet.pl^
 @@||onlinecourses.nptel.ac.in^
+@@||opap.gr^
 @@||open.fm^
 @@||openapi.samsung.com^
 @@||openbsd.org^
@@ -2040,6 +2041,7 @@
 @@||tweakhound.com^
 @@||twimg.com^
 @@||twimg0-a.akamaihd.net^
+@@||tzoker.opap.gr^
 @@||u.nya.is^
 @@||ublock0.chrome-scheme^
 @@||ubuntuforums.org^
