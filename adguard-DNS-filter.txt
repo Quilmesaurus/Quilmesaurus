@@ -13634,6 +13634,7 @@
 ||c.cintnetworks.com^
 ||c.clicktale.net^
 ||c.compete.com^
+||c.conversionlogic.net^
 ||c.cpa5.ru^
 ||c.cpa6.ru^
 ||c.cpl2.ru^
@@ -24749,6 +24750,8 @@
 ||famousquarter.com^
 ||fancialsilveun.club^
 ||fancyfourthvolcano.com^
+||fandango.sc.omtrdc.net^
+||fandango.tt.omtrdc.net^
 ||fandangollc.demdex.net^
 ||fandelcot.com^
 ||fandmo.com^
@@ -34557,6 +34560,7 @@
 ||jpqgxy.com^
 ||jps.ru^
 ||jpush.cn^
+||jpush.io^
 ||jqdnvg.com^
 ||jqk2me2mzf.ru^
 ||jqk72ugyl2pz.com^
@@ -65184,6 +65188,7 @@
 ||t.cinemablend.com^
 ||t.clic2buy.com^
 ||t.cnscore.com^
+||t.contentsquare.net^
 ||t.cr-nielsen.com^
 ||t.custora.com^
 ||t.d.adup-tech.com^
@@ -82793,6 +82798,7 @@
 ||zmusic-online.com^
 ||zmyuer.com^
 ||zn1ynnliufrct75cb-paypalxm.siteintercept.qualtrics.com^
+||zn6sdb0uwojrglmmn-fandango.siteintercept.qualtrics.com^
 ||znaptag.com^
 ||znbdr.com^
 ||zncat.cn^
