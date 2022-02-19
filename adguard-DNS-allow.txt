@@ -195,6 +195,7 @@
 @@||app-api.ted.com^
 @@||app.adaway.org^
 @@||app.adjust.com^
+@@||app.adjust.net.in^
 @@||app.convertkit.com^
 @@||app.plex.tv^
 @@||app.sinilink.com^
