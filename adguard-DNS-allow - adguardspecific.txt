@@ -513,6 +513,7 @@
 @@||collegehumor.com^$important
 @@||colonyofcommodus.wordpress.com^$important
 @@||commission-junction.com^$important
+@@||community.cloudflare.steamstatic.com
 @@||community.cloudflare.steamstatic.com^$important
 @@||community.plus.net^$important
 @@||community.spiceworks.com^$important
@@ -654,6 +655,7 @@
 @@||dn.se^$important
 @@||dns.google^$important
 @@||dns.msftncsi.com^$important
+@@||dnsotls-ds.metric.gstatic.com^$important
 @@||docs.docker.com^$important
 @@||docs.google.comn^$important
 @@||docs.google.com^$important
@@ -1530,6 +1532,7 @@
 @@||pathe.emsecure.net^$important
 @@||paypal.com^$important
 @@||paypal.de^$important
+@@||paypalobjects.com^$important
 @@||paytm.com^$important
 @@||pentapostagma.disqus.com^$important
 @@||people.com^$important
@@ -1555,6 +1558,7 @@
 @@||pittsburgh.cbslocal.com^$important
 @@||pixel.nymag.com^$important
 @@||pixel.wp.com^$important
+@@||pixlr.com$generichide
 @@||pjatr.com^$important
 @@||pjtra.com^$important
 @@||pkobp.pl^$important
@@ -1875,6 +1879,8 @@
 @@||stats.streamelements.com^$important
 @@||status.plex.tv^$important
 @@||steamcommunity.com^$important
+@@||steampowered.com^$important
+@@||steamstatic.com^$important
 @@||stickypassword.com^$important
 @@||stitcher.pluto.tv^$important
 @@||stopklatka.pl^$important
@@ -2370,6 +2376,7 @@
 @@||www.kathimerini.gr^$important
 @@||www.kqzyfj.com^$important
 @@||www.kungfucinema.com^$important
+@@||www.lastpass.com^$important
 @@||www.legal.medium.com^$important
 @@||www.li.techrepublic.com^$important
 @@||www.licensedpackages.chocolatey.org^$important
