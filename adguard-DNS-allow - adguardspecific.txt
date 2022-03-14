@@ -1834,6 +1834,7 @@
 @@||spclient.wg.spotify.com^$important
 @@||speedtest.net^$important
 @@||spiceworks.com^$important
+@@||sponsor.ajay.app^$important
 @@||sport.onet.pl^$important
 @@||sport.pl^$important
 @@||sports.latimes.com^$important
