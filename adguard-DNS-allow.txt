@@ -743,7 +743,6 @@
 @@||esoterictrad.wordpress.com^
 @@||espn.com^
 @@||eu.ixquick-proxy.com^
-@@||event.mi.com^
 @@||events.gfe.nvidia.com^
 @@||everydayhealth.com^
 @@||evoke-windowsservices-tas.msedge.net^
@@ -908,7 +907,6 @@
 @@||gizbot.com^
 @@||gizmodo.com.au^
 @@||gizmodo.com^
-@@||global.account.xiaomi.com^
 @@||glyph.medium.com^
 @@||gmail.com^
 @@||gmail.google.com^
@@ -1307,7 +1305,6 @@
 @@||meta.wikimedia.org^
 @@||metrics.plex.tv^
 @@||mexa.sh^
-@@||mi.com^
 @@||miami.cbslocal.com^
 @@||microg.org^
 @@||microsoft.com^
@@ -2400,7 +2397,6 @@
 @@||www.meetu.ps^
 @@||www.meetup.com^
 @@||www.members.medium.com^
-@@||www.mi.com^
 @@||www.microsoft.com^
 @@||www.microsofttranslator.com^
 @@||www.mininova.org^
