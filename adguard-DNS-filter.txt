@@ -2224,6 +2224,7 @@
 ||929408468507536.mateti.net^
 ||92ec94d51076357.com^
 ||92mile.com^
+||9309168.fls.doubleclick.net^
 ||931b4fb4be61b.com^
 ||9376ec23d50b1.com^
 ||9377aa.com^
@@ -7389,6 +7390,7 @@
 ||akabo.ru^
 ||akacdn.doubleverify.com.edgekey.net^
 ||akailoparzapi.com^
+||akamai-cdn.perfops.io^
 ||akamai.downloadv3.com^
 ||akamai.mathtag.com^
 ||akamaihd.site^
@@ -12806,6 +12808,7 @@
 ||bjs.faxingzhan.com^
 ||bjsjyg.cn^
 ||bjtengda.cn^
+||bjuser.jpush.cn^
 ||bjwxwgsittsf.com^
 ||bjxfinance.cn^
 ||bjxgw.top^
@@ -14159,6 +14162,7 @@
 ||c.r10.mopub.com^
 ||c.riskified.com^
 ||c.rssnzw.cn^
+||c.sf-syn.com^
 ||c.sharethis.mgr.consensu.org^
 ||c.sibnet.ru^
 ||c.snow.com^
@@ -15312,6 +15316,7 @@
 ||cdn.teads.tv.edgekey.net^
 ||cdn.teads.tv^
 ||cdn.tekoapis.com^
+||cdn.threadloom.com^
 ||cdn.tinypass.com^
 ||cdn.tmooc.cn^
 ||cdn.trafficexchangelist.com^
@@ -17472,6 +17477,7 @@
 ||collector.cdp.cnn.com^
 ||collector.cint.com^
 ||collector.clareity.net^
+||collector.cloudmosa.net^
 ||collector.doordash.com^
 ||collector.effectivemeasure.net^
 ||collector.getyourguide.com^
@@ -19167,6 +19173,7 @@
 ||csp-oz66pp.ru^
 ||csp.archant.co.uk^
 ||csp.va1.vip.prod.criteo.com^
+||csp.withgoogle.com^
 ||cspb1.5w5w.com^
 ||csqiulong.com^
 ||csr.onet.pl^
@@ -19517,6 +19524,7 @@
 ||d.c.appier.net^
 ||d.clarity.ms^
 ||d.dgzj.com^
+||d.email.forbes.com^
 ||d.eu.criteo.com^
 ||d.g.mi.com^
 ||d.haberler.com^
@@ -20414,6 +20422,7 @@
 ||datacloud-us-east-1.tealiumiq.com^
 ||datacloud.tealiumiq.com^
 ||datacollect9.abtasty.com^
+||datacollector-dre.dt.hicloud.com^
 ||datacoral.com^
 ||datacoral.io^
 ||datacygnal.io^
@@ -27842,6 +27851,7 @@
 ||furyleage.xyz^
 ||furyx.de^
 ||fuse-data.com^
+||fuse.forbes.com^
 ||fuseplatform.net^
 ||fusestats.com^
 ||fusion-files-cf.pinsightmedia.com^
@@ -28706,6 +28716,7 @@
 ||geoloc.hurriyet.com.tr^
 ||geoloc.yospace.com^
 ||geolocation-db.com^
+||geolocation.forbes.com^
 ||geolocation.onetrust.com^
 ||geolocation.outreach.com^
 ||geolocation.performgroup.com^
@@ -30418,6 +30429,7 @@
 ||go.wilshirefp.com^
 ||go.winantispyware.com^
 ||go.winantivirus.com^
+||go.windowsreport.com^
 ||go.wiremasters.net^
 ||go.wm.plantemoran.com^
 ||go.wodify.com^
@@ -31533,6 +31545,7 @@
 ||h.ophan.co.uk^
 ||h.parrable.com^
 ||h.seznam.cz^
+||h.trace.qq.com^
 ||h0.t.hubspotemail.net^
 ||h01ce.cn^
 ||h0o33.cn^
@@ -34433,6 +34446,7 @@
 ||info-email--online.net^
 ||info-email-online.net^
 ||info-megarules.ru^
+||info.3g.qq.com^
 ||info.acton-success.com^
 ||info.adacado.com^
 ||info.adspruce.com^
@@ -38749,6 +38763,7 @@
 ||localsearch24.co.uk^
 ||localsnaughty.com^
 ||localytics.com^
+||local^
 ||locatedunderwear.com^
 ||location-voitures.ma^
 ||locationdevoiture01.wt-eu02.net^
@@ -42093,6 +42108,7 @@
 ||metrics.toysrus.com^
 ||metrics.truffaut.com^
 ||metrics.tv2.dk^
+||metrics.ubuntu.com^
 ||metrics.washingtonpost.com^
 ||metrics.windowsitpro.com^
 ||metrics0.com^
@@ -45398,6 +45414,7 @@
 ||mwcvu.com^
 ||mwjpk.com^
 ||mwor.gq^
+||mws20.mycelium.com^
 ||mwsex.info^
 ||mwsn.it^
 ||mwstats.net^
@@ -47731,6 +47748,7 @@
 ||o01fv23.loan^
 ||o0bc.com^
 ||o1.jyjyj.cn^
+||o1069899.ingest.sentry.io^
 ||o2o.api.xiaomi.com^
 ||o333o.com^
 ||o3lqkuk5vq.ru^
@@ -52912,6 +52930,7 @@
 ||perfecttds.net^
 ||perfiliate.com^
 ||perfmelab.com^
+||perfops.5centscdn.com^
 ||perfops.io^
 ||performance-based.com^
 ||performance-netzwerk.de^
@@ -54773,6 +54792,7 @@
 ||privacyguarantor.com^
 ||privacyheelvest.com^
 ||privacyportal-de.onetrust.com^
+||privacyportal-eu.onetrust.com^
 ||privacyportal.onetrust.com^
 ||privacysearching.com^
 ||privacysecurityprotection.com^
@@ -55635,6 +55655,7 @@
 ||pushrase.com^
 ||pushs.site^
 ||pushsar.com^
+||pushstyle.jpush.cn^
 ||pushtimize.com^
 ||pushtora.com^
 ||pushtrack.co^
@@ -57371,6 +57392,7 @@
 ||repocarfinder.com^
 ||repodownload.mediatek.com^
 ||reporo.net^
+||report-stats.ad.jiguang.cn^
 ||report-uri.io^
 ||report.adview.cn^
 ||report.appmetrica.yandex.net^
@@ -65671,6 +65693,7 @@
 ||static-ads.akamaized.net^
 ||static-ads.zaloapp.com^
 ||static-cdn.adblade.com^
+||static-cdn.spot.im^
 ||static-cdn.spot.i^
 ||static-cn.plista.com^
 ||static-content-1.smadex.com^
@@ -71883,6 +71906,7 @@
 ||uoycc.cyou^
 ||uoyrsd.com^
 ||up-coop.eulerian.net^
+||up-hl.3g.qq.com^
 ||up-rank.com^
 ||up.hiao.com^
 ||up2you.ru^
@@ -74980,6 +75004,7 @@
 ||widgets.planeta.ru^
 ||widgets.privateproperty.com.ng^
 ||widgets.progrids.com^
+||widgets.reevoo.com^
 ||widgets.sprinklecontent.com^
 ||widgets.tcimg.com^
 ||widgets.tree.com^
@@ -81297,6 +81322,7 @@
 ||www.smsversand.net^
 ||www.smtp.ru^
 ||www.smutgates.com^
+||www.snapengage.com^
 ||www.snappy-music.com^
 ||www.snasidsopa.com^
 ||www.snatchredcasino.com^
@@ -84651,6 +84677,7 @@
 ||yume.com^
 ||yumenetworks.com^
 ||yummycompt.com^
+||yun-hl.3g.qq.com^
 ||yun-pdm2000.cn^
 ||yun-pdm5000.cn^
 ||yun.rili.cn^
