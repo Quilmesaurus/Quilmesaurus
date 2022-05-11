@@ -1349,6 +1349,7 @@
 @@||my.xmarks.com^$important
 @@||myanonamouse.net^$important
 @@||myshadow.org^$important
+@@||mywindapp.page.link^^$important
 @@||mywot.com^$important
 @@||mzstatic.com^$important
 @@||namecheap.com^$important
