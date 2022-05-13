@@ -1910,6 +1910,7 @@
 @@||sweclockers.com^$important
 @@||sydneytrads.com^$important
 @@||sync.brave.com^$important
+@@||syncthing.net^$important
 @@||synctocloud.net^$important
 @@||sys.4chan.org^$important
 @@||sys.4channel.org^$important
