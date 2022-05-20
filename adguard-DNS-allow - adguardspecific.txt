@@ -2612,3 +2612,4 @@
 @@||zomato.com^$important
 @@||zoom.us^$important
 @@||zoso.ro^$important
+@@||auslogics.com^$important
