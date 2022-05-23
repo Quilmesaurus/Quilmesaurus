@@ -249,6 +249,7 @@
 @@||audiobookbay.nl^
 @@||audiopocket.net^
 @@||auditrecording-pa.googleapis.com^
+@@||auslogics.com^
 @@||auth.gfx.ms^
 @@||auto.au.download.windowsupdate.com.c.footprint.net^
 @@||autotriti.gr^
@@ -686,6 +687,7 @@
 @@||dsms0mj1bbhn4.cloudfront.net^
 @@||dualstack.reddit.map.fastly.net^
 @@||dub120.mail.live.com^
+@@||duckdns.org^
 @@||duckduckgo.com^
 @@||dw.techrepublic.com^
 @@||dweb.link^
@@ -2612,4 +2614,3 @@
 @@||zomato.com^
 @@||zoom.us^
 @@||zoso.ro^
-@@||auslogics.com^
