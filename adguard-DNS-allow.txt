@@ -555,6 +555,7 @@
 @@||crl.microsoft.com^
 @@||crl.verisign.net^
 @@||crunchbase.com^
+@@||crustwebsites.net^
 @@||cryptauthenrollment.googleapis.com^
 @@||cryptostorm.is^
 @@||cryptostorm.org^
@@ -1087,6 +1088,7 @@
 @@||intsig.net^
 @@||investorplace.com^
 @@||inviteshare.com^
+@@||ipfs.fleek.co^
 @@||ipfs.io^
 @@||ipinfo.io^
 @@||ipla.tv^
