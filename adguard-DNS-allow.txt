@@ -1615,6 +1615,7 @@
 @@||partner.microsoft.com^
 @@||partners.webmasterplan.com^
 @@||pathe.emsecure.net^
+@@||paypal-dynamic.map.fastly.net^
 @@||paypal.com^
 @@||paypal.de^
 @@||paypalobjects.com^
