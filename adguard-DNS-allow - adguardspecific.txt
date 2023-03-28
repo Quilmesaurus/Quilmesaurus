@@ -921,6 +921,7 @@
 @@||git.teknik.io^$important
 @@||gitcdn.xyz^$important
 @@||gitee.com^$important
+@@||gitgud.io^$important
 @@||github.com^$important
 @@||github.hubspot.com^$important
 @@||github.io^$important
@@ -968,6 +969,7 @@
 @@||grp07.ias.rakuten.co.jp^$important
 @@||gs.apple.com^$important
 @@||gs.statcounter.com^$important
+@@||gsis.gr^$important
 @@||gslb.spotify.com^$important
 @@||gstatic.com^$important
 @@||guardian-d.openx.net^$important
@@ -1296,6 +1298,7 @@
 @@||lodz.tvp.pl^$important
 @@||log.mmstat.com^$important
 @@||login.dlsite.com^$important
+@@||login.gsis.gr^$important
 @@||login.live.com^$important
 @@||login.microsoftonline.com^$important
 @@||login.msa.akadns6.net^$important
