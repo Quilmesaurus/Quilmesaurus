@@ -176,6 +176,7 @@
 @@||api.adguard.com^$important
 @@||api.apptentive.com^$important
 @@||api.bountysource.com^$important
+@@||api.cloud.tenda.com.cn^$important
 @@||api.dropboxapi.com^$important
 @@||api.getpocket.com^$important
 @@||api.github.com^$important
@@ -249,6 +250,7 @@
 @@||au.download.windowsupdate.com.edgesuite.net^$important
 @@||au.download.windowsupdate.com^$important
 @@||audible.com^$important
+@@||audible.sc.omtrdc.net^$important
 @@||audio-ake.spotify.com.edgesuite.net^$important
 @@||audiobookbay.fi^$important
 @@||audiobookbay.nl^$important
@@ -958,6 +960,7 @@
 @@||gravity.jup.io^$important
 @@||grecostrom.gr^$important
 @@||greyenlightenment.com^$important
+@@||ground.onelink.me^$important
 @@||groupon.com^$important
 @@||groups.google.com^$important
 @@||grp07.ias.rakuten.co.jp^$important
@@ -1285,6 +1288,7 @@
 @@||local.adguard.org^$important
 @@||localfonts.eu^$important
 @@||localhost^$important
+@@||local^$important
 @@||location-inference-westus.cloudapp.net^$important
 @@||location.services.mozilla.com^$important
 @@||lodz.tvp.pl^$important
@@ -1432,6 +1436,7 @@
 @@||my.xmarks.com^$important
 @@||myanonamouse.net^$important
 @@||myshadow.org^$important
+@@||mywindapp.page.link^$important
 @@||mywindapp.page.link^^$important
 @@||mywot.com^$important
 @@||mzstatic.com^$important
@@ -1739,6 +1744,7 @@
 @@||rapidvideo.com^$important
 @@||rarbg.com^$important
 @@||rarbgproxy.org^$important
+@@||raspberrypi.local^$important
 @@||raspberrypi.org^$important
 @@||raspberrytips.com^$important
 @@||ravencoinipfs-gateway.com^$important

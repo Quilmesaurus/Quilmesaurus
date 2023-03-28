@@ -176,6 +176,7 @@
 @@||api.adguard.com^
 @@||api.apptentive.com^
 @@||api.bountysource.com^
+@@||api.cloud.tenda.com.cn^
 @@||api.dropboxapi.com^
 @@||api.getpocket.com^
 @@||api.github.com^
@@ -249,6 +250,7 @@
 @@||au.download.windowsupdate.com.edgesuite.net^
 @@||au.download.windowsupdate.com^
 @@||audible.com^
+@@||audible.sc.omtrdc.net^
 @@||audio-ake.spotify.com.edgesuite.net^
 @@||audiobookbay.fi^
 @@||audiobookbay.nl^
@@ -958,6 +960,7 @@
 @@||gravity.jup.io^
 @@||grecostrom.gr^
 @@||greyenlightenment.com^
+@@||ground.onelink.me^
 @@||groupon.com^
 @@||groups.google.com^
 @@||grp07.ias.rakuten.co.jp^
@@ -1285,6 +1288,7 @@
 @@||local.adguard.org^
 @@||localfonts.eu^
 @@||localhost^
+@@||local^
 @@||location-inference-westus.cloudapp.net^
 @@||location.services.mozilla.com^
 @@||lodz.tvp.pl^
@@ -1739,6 +1743,7 @@
 @@||rapidvideo.com^
 @@||rarbg.com^
 @@||rarbgproxy.org^
+@@||raspberrypi.local^
 @@||raspberrypi.org^
 @@||raspberrytips.com^
 @@||ravencoinipfs-gateway.com^
