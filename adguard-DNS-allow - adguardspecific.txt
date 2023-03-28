@@ -6,6 +6,7 @@
 @@||10.via0.com^$important
 @@||127.0.0.1^$important
 @@||151.101.38.49^$important
+@@||192.168.100.108^$important
 @@||192.168.100.111^$important
 @@||192.168.100.112^$important
 @@||192.168.100.113^$important
@@ -22,6 +23,7 @@
 @@||192.168.100.1^$important
 @@||192.168.100.2^$important
 @@||192.168.100.3^$important
+@@||192.168.100.44^$important
 @@||192.168.100.5^$important
 @@||192.168.100.65^$important
 @@||192.168.100.7^$important
