@@ -1841,6 +1841,7 @@
 @@||sanfrancisco.cbslocal.com^$important
 @@||sankaku.b-cdn.net^$important
 @@||sankakucomplex.com^$important
+@@||sapphire.moe^$important
 @@||satkurier.pl^$important
 @@||saucenao.com^$important
 @@||sb-ssl.google.com^$important

@@ -1840,6 +1840,7 @@
 @@||sanfrancisco.cbslocal.com^
 @@||sankaku.b-cdn.net^
 @@||sankakucomplex.com^
+@@||sapphire.moe^
 @@||satkurier.pl^
 @@||saucenao.com^
 @@||sb-ssl.google.com^
