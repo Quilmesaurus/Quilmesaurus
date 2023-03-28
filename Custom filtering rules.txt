@@ -100,6 +100,7 @@
 @@||login.xmarks.com^$important
 @@||mailcatch.com^$important
 @@||mashable.com^$important
+@@||miwifi.com^$important
 @@||msn.com^$important
 @@||my.tealiumiq.com^$important
 @@||my.xmarks.com^$important
@@ -215,6 +216,7 @@
 ||graph.facebook.com^$important
 ||in.tv.global.mi.com^$important
 ||js.driftt.com^$important
+||mtalk.google.com^$important
 ||safebrowsing.googleapis.com^$important
 ||sessions.bugsnag.com^$important
 ||tv.global.mi.com^$important
