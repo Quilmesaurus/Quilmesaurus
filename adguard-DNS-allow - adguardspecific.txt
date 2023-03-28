@@ -339,6 +339,7 @@
 @@||blogs.indiewire.com^$important
 @@||blogs.techrepublic.com^$important
 @@||blogspot.com^$important
+@@||bluemailapp.com^$important
 @@||board.jdownloader.org^$important
 @@||boards.4chan.org^$important
 @@||boards.4channel.org^$important
