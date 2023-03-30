@@ -49,6 +49,7 @@
 @@||cs.attiki-odos.gr^$important
 @@||cs.silverpop.com^$important
 @@||cutcaptcha.com^$important
+@@||datadome.patreon.com^$important
 @@||dediseedbox.com^$important
 @@||dilbert.com^$important
 @@||dilosi.services.gov.gr^$important
