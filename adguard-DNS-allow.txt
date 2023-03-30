@@ -1408,6 +1408,7 @@
 @@||mirror1.malwaredomains.com^
 @@||mistrzowie.org^
 @@||mitpress.mit.edu^
+@@||miwifi.com^
 @@||mix1065fm.cbslocal.com^
 @@||mlb.com^
 @@||mls.com^
@@ -1443,6 +1444,7 @@
 @@||myanonamouse.net^
 @@||myshadow.org^
 @@||mywindapp.page.link^
+@@||mywindapp.page.link^^
 @@||mywot.com^
 @@||mzstatic.com^
 @@||namecheap.com^
@@ -1588,6 +1590,7 @@
 @@||onet.pl^
 @@||onlinecourses.nptel.ac.in^
 @@||opap.gr^
+@@||opap.my.salesforce.com^
 @@||open.fm^
 @@||openapi.samsung.com^
 @@||openbsd.org^
@@ -1625,6 +1628,8 @@
 @@||partner.microsoft.com^
 @@||partners.webmasterplan.com^
 @@||pathe.emsecure.net^
+@@||patreon.com^
+@@||patreonusercontent.com^
 @@||paypal-dynamic.map.fastly.net^
 @@||paypal.com^
 @@||paypal.de^
@@ -2015,6 +2020,7 @@
 @@||sweclockers.com^
 @@||sydneytrads.com^
 @@||sync.brave.com^
+@@||sync.local^$client='192.168.100.3'
 @@||syncthing.net^
 @@||synctocloud.net^
 @@||sys.4chan.org^

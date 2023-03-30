@@ -117,9 +117,11 @@
 @@||oldpiratebay.org^$important
 @@||omniture.walmart.com^$important
 @@||opap.gr^$important
+@@||opap.my.salesforce.com^$important
 @@||openmailbox.org^$important
 @@||ophan.theguardian.com^$important
 @@||pathe.emsecure.net^$important
+@@||patreon.com^$important
 @@||paypal-dynamic.map.fastly.net^$important
 @@||paypal.com^$important
 @@||paypalobjects.com^$important
@@ -217,6 +219,7 @@
 ||in.tv.global.mi.com^$important
 ||js.driftt.com^$important
 ||mtalk.google.com^$important
+||patreonusercontent.com^$important
 ||safebrowsing.googleapis.com^$important
 ||sessions.bugsnag.com^$important
 ||tv.global.mi.com^$important

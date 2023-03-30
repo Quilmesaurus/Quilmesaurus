@@ -1408,6 +1408,7 @@
 @@||mirror1.malwaredomains.com^$important
 @@||mistrzowie.org^$important
 @@||mitpress.mit.edu^$important
+@@||miwifi.com^$important
 @@||mix1065fm.cbslocal.com^$important
 @@||mlb.com^$important
 @@||mls.com^$important
@@ -1443,7 +1444,7 @@
 @@||myanonamouse.net^$important
 @@||myshadow.org^$important
 @@||mywindapp.page.link^$important
-@@||mywindapp.page.link^^$important
+@@||mywindapp.page.link^$important^$important
 @@||mywot.com^$important
 @@||mzstatic.com^$important
 @@||namecheap.com^$important
@@ -1589,6 +1590,7 @@
 @@||onet.pl^$important
 @@||onlinecourses.nptel.ac.in^$important
 @@||opap.gr^$important
+@@||opap.my.salesforce.com^$important
 @@||open.fm^$important
 @@||openapi.samsung.com^$important
 @@||openbsd.org^$important
@@ -1626,6 +1628,8 @@
 @@||partner.microsoft.com^$important
 @@||partners.webmasterplan.com^$important
 @@||pathe.emsecure.net^$important
+@@||patreon.com^$important
+@@||patreonusercontent.com^$important
 @@||paypal-dynamic.map.fastly.net^$important
 @@||paypal.com^$important
 @@||paypal.de^$important
@@ -2016,6 +2020,7 @@
 @@||sweclockers.com^$important
 @@||sydneytrads.com^$important
 @@||sync.brave.com^$important
+@@||sync.local^$important$client='192.168.100.3'
 @@||syncthing.net^$important
 @@||synctocloud.net^$important
 @@||sys.4chan.org^$important
