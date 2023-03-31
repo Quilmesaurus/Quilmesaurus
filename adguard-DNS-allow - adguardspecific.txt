@@ -165,6 +165,7 @@
 @@||anrdoezrs.net^$important
 @@||answers.com^$important
 @@||answers.microsoft.com^$important
+@@||answers.yahoo.com^$importa
 @@||answers.yahoo.com^$important
 @@||aodos.gr^$important
 @@||aolcdn.com^$important
@@ -352,6 +353,7 @@
 @@||boxrec.com^$important
 @@||brakrock.be^$important
 @@||brands.medium.com^$important
+@@||brave-sync.s3.dualstack.us-west-2.^
 @@||brave-sync.s3.dualstack.us-west-2.^$important
 @@||brightcove.net^$important
 @@||bt-chat.com^$important
@@ -606,6 +608,7 @@
 @@||dashboard.plex.tv^$important
 @@||data-scheme^$important
 @@||data.iana.org^$important
+@@||datadome.patreon.com^$important
 @@||datafilehost.com^$important
 @@||dataplicity.com^$important
 @@||datei.to^$important
@@ -751,6 +754,8 @@
 @@||encrypted-tbn0.gstatic.com^$important
 @@||enews.techrepublic.com^$important
 @@||engadget.com^$important
+@@||engage.warp.ly^$app=com.ekogr
+@@||engage.warp.ly^$important
 @@||englishhrpgs.wordpress.com^$important
 @@||enjoyfreeware.org^$important
 @@||entitlement.auth.adobe.com^$important
@@ -760,6 +765,7 @@
 @@||esoterictrad.wordpress.com^$important
 @@||espn.com^$important
 @@||eu.ixquick-proxy.com^$important
+@@||event.mi.com^$important
 @@||events.gfe.nvidia.com^$important
 @@||everydayhealth.com^$important
 @@||evoke-windowsservices-tas.msedge.net^$important
@@ -932,6 +938,7 @@
 @@||gizbot.com^$important
 @@||gizmodo.com.au^$important
 @@||gizmodo.com^$important
+@@||global.account.xiaomi.com^$important
 @@||glyph.medium.com^$important
 @@||gmail.com^$important
 @@||gmail.google.com^$important
@@ -1214,6 +1221,7 @@
 @@||jsfiddle.net^$important
 @@||jwpcdn.com^$important
 @@||jwpsrv.com^$important
+@@||k51qzi5uqu5dk8jpgw2ga3qoit4k9ocb328w8mxqlnw36k4m8ebt43ngmonioc.ipns.dweb.link/bin.html$important
 @@||kaguragames.com^$important
 @@||kaguragames.disqus.com^$important
 @@||kakistocracyblog.wordpress.com^$important
@@ -1281,6 +1289,7 @@
 @@||links.getblueshift.com^$important
 @@||linksynergy.com^$important
 @@||linode.com^$important
+@@||litter.catbox.moe^$important
 @@||live.com^$important
 @@||live.github.com^$important
 @@||live.net^$important
@@ -1351,6 +1360,7 @@
 @@||manage.sslforfree.com^$important
 @@||manifest.auditude.com^$important
 @@||manifest.googlevideo.com^$important
+@@||mao.5ch.net^!important
 @@||maps.google.com^$important
 @@||maps.googleapis.com^$important
 @@||maps.gstatic.com^$important
@@ -1398,6 +1408,7 @@
 @@||meta.wikimedia.org^$important
 @@||metrics.plex.tv^$important
 @@||mexa.sh^$important
+@@||mi.com^$important
 @@||miami.cbslocal.com^$important
 @@||microg.org^$important
 @@||microsoft.com^$important
@@ -1445,6 +1456,7 @@
 @@||myshadow.org^$important
 @@||mywindapp.page.link^$important
 @@||mywindapp.page.link^$important^$important
+@@||mywindapp.page.link^^
 @@||mywot.com^$important
 @@||mzstatic.com^$important
 @@||namecheap.com^$important
@@ -1689,6 +1701,7 @@
 @@||plus.google.com^$important
 @@||pmd.cdn.turner.com^$important
 @@||pmdssl.flixkart.com.edgekey.net^$important
+@@||pns.dweb.link$important
 @@||pntra.com^$important
 @@||pntrac.com^$important
 @@||pntrack.com^$important
@@ -1890,6 +1903,7 @@
 @@||service.weather.microsoft.com^$important
 @@||services.addons.mozilla.org^$important
 @@||services.medium.com^$important
+@@||services.mozilla.com^$important
 @@||services.sonarr.tv^$important
 @@||settings.crisp.chat^$important
 @@||setup.airtelbroadband.in^$important
@@ -1919,6 +1933,7 @@
 @@||sls.update.microsoft.com^$important
 @@||smartlock.google.com^$important
 @@||smashingmagazine.com^$important
+@@||smbc-@@comics.com##IMG[onmousedown="showBlock(\"aftercomic\")"]^
 @@||smbc-@@comics.com##IMG[onmousedown="showBlock(\"aftercomic\")"]^$important
 @@||smokingwheels.github.io^$important
 @@||smtp.mail.yahoo.com^$important
@@ -2020,6 +2035,7 @@
 @@||sweclockers.com^$important
 @@||sydneytrads.com^$important
 @@||sync.brave.com^$important
+@@||sync.local^$client='192.168.100.3'
 @@||sync.local^$important$client='192.168.100.3'
 @@||syncthing.net^$important
 @@||synctocloud.net^$important
@@ -2370,6 +2386,7 @@
 @@||www.boozet.org^$important
 @@||www.brands.medium.com^$important
 @@||www.brightcove.com^$important
+@@||www.bromite.org^$important
 @@||www.bt.com^$important
 @@||www.bwp.techrepublic.com^$important
 @@||www.capital.gr^$important
@@ -2513,6 +2530,7 @@
 @@||www.meetu.ps^$important
 @@||www.meetup.com^$important
 @@||www.members.medium.com^$important
+@@||www.mi.com^$important
 @@||www.microsoft.com^$important
 @@||www.microsofttranslator.com^$important
 @@||www.mininova.org^$important

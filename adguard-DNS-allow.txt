@@ -166,6 +166,7 @@
 @@||answers.com^
 @@||answers.microsoft.com^
 @@||answers.yahoo.com^
+@@||answers.yahoo.com^$importa
 @@||aodos.gr^
 @@||aolcdn.com^
 @@||ap.spotify.com^
@@ -606,6 +607,7 @@
 @@||dashboard.plex.tv^
 @@||data-scheme^
 @@||data.iana.org^
+@@||datadome.patreon.com^
 @@||datafilehost.com^
 @@||dataplicity.com^
 @@||datei.to^
@@ -751,6 +753,8 @@
 @@||encrypted-tbn0.gstatic.com^
 @@||enews.techrepublic.com^
 @@||engadget.com^
+@@||engage.warp.ly^
+@@||engage.warp.ly^$app=com.ekogr
 @@||englishhrpgs.wordpress.com^
 @@||enjoyfreeware.org^
 @@||entitlement.auth.adobe.com^
@@ -760,6 +764,7 @@
 @@||esoterictrad.wordpress.com^
 @@||espn.com^
 @@||eu.ixquick-proxy.com^
+@@||event.mi.com^
 @@||events.gfe.nvidia.com^
 @@||everydayhealth.com^
 @@||evoke-windowsservices-tas.msedge.net^
@@ -932,6 +937,7 @@
 @@||gizbot.com^
 @@||gizmodo.com.au^
 @@||gizmodo.com^
+@@||global.account.xiaomi.com^
 @@||glyph.medium.com^
 @@||gmail.com^
 @@||gmail.google.com^
@@ -1214,6 +1220,7 @@
 @@||jsfiddle.net^
 @@||jwpcdn.com^
 @@||jwpsrv.com^
+@@||k51qzi5uqu5dk8jpgw2ga3qoit4k9ocb328w8mxqlnw36k4m8ebt43ngmonioc.ipns.dweb.link/bin.html$important
 @@||kaguragames.com^
 @@||kaguragames.disqus.com^
 @@||kakistocracyblog.wordpress.com^
@@ -1281,6 +1288,7 @@
 @@||links.getblueshift.com^
 @@||linksynergy.com^
 @@||linode.com^
+@@||litter.catbox.moe^
 @@||live.com^
 @@||live.github.com^
 @@||live.net^
@@ -1351,6 +1359,7 @@
 @@||manage.sslforfree.com^
 @@||manifest.auditude.com^
 @@||manifest.googlevideo.com^
+@@||mao.5ch.net^!important
 @@||maps.google.com^
 @@||maps.googleapis.com^
 @@||maps.gstatic.com^
@@ -1398,6 +1407,7 @@
 @@||meta.wikimedia.org^
 @@||metrics.plex.tv^
 @@||mexa.sh^
+@@||mi.com^
 @@||miami.cbslocal.com^
 @@||microg.org^
 @@||microsoft.com^
@@ -1689,6 +1699,7 @@
 @@||plus.google.com^
 @@||pmd.cdn.turner.com^
 @@||pmdssl.flixkart.com.edgekey.net^
+@@||pns.dweb.link$important
 @@||pntra.com^
 @@||pntrac.com^
 @@||pntrack.com^
@@ -1890,6 +1901,7 @@
 @@||service.weather.microsoft.com^
 @@||services.addons.mozilla.org^
 @@||services.medium.com^
+@@||services.mozilla.com^
 @@||services.sonarr.tv^
 @@||settings.crisp.chat^
 @@||setup.airtelbroadband.in^
@@ -2370,6 +2382,7 @@
 @@||www.boozet.org^
 @@||www.brands.medium.com^
 @@||www.brightcove.com^
+@@||www.bromite.org^
 @@||www.bt.com^
 @@||www.bwp.techrepublic.com^
 @@||www.capital.gr^
@@ -2513,6 +2526,7 @@
 @@||www.meetu.ps^
 @@||www.meetup.com^
 @@||www.members.medium.com^
+@@||www.mi.com^
 @@||www.microsoft.com^
 @@||www.microsofttranslator.com^
 @@||www.mininova.org^
