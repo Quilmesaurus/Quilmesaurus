@@ -117,8 +117,14 @@
 @@||ajax.aspnetcdn.com^$important
 @@||ajax.cloudflare.com^$important
 @@||ajax.googleapis.com^$important
+@@||ajax.loli.net.cdn.cloudflare.net^$important
+@@||ajax.loli.net^$important
+@@||ajax.microsoft.com^$important
+@@||ajax.proxy.ustclug.org^$important
 @@||aka.ms^$important
 @@||akadns.net^$important
+@@||akamai-webcdn.kgstatic.net.edgesuite.net^$important
+@@||akamai-webcdn.kgstatic.net^$important
 @@||akamai.net^$important
 @@||akamaiedge.net^$important
 @@||akamaihd.net^$important
@@ -213,6 +219,8 @@
 @@||apple.com^$important
 @@||appleid.apple.com^$important
 @@||appleid.cdn-apple.com^$important
+@@||apps.bdimg.com^$important
+@@||apps.bdimg.jomodns.com^$important
 @@||apps.skype.com^$important
 @@||appsbackup-pa.clients6.google.com^$important
 @@||appsbackup-pa.googleapis.com^$important
@@ -395,6 +403,10 @@
 @@||cdn.agilebits.com^$important
 @@||cdn.apple-mapkit.com^$important
 @@||cdn.arstechnica.net^$important
+@@||cdn.bootcdn.net.maoyundns.com^$important
+@@||cdn.bootcdn.net^$important
+@@||cdn.bootcss.com.maoyundns.com^$important
+@@||cdn.bootcss.com^$important
 @@||cdn.chocolatey.org^$important
 @@||cdn.cloudflare.net^$important
 @@||cdn.cloudflare.steamstatic.com^$important
@@ -404,6 +416,8 @@
 @@||cdn.digitaltrends.com^$important
 @@||cdn.discordapp.com^$important
 @@||cdn.edgesuite.net^$important
+@@||cdn.embed.ly.cdn.cloudflare.net^$important
+@@||cdn.embed.ly^$important
 @@||cdn.embedly.com^$important
 @@||cdn.fbsbx.com^$important
 @@||cdn.firebase.com^$important
@@ -412,9 +426,12 @@
 @@||cdn.fontawesome.com^$important
 @@||cdn.gadgets360.com^$important
 @@||cdn.jscloudflare.com^$important
+@@||cdn.jsdelivr.net.cdn.cloudflare.net^$important
 @@||cdn.jsdelivr.net^$important
 @@||cdn.jwplayer.com^$important
 @@||cdn.livechatinc.com^$important
+@@||cdn.materialdesignicons.com^$important
+@@||cdn.mathjax.org^$important
 @@||cdn.medium.com^$important
 @@||cdn.onenote.net.edgekey.net^$important
 @@||cdn.onenote.net^$important
@@ -423,12 +440,14 @@
 @@||cdn.perfdrive.com^$important
 @@||cdn.plyr.io^$important
 @@||cdn.radiantmediatechs.com^$important
+@@||cdn.ravenjs.com^$important
 @@||cdn.rawgit.com^$important
 @@||cdn.refersion.com^$important
 @@||cdn.samsungcloudsolution.com^$important
 @@||cdn.shopifycloud.com^$important
 @@||cdn.sstatic.net^$important
 @@||cdn.staticaly.com^$important
+@@||cdn.staticfile.org^$important
 @@||cdn.ttgtmedia.com^$important
 @@||cdn.unpkg.com^$important
 @@||cdn.viblast.com^$important
@@ -448,9 +467,12 @@
 @@||cdn9.es.digitaltrends.com^$important
 @@||cdnapisec.kaltura.com^$important
 @@||cdnjs.cloudflare.com^$important
+@@||cdnjs.loli.net.cdn.cloudflare.net^$important
+@@||cdnjs.loli.net^$important
 @@||cdns.gigya.com^$important
 @@||cdnssl.softpedia.com^$important
 @@||cds.j3z9t3p6.hwcdn.net^$important
+@@||cds.s5x3j6q5.hwcdn.net^$important
 @@||cdx.cedexis.net^$important
 @@||cert.mgt.xboxlive.com^$important
 @@||cf-ipfs.com^$important
@@ -632,6 +654,7 @@
 @@||dev.virtualearth.net^$important
 @@||developer.android.com^$important
 @@||developer.mozilla.org^$important
+@@||developer.n.shifen.com^$important
 @@||developers.google.com^$important
 @@||developers.medium.com^$important
 @@||devfiles.co^$important
@@ -702,6 +725,7 @@
 @@||dropboxapi.com^$important
 @@||dropboxwiki.com^$important
 @@||dsms0mj1bbhn4.cloudfront.net^$important
+@@||dualstack.osff.map.fastly.net^$important
 @@||dualstack.reddit.map.fastly.net^$important
 @@||dub120.mail.live.com^$important
 @@||duckdns.org^$important
@@ -845,6 +869,8 @@
 @@||fm.tuba.pl^$important
 @@||fonts.googleapis.com^$important
 @@||fonts.gstatic.com^$important
+@@||fonts.loli.net.cdn.cloudflare.net^$important
+@@||fonts.loli.net^$important
 @@||footlocker-inc.com^$important
 @@||footlocker.com^$important
 @@||form.appy.host^$important
@@ -898,6 +924,7 @@
 @@||gap.com^$important
 @@||gatesofvienna.net^$important
 @@||gateway.blocksec.com^$important
+@@||gateway.cname.ustclug.org^$important
 @@||gateway.ipfs.io^$important
 @@||gateway.ipfs.lc^$important
 @@||gateway.originprotocol.com^$important
@@ -926,6 +953,7 @@
 @@||gist.githubusercontent.com^$important
 @@||git.io^$important
 @@||git.teknik.io^$important
+@@||gitcdn.github.io^$important
 @@||gitcdn.xyz^$important
 @@||gitee.com^$important
 @@||gitgud.io^$important
@@ -980,6 +1008,7 @@
 @@||gsis.gr^$important
 @@||gslb.spotify.com^$important
 @@||gstatic.com^$important
+@@||gstaticadssl.l.google.com^$important
 @@||guardian-d.openx.net^$important
 @@||guce.advertising.com^$important
 @@||guce.yahoo.com^$important
@@ -1066,6 +1095,7 @@
 @@||id.google.com^$important
 @@||id.sonyentertainmentnetwork.com^$important
 @@||idg.se^$important
+@@||iduwdjf.qiniudns.com^$important
 @@||ifmo.ru^$important
 @@||iguru.gr^$important
 @@||ikea.com^$important
@@ -1214,6 +1244,7 @@
 @@||joinjoaomgcd.appspot.com^$important
 @@||jorropo.net^$important
 @@||jquery.com^$important
+@@||js.appboycdn.com^$important
 @@||js.indexww.com^$important
 @@||js.maxmind.com^$important
 @@||js.stripe.com^$important
@@ -1265,6 +1296,7 @@
 @@||latimesblogs.latimes.com^$important
 @@||launches.appsflyer.com^$important
 @@||launchpad.net^$important
+@@||lb.sae.sina.com.cn^$important
 @@||learn.elephantjournal.com^$important
 @@||legal.medium.com^$important
 @@||leifsex.com^$important
@@ -1276,6 +1308,10 @@
 @@||lh6.googleusercontent.com^$important
 @@||li.techrepublic.com^$important
 @@||liamja.co.uk^$important
+@@||lib.baomitu.com.qh-cdn.com^$important
+@@||lib.baomitu.com^$important
+@@||lib.sinaapp.com^$important
+@@||libs.baidu.com^$important
 @@||licdn.com^$important
 @@||licensedpackages.chocolatey.org^$important
 @@||licensing.mp.microsoft.com^$important
@@ -1370,6 +1406,10 @@
 @@||marketplace.visualstudio.com^$important
 @@||marketwatch.com^$important
 @@||mashable.com^$important
+@@||mat1.gtimg.com.tegsea.tc.qq.com^$important
+@@||mat1.gtimg.com^$important
+@@||materialdesignicons.b-cdn.net^$important
+@@||mathjax.rstudio.com^$important
 @@||maxcdn.bootstrapcdn.com^$important
 @@||maxthon.com^$important
 @@||mboxedge22.tt.omtrdc.net^$important
@@ -1634,6 +1674,7 @@
 @@||package.chocolatey.org^$important
 @@||packages.chocolatey.org^$important
 @@||packages.linuxmint.com^$important
+@@||pagecdn.io^$important
 @@||pando.com^$important
 @@||panopticlick.eff.org^$important
 @@||paper.li^$important
@@ -1874,6 +1915,8 @@
 @@||scribd.com^$important
 @@||script.google.com^$important
 @@||script.googleapis.com^$important
+@@||sdn.geekzu.org^$important
+@@||sdn.inbond.gslb.geekzu.org^$important
 @@||seal.verisign.com^$important
 @@||search.ipfsgate.com^$important
 @@||search.torrents.io^$important
@@ -2198,6 +2241,7 @@
 @@||unix.com^$important
 @@||unpkg.com^$important
 @@||unsplash.com^$important
+@@||upcdn.b0.upaiyun.com^$important
 @@||update.code.visualstudio.com^$important
 @@||update.dreamsavior.net^$important
 @@||update.kiwibrowser.com^$important
@@ -2214,6 +2258,7 @@
 @@||urs.techrepublic.com^$important
 @@||us-east-1.amazonaws.com^$important
 @@||us.configsvc1.live.com.akadns.net^$important
+@@||use.fontawesome.com.cdn.cloudflare.net^$important
 @@||use.fontawesome.com^$important
 @@||use.typekit.net^$important
 @@||useraction.zee5.com-v2.edgekey.net^$important
@@ -2262,6 +2307,7 @@
 @@||vk.com^$important
 @@||vkontakte.ru^$important
 @@||vndb.org^$important
+@@||vo.aicdn.com^$important
 @@||voat.co^$important
 @@||vod.pl^$important
 @@||vod.tvp.pl^$important
@@ -2714,6 +2760,7 @@
 @@||yande.re^$important
 @@||yandex.com^$important
 @@||yandex.ru^$important
+@@||yandex.st^$important
 @@||yastatic.net^$important
 @@||yifysubtitles.com^$important
 @@||youtu.be^$important
