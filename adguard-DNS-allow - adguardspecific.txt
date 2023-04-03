@@ -552,7 +552,6 @@
 @@||collegehumor.com^$important
 @@||colonyofcommodus.wordpress.com^$important
 @@||commission-junction.com^$important
-@@||community.cloudflare.steamstatic.com
 @@||community.cloudflare.steamstatic.com^$important
 @@||community.plus.net^$important
 @@||community.spiceworks.com^$important
