@@ -859,6 +859,7 @@
 @@||financialexpress.com^$important
 @@||firebasestorage.googleapis.com^$important
 @@||firefox.com^$important
+@@||firefoxusercontent.com^$important
 @@||firestore.googleapis.com^$important
 @@||flashgames247.com^$important
 @@||flashtorrents.org^$important
