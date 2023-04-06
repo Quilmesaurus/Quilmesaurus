@@ -821,6 +821,7 @@
 @@||fanghornforest.wordpress.com^$important
 @@||fapforfun.net^$important
 @@||fast.fonts.net^$important
+@@||fastaddons.com^$important
 @@||fastestvpn.com^$important
 @@||fb.com^$important
 @@||fbcdn-creative-a.akamaihd.net^$important
