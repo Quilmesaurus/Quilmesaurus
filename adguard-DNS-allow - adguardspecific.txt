@@ -1,5 +1,4 @@
 ! Title: my adguard DNS allow list
-@@||0.client-channel.google.com^$important
 @@||0.us.pool.ntp.org^$important
 @@||1.bp.blogspot.com^$important
 @@||1.us.pool.ntp.org^$important
@@ -171,7 +170,6 @@
 @@||anrdoezrs.net^$important
 @@||answers.com^$important
 @@||answers.microsoft.com^$important
-@@||answers.yahoo.com^$importa
 @@||answers.yahoo.com^$important
 @@||aodos.gr^$important
 @@||aolcdn.com^$important
@@ -361,8 +359,6 @@
 @@||boxrec.com^$important
 @@||brakrock.be^$important
 @@||brands.medium.com^$important
-@@||brave-sync.s3.dualstack.us-west-2.^
-@@||brave-sync.s3.dualstack.us-west-2.^$important
 @@||brightcove.net^$important
 @@||bt-chat.com^$important
 @@||bt.com^$important
@@ -777,7 +773,6 @@
 @@||encrypted-tbn0.gstatic.com^$important
 @@||enews.techrepublic.com^$important
 @@||engadget.com^$important
-@@||engage.warp.ly^$app=com.ekogr
 @@||engage.warp.ly^$important
 @@||englishhrpgs.wordpress.com^$important
 @@||enjoyfreeware.org^$important
@@ -1253,7 +1248,6 @@
 @@||jsfiddle.net^$important
 @@||jwpcdn.com^$important
 @@||jwpsrv.com^$important
-@@||k51qzi5uqu5dk8jpgw2ga3qoit4k9ocb328w8mxqlnw36k4m8ebt43ngmonioc.ipns.dweb.link/bin.html$important
 @@||kaguragames.com^$important
 @@||kaguragames.disqus.com^$important
 @@||kakistocracyblog.wordpress.com^$important
@@ -1397,7 +1391,6 @@
 @@||manage.sslforfree.com^$important
 @@||manifest.auditude.com^$important
 @@||manifest.googlevideo.com^$important
-@@||mao.5ch.net^!important
 @@||maps.google.com^$important
 @@||maps.googleapis.com^$important
 @@||maps.gstatic.com^$important
@@ -1496,8 +1489,6 @@
 @@||myanonamouse.net^$important
 @@||myshadow.org^$important
 @@||mywindapp.page.link^$important
-@@||mywindapp.page.link^$important^$important
-@@||mywindapp.page.link^^
 @@||mywot.com^$important
 @@||mzstatic.com^$important
 @@||namecheap.com^$important
@@ -1588,6 +1579,7 @@
 @@||o2.sg0.plex.tv^$important
 @@||oaee.gr^$important
 @@||oauth.reddit.comm^$important
+@@||oauth.reddit.com^$important
 @@||oboom.com^$important
 @@||observer.com^$important
 @@||ocsp.apple.com^$important
@@ -1715,7 +1707,6 @@
 @@||pittsburgh.cbslocal.com^$important
 @@||pixel.nymag.com^$important
 @@||pixel.wp.com^$important
-@@||pixlr.com$generichide
 @@||pjatr.com^$important
 @@||pjtra.com^$important
 @@||pkobp.pl^$important
@@ -1743,7 +1734,6 @@
 @@||plus.google.com^$important
 @@||pmd.cdn.turner.com^$important
 @@||pmdssl.flixkart.com.edgekey.net^$important
-@@||pns.dweb.link$important
 @@||pntra.com^$important
 @@||pntrac.com^$important
 @@||pntrack.com^$important
@@ -1977,8 +1967,6 @@
 @@||sls.update.microsoft.com^$important
 @@||smartlock.google.com^$important
 @@||smashingmagazine.com^$important
-@@||smbc-@@comics.com##IMG[onmousedown="showBlock(\"aftercomic\")"]^
-@@||smbc-@@comics.com##IMG[onmousedown="showBlock(\"aftercomic\")"]^$important
 @@||smokingwheels.github.io^$important
 @@||smtp.mail.yahoo.com^$important
 @@||snapchat.com^$important
@@ -2079,8 +2067,6 @@
 @@||sweclockers.com^$important
 @@||sydneytrads.com^$important
 @@||sync.brave.com^$important
-@@||sync.local^$client='192.168.100.3'
-@@||sync.local^$important$client='192.168.100.3'
 @@||syncthing.net^$important
 @@||synctocloud.net^$important
 @@||sys.4chan.org^$important

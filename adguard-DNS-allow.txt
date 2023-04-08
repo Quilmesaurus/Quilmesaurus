@@ -1,5 +1,4 @@
 ! Title: my adguard DNS allow list
-@@||0.client-channel.google.com^
 @@||0.us.pool.ntp.org^
 @@||1.bp.blogspot.com^
 @@||1.us.pool.ntp.org^
@@ -172,7 +171,6 @@
 @@||answers.com^
 @@||answers.microsoft.com^
 @@||answers.yahoo.com^
-@@||answers.yahoo.com^$importa
 @@||aodos.gr^
 @@||aolcdn.com^
 @@||ap.spotify.com^
@@ -361,7 +359,6 @@
 @@||boxrec.com^
 @@||brakrock.be^
 @@||brands.medium.com^
-@@||brave-sync.s3.dualstack.us-west-2.^
 @@||brightcove.net^
 @@||bt-chat.com^
 @@||bt.com^
@@ -777,7 +774,6 @@
 @@||enews.techrepublic.com^
 @@||engadget.com^
 @@||engage.warp.ly^
-@@||engage.warp.ly^$app=com.ekogr
 @@||englishhrpgs.wordpress.com^
 @@||enjoyfreeware.org^
 @@||entitlement.auth.adobe.com^
@@ -1252,7 +1248,6 @@
 @@||jsfiddle.net^
 @@||jwpcdn.com^
 @@||jwpsrv.com^
-@@||k51qzi5uqu5dk8jpgw2ga3qoit4k9ocb328w8mxqlnw36k4m8ebt43ngmonioc.ipns.dweb.link/bin.html$important
 @@||kaguragames.com^
 @@||kaguragames.disqus.com^
 @@||kakistocracyblog.wordpress.com^
@@ -1396,7 +1391,6 @@
 @@||manage.sslforfree.com^
 @@||manifest.auditude.com^
 @@||manifest.googlevideo.com^
-@@||mao.5ch.net^!important
 @@||maps.google.com^
 @@||maps.googleapis.com^
 @@||maps.gstatic.com^
@@ -1495,7 +1489,6 @@
 @@||myanonamouse.net^
 @@||myshadow.org^
 @@||mywindapp.page.link^
-@@||mywindapp.page.link^^
 @@||mywot.com^
 @@||mzstatic.com^
 @@||namecheap.com^
@@ -1586,6 +1579,7 @@
 @@||o2.sg0.plex.tv^
 @@||oaee.gr^
 @@||oauth.reddit.comm^
+@@||oauth.reddit.com^
 @@||oboom.com^
 @@||observer.com^
 @@||ocsp.apple.com^
@@ -1713,7 +1707,6 @@
 @@||pittsburgh.cbslocal.com^
 @@||pixel.nymag.com^
 @@||pixel.wp.com^
-@@||pixlr.com$generichide
 @@||pjatr.com^
 @@||pjtra.com^
 @@||pkobp.pl^
@@ -1741,7 +1734,6 @@
 @@||plus.google.com^
 @@||pmd.cdn.turner.com^
 @@||pmdssl.flixkart.com.edgekey.net^
-@@||pns.dweb.link$important
 @@||pntra.com^
 @@||pntrac.com^
 @@||pntrack.com^
@@ -1975,7 +1967,6 @@
 @@||sls.update.microsoft.com^
 @@||smartlock.google.com^
 @@||smashingmagazine.com^
-@@||smbc-@@comics.com##IMG[onmousedown="showBlock(\"aftercomic\")"]^
 @@||smokingwheels.github.io^
 @@||smtp.mail.yahoo.com^
 @@||snapchat.com^
@@ -2076,7 +2067,6 @@
 @@||sweclockers.com^
 @@||sydneytrads.com^
 @@||sync.brave.com^
-@@||sync.local^$client='192.168.100.3'
 @@||syncthing.net^
 @@||synctocloud.net^
 @@||sys.4chan.org^
