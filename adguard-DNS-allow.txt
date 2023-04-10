@@ -1,3 +1,4 @@
+
 ! Title: my adguard DNS allow list
 @@||0-edge-chat.facebook.com^
 @@||0.client-channel.google.com^
@@ -219,7 +220,6 @@
 @@||app.adjust.com^
 @@||app.adjust.net.in^
 @@||app.convertkit.com^
-@@||app.plex.tv ^
 @@||app.plex.tv^
 @@||app.sinilink.com^
 @@||app.usb0.net^
@@ -231,7 +231,6 @@
 @@||appleid.cdn-apple.com^
 @@||apps.bdimg.com^
 @@||apps.bdimg.jomodns.com^
-@@||apps.skype.com ^
 @@||apps.skype.com^
 @@||appsbackup-pa.clients6.google.com^
 @@||appsbackup-pa.googleapis.com^
@@ -391,7 +390,6 @@
 @@||c.digikey.com^
 @@||c.disquscdn.com^
 @@||c.microsoft.com^
-@@||c.s-microsoft.com ^
 @@||c.s-microsoft.com^
 @@||c.trello.com^
 @@||c.youtube.com^
@@ -604,7 +602,6 @@
 @@||cracked.com^
 @@||cracovia.pl^
 @@||crateandbarrel.com^
-@@||creative.ak.fbcdn.net ^
 @@||creative.ak.fbcdn.net^
 @@||cricketapi-icc.pulselive.com^
 @@||crimekalender.wordpress.com^
@@ -695,9 +692,7 @@
 @@||digitaltrends.com^
 @@||dilbert.com^
 @@||dilosi.services.gov.gr^
-@@||directvapplications.hb.omtrdc.net ^
 @@||directvapplications.hb.omtrdc.net^
-@@||directvnow.com ^
 @@||directvnow.com^
 @@||discord.com^
 @@||discordapp.com^
@@ -711,7 +706,6 @@
 @@||dl-client.dropbox.com^
 @@||dl-pay.com^
 @@||dl-web.dropbox.com^
-@@||dl.delivery.mp.microsoft.com ^
 @@||dl.delivery.mp.microsoft.com^
 @@||dl.dropbox.com^
 @@||dl.dropboxusercontent.com^
@@ -837,27 +831,16 @@
 @@||exhentai.org^
 @@||express.co.uk^
 @@||expressen.se^
-@@||external-lhr0-1.xx.fbcdn.net ^
 @@||external-lhr0-1.xx.fbcdn.net^
-@@||external-lhr1-1.xx.fbcdn.net ^
 @@||external-lhr1-1.xx.fbcdn.net^
-@@||external-lhr10-1.xx.fbcdn.net ^
 @@||external-lhr10-1.xx.fbcdn.net^
-@@||external-lhr2-1.xx.fbcdn.net ^
 @@||external-lhr2-1.xx.fbcdn.net^
-@@||external-lhr3-1.xx.fbcdn.net ^
 @@||external-lhr3-1.xx.fbcdn.net^
-@@||external-lhr4-1.xx.fbcdn.net ^
 @@||external-lhr4-1.xx.fbcdn.net^
-@@||external-lhr5-1.xx.fbcdn.net ^
 @@||external-lhr5-1.xx.fbcdn.net^
-@@||external-lhr6-1.xx.fbcdn.net ^
 @@||external-lhr6-1.xx.fbcdn.net^
-@@||external-lhr7-1.xx.fbcdn.net ^
 @@||external-lhr7-1.xx.fbcdn.net^
-@@||external-lhr8-1.xx.fbcdn.net ^
 @@||external-lhr8-1.xx.fbcdn.net^
-@@||external-lhr9-1.xx.fbcdn.net ^
 @@||external-lhr9-1.xx.fbcdn.net^
 @@||f-droid.i2p.io^
 @@||f-droid.org^
@@ -872,7 +855,6 @@
 @@||fastaddons.com^
 @@||fastestvpn.com^
 @@||fb.com^
-@@||fbcdn-creative-a.akamaihd.net ^
 @@||fbcdn-creative-a.akamaihd.net^
 @@||fbcdn.net^
 @@||fcm-stream.googleapis.com^
@@ -990,7 +972,6 @@
 @@||geforce.com^
 @@||gekko.spiceworks.com^
 @@||gelbooru.com^
-@@||geo-prod.do.dsp.mp.microsoft.com ^
 @@||geo-prod.do.dsp.mp.microsoft.com^
 @@||geo3.ggpht.com^
 @@||get.adobe.com^
@@ -1131,7 +1112,6 @@
 @@||i.imgur.com^
 @@||i.lithium.com^
 @@||i.pinimg.com^
-@@||i.s-microsoft.com ^
 @@||i.s-microsoft.com^
 @@||i.vgy.me^
 @@||i.ytimg.com^
@@ -1435,7 +1415,6 @@
 @@||m.foxnews.com^
 @@||m.gitee.com^
 @@||m.gizmodo.com^
-@@||m.hotmail.com ^
 @@||m.hotmail.com^
 @@||m.liberal.gr^
 @@||m.media-amazon.com^
@@ -1443,7 +1422,6 @@
 @@||m.phys.org^
 @@||m.techrepublic.com^
 @@||m.tmz.com^
-@@||m.weeklyad.target.com ^
 @@||m.weeklyad.target.com^
 @@||m.youtube.com^
 @@||ma.techrepublic.com^
@@ -1653,10 +1631,8 @@
 @@||nytimes.com^
 @@||o.aolcdn.com^
 @@||o1.email.medium.com^
-@@||o1.email.plex.tv ^
 @@||o1.email.plex.tv^
 @@||o2.email.medium.com^
-@@||o2.sg0.plex.tv ^
 @@||o2.sg0.plex.tv^
 @@||oaee.gr^
 @@||oauth.reddit.comm^
@@ -1740,7 +1716,6 @@
 @@||ouo.press^
 @@||outlook.com^
 @@||outlook.live.com^
-@@||outlook.office365.com ^
 @@||outlook.office365.com^
 @@||ow.ly^
 @@||p.ebaystatic.com^
@@ -1834,13 +1809,11 @@
 @@||postimage.org^
 @@||preferences.about-scheme^
 @@||pressefreiheit24.wordpress.com^
-@@||pricelist.skype.com ^
 @@||pricelist.skype.com^
 @@||prisjakt.nu^
 @@||privacy-policy.truste.com^
 @@||prnt.sc^
 @@||prod.telemetry.ros.rockstargames.com^
-@@||products.office.com ^
 @@||products.office.com^
 @@||profile.accounts.firefox.com^
 @@||profit.ndtv.com^
@@ -1950,7 +1923,6 @@
 @@||s-passets-cache-ak0.pinimg.com^
 @@||s.4cdn.org^
 @@||s.cdn.turner.com^
-@@||s.gateway.messenger.live.com ^
 @@||s.gateway.messenger.live.com^
 @@||s.gravatar.com^
 @@||s.marketwatch.com^
@@ -1960,7 +1932,6 @@
 @@||s.yimg.com^
 @@||s.youtube.com^
 @@||s.ytimg.com^
-@@||s.zkcdn.net ^
 @@||s.zkcdn.net^
 @@||s0-san.cloudinary.com.edgekey.net^
 @@||s0.wp.com^
@@ -1980,7 +1951,6 @@
 @@||s4.symcb.com^
 @@||s5.symcb.com^
 @@||sa-blacklist.stearns.org^
-@@||sa.symcb.com ^
 @@||sa.symcb.com^
 @@||sacramento.cbslocal.com^
 @@||sakuradite.com^
@@ -2320,7 +2290,6 @@
 @@||ublock0.chrome-scheme^
 @@||ubuntuforums.org^
 @@||ufile.io^
-@@||ui.skype.com ^
 @@||ui.skype.com^
 @@||uid.si^
 @@||uj3wazyk5u4hnvtk.onion.link^
@@ -2442,7 +2411,6 @@
 @@||webmail.laposte.net^
 @@||webmail.orange.fr^
 @@||weboas.is^
-@@||weeklyad.target.com ^
 @@||weeklyad.target.com.edgesuite.net^
 @@||weeklyad.target.com^
 @@||westcoastrxers.com^

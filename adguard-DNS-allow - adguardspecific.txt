@@ -1,3 +1,4 @@
+
 ! Title: my adguard DNS allow list
 @@||0-edge-chat.facebook.com^$important
 @@||0.client-channel.google.com^$important
@@ -219,7 +220,6 @@
 @@||app.adjust.com^$important
 @@||app.adjust.net.in^$important
 @@||app.convertkit.com^$important
-@@||app.plex.tv ^$important
 @@||app.plex.tv^$important
 @@||app.sinilink.com^$important
 @@||app.usb0.net^$important
@@ -231,7 +231,6 @@
 @@||appleid.cdn-apple.com^$important
 @@||apps.bdimg.com^$important
 @@||apps.bdimg.jomodns.com^$important
-@@||apps.skype.com ^$important
 @@||apps.skype.com^$important
 @@||appsbackup-pa.clients6.google.com^$important
 @@||appsbackup-pa.googleapis.com^$important
@@ -391,7 +390,6 @@
 @@||c.digikey.com^$important
 @@||c.disquscdn.com^$important
 @@||c.microsoft.com^$important
-@@||c.s-microsoft.com ^$important
 @@||c.s-microsoft.com^$important
 @@||c.trello.com^$important
 @@||c.youtube.com^$important
@@ -604,7 +602,6 @@
 @@||cracked.com^$important
 @@||cracovia.pl^$important
 @@||crateandbarrel.com^$important
-@@||creative.ak.fbcdn.net ^$important
 @@||creative.ak.fbcdn.net^$important
 @@||cricketapi-icc.pulselive.com^$important
 @@||crimekalender.wordpress.com^$important
@@ -695,9 +692,7 @@
 @@||digitaltrends.com^$important
 @@||dilbert.com^$important
 @@||dilosi.services.gov.gr^$important
-@@||directvapplications.hb.omtrdc.net ^$important
 @@||directvapplications.hb.omtrdc.net^$important
-@@||directvnow.com ^$important
 @@||directvnow.com^$important
 @@||discord.com^$important
 @@||discordapp.com^$important
@@ -711,7 +706,6 @@
 @@||dl-client.dropbox.com^$important
 @@||dl-pay.com^$important
 @@||dl-web.dropbox.com^$important
-@@||dl.delivery.mp.microsoft.com ^$important
 @@||dl.delivery.mp.microsoft.com^$important
 @@||dl.dropbox.com^$important
 @@||dl.dropboxusercontent.com^$important
@@ -837,27 +831,16 @@
 @@||exhentai.org^$important
 @@||express.co.uk^$important
 @@||expressen.se^$important
-@@||external-lhr0-1.xx.fbcdn.net ^$important
 @@||external-lhr0-1.xx.fbcdn.net^$important
-@@||external-lhr1-1.xx.fbcdn.net ^$important
 @@||external-lhr1-1.xx.fbcdn.net^$important
-@@||external-lhr10-1.xx.fbcdn.net ^$important
 @@||external-lhr10-1.xx.fbcdn.net^$important
-@@||external-lhr2-1.xx.fbcdn.net ^$important
 @@||external-lhr2-1.xx.fbcdn.net^$important
-@@||external-lhr3-1.xx.fbcdn.net ^$important
 @@||external-lhr3-1.xx.fbcdn.net^$important
-@@||external-lhr4-1.xx.fbcdn.net ^$important
 @@||external-lhr4-1.xx.fbcdn.net^$important
-@@||external-lhr5-1.xx.fbcdn.net ^$important
 @@||external-lhr5-1.xx.fbcdn.net^$important
-@@||external-lhr6-1.xx.fbcdn.net ^$important
 @@||external-lhr6-1.xx.fbcdn.net^$important
-@@||external-lhr7-1.xx.fbcdn.net ^$important
 @@||external-lhr7-1.xx.fbcdn.net^$important
-@@||external-lhr8-1.xx.fbcdn.net ^$important
 @@||external-lhr8-1.xx.fbcdn.net^$important
-@@||external-lhr9-1.xx.fbcdn.net ^$important
 @@||external-lhr9-1.xx.fbcdn.net^$important
 @@||f-droid.i2p.io^$important
 @@||f-droid.org^$important
@@ -872,7 +855,6 @@
 @@||fastaddons.com^$important
 @@||fastestvpn.com^$important
 @@||fb.com^$important
-@@||fbcdn-creative-a.akamaihd.net ^$important
 @@||fbcdn-creative-a.akamaihd.net^$important
 @@||fbcdn.net^$important
 @@||fcm-stream.googleapis.com^$important
@@ -990,7 +972,6 @@
 @@||geforce.com^$important
 @@||gekko.spiceworks.com^$important
 @@||gelbooru.com^$important
-@@||geo-prod.do.dsp.mp.microsoft.com ^$important
 @@||geo-prod.do.dsp.mp.microsoft.com^$important
 @@||geo3.ggpht.com^$important
 @@||get.adobe.com^$important
@@ -1131,7 +1112,6 @@
 @@||i.imgur.com^$important
 @@||i.lithium.com^$important
 @@||i.pinimg.com^$important
-@@||i.s-microsoft.com ^$important
 @@||i.s-microsoft.com^$important
 @@||i.vgy.me^$important
 @@||i.ytimg.com^$important
@@ -1435,7 +1415,6 @@
 @@||m.foxnews.com^$important
 @@||m.gitee.com^$important
 @@||m.gizmodo.com^$important
-@@||m.hotmail.com ^$important
 @@||m.hotmail.com^$important
 @@||m.liberal.gr^$important
 @@||m.media-amazon.com^$important
@@ -1443,7 +1422,6 @@
 @@||m.phys.org^$important
 @@||m.techrepublic.com^$important
 @@||m.tmz.com^$important
-@@||m.weeklyad.target.com ^$important
 @@||m.weeklyad.target.com^$important
 @@||m.youtube.com^$important
 @@||ma.techrepublic.com^$important
@@ -1653,10 +1631,8 @@
 @@||nytimes.com^$important
 @@||o.aolcdn.com^$important
 @@||o1.email.medium.com^$important
-@@||o1.email.plex.tv ^$important
 @@||o1.email.plex.tv^$important
 @@||o2.email.medium.com^$important
-@@||o2.sg0.plex.tv ^$important
 @@||o2.sg0.plex.tv^$important
 @@||oaee.gr^$important
 @@||oauth.reddit.comm^$important
@@ -1740,7 +1716,6 @@
 @@||ouo.press^$important
 @@||outlook.com^$important
 @@||outlook.live.com^$important
-@@||outlook.office365.com ^$important
 @@||outlook.office365.com^$important
 @@||ow.ly^$important
 @@||p.ebaystatic.com^$important
@@ -1834,13 +1809,11 @@
 @@||postimage.org^$important
 @@||preferences.about-scheme^$important
 @@||pressefreiheit24.wordpress.com^$important
-@@||pricelist.skype.com ^$important
 @@||pricelist.skype.com^$important
 @@||prisjakt.nu^$important
 @@||privacy-policy.truste.com^$important
 @@||prnt.sc^$important
 @@||prod.telemetry.ros.rockstargames.com^$important
-@@||products.office.com ^$important
 @@||products.office.com^$important
 @@||profile.accounts.firefox.com^$important
 @@||profit.ndtv.com^$important
@@ -1950,7 +1923,6 @@
 @@||s-passets-cache-ak0.pinimg.com^$important
 @@||s.4cdn.org^$important
 @@||s.cdn.turner.com^$important
-@@||s.gateway.messenger.live.com ^$important
 @@||s.gateway.messenger.live.com^$important
 @@||s.gravatar.com^$important
 @@||s.marketwatch.com^$important
@@ -1960,7 +1932,6 @@
 @@||s.yimg.com^$important
 @@||s.youtube.com^$important
 @@||s.ytimg.com^$important
-@@||s.zkcdn.net ^$important
 @@||s.zkcdn.net^$important
 @@||s0-san.cloudinary.com.edgekey.net^$important
 @@||s0.wp.com^$important
@@ -1980,7 +1951,6 @@
 @@||s4.symcb.com^$important
 @@||s5.symcb.com^$important
 @@||sa-blacklist.stearns.org^$important
-@@||sa.symcb.com ^$important
 @@||sa.symcb.com^$important
 @@||sacramento.cbslocal.com^$important
 @@||sakuradite.com^$important
@@ -2320,7 +2290,6 @@
 @@||ublock0.chrome-scheme^$important
 @@||ubuntuforums.org^$important
 @@||ufile.io^$important
-@@||ui.skype.com ^$important
 @@||ui.skype.com^$important
 @@||uid.si^$important
 @@||uj3wazyk5u4hnvtk.onion.link^$important
@@ -2442,7 +2411,6 @@
 @@||webmail.laposte.net^$important
 @@||webmail.orange.fr^$important
 @@||weboas.is^$important
-@@||weeklyad.target.com ^$important
 @@||weeklyad.target.com.edgesuite.net^$important
 @@||weeklyad.target.com^$important
 @@||westcoastrxers.com^$important
