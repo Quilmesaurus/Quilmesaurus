@@ -1,8 +1,12 @@
 ! Title: my adguard DNS allow list
+@@||0-edge-chat.facebook.com^
+@@||0.client-channel.google.com^
 @@||0.us.pool.ntp.org^
+@@||1-edge-chat.facebook.com^
 @@||1.bp.blogspot.com^
 @@||1.us.pool.ntp.org^
 @@||10.via0.com^
+@@||106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services^
 @@||127.0.0.1^
 @@||151.101.38.49^
 @@||192.168.100.108^
@@ -35,19 +39,24 @@
 @@||1hosts.cf^
 @@||1und1.de^
 @@||2-01-3cf7-000c.cdx.cedexis.net^
+@@||2-edge-chat.facebook.com^
 @@||2.android.pool.ntp.org^
 @@||2.us.pool.ntp.org^
 @@||200.nl67.seedit4.me^
 @@||206.189.252.21^
 @@||2shared.com^
+@@||3-edge-chat.facebook.com^
 @@||3cloud.ee^
+@@||4-edge-chat.facebook.com^
 @@||4.bp.blogspot.com^
 @@||4cdn.org^
 @@||4chan.org^
 @@||4channel.org^
 @@||4everland.io^
 @@||4shared.com^
+@@||5-edge-chat.facebook.com^
 @@||5231.xg4ken.com^
+@@||6-edge-chat.facebook.com^
 @@||7eer.net^
 @@||8ch.net^
 @@||8pecxstudios.com^
@@ -109,6 +118,7 @@
 @@||adtidy.org^
 @@||advanceautoparts.com^
 @@||ae01.alicdn.com^
+@@||afd.de^
 @@||affiliatefuture.com^
 @@||ageofshitlords.com^
 @@||agrd.io^
@@ -153,6 +163,7 @@
 @@||amazon.fr^
 @@||amazon.in^
 @@||amazon.it^
+@@||amazonaws.com^
 @@||amd.cdn.turner.com^
 @@||ameblo.jp^
 @@||ams.plex.services^
@@ -208,6 +219,7 @@
 @@||app.adjust.com^
 @@||app.adjust.net.in^
 @@||app.convertkit.com^
+@@||app.plex.tv ^
 @@||app.plex.tv^
 @@||app.sinilink.com^
 @@||app.usb0.net^
@@ -219,6 +231,7 @@
 @@||appleid.cdn-apple.com^
 @@||apps.bdimg.com^
 @@||apps.bdimg.jomodns.com^
+@@||apps.skype.com ^
 @@||apps.skype.com^
 @@||appsbackup-pa.clients6.google.com^
 @@||appsbackup-pa.googleapis.com^
@@ -285,6 +298,7 @@
 @@||baltimore.cbslocal.com^
 @@||bane.wikia.com^
 @@||banner.eisys-bcs.jp^
+@@||banners.spiceworks.com^
 @@||bay01.calendar.live.com^
 @@||bbci.co.uk^
 @@||bbs.archlinux.org^
@@ -299,6 +313,7 @@
 @@||bgr.com^
 @@||bialystok.tvp.pl^
 @@||biggerluke.wikidot.com^
+@@||bigzipfiles.facebook.com^
 @@||billiger.de^
 @@||binbox.io^
 @@||bing.at^
@@ -334,6 +349,7 @@
 @@||blog.appsumo.com^
 @@||blog.dictionary.com^
 @@||blog.dlsite.com^
+@@||blog.halle-leaks.de^
 @@||blog.hubspot.com^
 @@||blog.jim.com^
 @@||blog.kowalczyk.info^
@@ -342,12 +358,14 @@
 @@||blog.sessionstack.com^
 @@||blog.techrepublic.com^
 @@||blogger.com^
+@@||blogram.net^
 @@||blogs.discovermagazine.com^
 @@||blogs.indiewire.com^
 @@||blogs.techrepublic.com^
 @@||blogspot.com^
 @@||bluemailapp.com^
 @@||board.jdownloader.org^
+@@||boardgamegeek.com^
 @@||boards.4chan.org^
 @@||boards.4channel.org^
 @@||boards.greenhouse.io^
@@ -367,11 +385,13 @@
 @@||businessinsider.com^
 @@||buy.xmarks.com^
 @@||buzzfeed.com^
+@@||BuzzMeIn.com^
 @@||bwp.techrepublic.com^
 @@||bydgoszcz.tvp.pl^
 @@||c.digikey.com^
 @@||c.disquscdn.com^
 @@||c.microsoft.com^
+@@||c.s-microsoft.com ^
 @@||c.s-microsoft.com^
 @@||c.trello.com^
 @@||c.youtube.com^
@@ -444,6 +464,7 @@
 @@||cdn.sstatic.net^
 @@||cdn.staticaly.com^
 @@||cdn.staticfile.org^
+@@||cdn.tabnak.ir^
 @@||cdn.ttgtmedia.com^
 @@||cdn.unpkg.com^
 @@||cdn.viblast.com^
@@ -569,6 +590,7 @@
 @@||content.logmein.com^
 @@||content.time.com^
 @@||continuum.dds.microsoft.com^
+@@||contra-magazin.com^
 @@||contributions.guardianapis.comn^
 @@||contributions.guardianapis.com^
 @@||convertkit.com^
@@ -582,8 +604,10 @@
 @@||cracked.com^
 @@||cracovia.pl^
 @@||crateandbarrel.com^
+@@||creative.ak.fbcdn.net ^
 @@||creative.ak.fbcdn.net^
 @@||cricketapi-icc.pulselive.com^
+@@||crimekalender.wordpress.com^
 @@||crl.microsoft.com^
 @@||crl.verisign.net^
 @@||crunchbase.com^
@@ -633,6 +657,8 @@
 @@||dbs.com^
 @@||dcs-vod.apis.anvato.net^
 @@||de.catbox.moe^
+@@||de.news-front.info^
+@@||de.sputniknews.com^
 @@||debian.org^
 @@||dediseedbox.com^
 @@||deepl.com^
@@ -644,8 +670,12 @@
 @@||demo-staging.jifflenow.com^
 @@||demotywatory.pl^
 @@||denis-ovs.narod.ru^
+@@||denken-macht-frei.info^
 @@||det-ta-g7g.amazon.com^
 @@||detectportal.firefox.com^
+@@||deutsch.rt.com^
+@@||deutsche-stimme.de^
+@@||deutsche-wirtschafts-nachrichten.de^
 @@||dev.virtualearth.net^
 @@||developer.android.com^
 @@||developer.mozilla.org^
@@ -660,11 +690,14 @@
 @@||di.com.pl^
 @@||dictionary.cambridge.org^
 @@||dictionary.reference.com^
+@@||diepresse.com^
 @@||digg.com^
 @@||digitaltrends.com^
 @@||dilbert.com^
 @@||dilosi.services.gov.gr^
+@@||directvapplications.hb.omtrdc.net ^
 @@||directvapplications.hb.omtrdc.net^
+@@||directvnow.com ^
 @@||directvnow.com^
 @@||discord.com^
 @@||discordapp.com^
@@ -678,6 +711,7 @@
 @@||dl-client.dropbox.com^
 @@||dl-pay.com^
 @@||dl-web.dropbox.com^
+@@||dl.delivery.mp.microsoft.com ^
 @@||dl.delivery.mp.microsoft.com^
 @@||dl.dropbox.com^
 @@||dl.dropboxusercontent.com^
@@ -700,7 +734,9 @@
 @@||docs.microsoft.com^
 @@||doctor.ndtv.com^
 @@||dominos.co.in^
+@@||donorschoose.org^
 @@||dontmarry.wordpress.com^
+@@||dortmundecho.org^
 @@||download.cnet.com^
 @@||download.lineageos.org^
 @@||download.microsoft.com^
@@ -735,7 +771,10 @@
 @@||easylist-downloads.adblockplus.org^
 @@||easylist.to^
 @@||ebankingnew.eurobank.gr^
+@@||ebay.co.uk^
 @@||ebay.com^
+@@||ebay.fr^
+@@||ebay.it^
 @@||ebay.pl^
 @@||ebayimg.com^
 @@||ebayrtm.com^
@@ -746,6 +785,7 @@
 @@||ecn.dev.virtualearth.net^
 @@||ecx.images-amazon.com^
 @@||edata.ndtv.com^
+@@||edge-chat.facebook.com^
 @@||edge.api.brightcove.com^
 @@||edgesuite.net^
 @@||eds.xboxlive.com^
@@ -753,6 +793,7 @@
 @@||eff.map.fastly.net^
 @@||eff.org^
 @@||ehgt.org^
+@@||einwanderungskritik.de^
 @@||ejie.me^
 @@||electionsdata.ndtv.com^
 @@||eleftherostypos.gr^
@@ -778,6 +819,7 @@
 @@||enjoyfreeware.org^
 @@||entitlement.auth.adobe.com^
 @@||eonline.com^
+@@||epochtimes.de^
 @@||erogames.website^
 @@||es.digitaltrends.com^
 @@||esoterictrad.wordpress.com^
@@ -795,16 +837,27 @@
 @@||exhentai.org^
 @@||express.co.uk^
 @@||expressen.se^
+@@||external-lhr0-1.xx.fbcdn.net ^
 @@||external-lhr0-1.xx.fbcdn.net^
+@@||external-lhr1-1.xx.fbcdn.net ^
 @@||external-lhr1-1.xx.fbcdn.net^
+@@||external-lhr10-1.xx.fbcdn.net ^
 @@||external-lhr10-1.xx.fbcdn.net^
+@@||external-lhr2-1.xx.fbcdn.net ^
 @@||external-lhr2-1.xx.fbcdn.net^
+@@||external-lhr3-1.xx.fbcdn.net ^
 @@||external-lhr3-1.xx.fbcdn.net^
+@@||external-lhr4-1.xx.fbcdn.net ^
 @@||external-lhr4-1.xx.fbcdn.net^
+@@||external-lhr5-1.xx.fbcdn.net ^
 @@||external-lhr5-1.xx.fbcdn.net^
+@@||external-lhr6-1.xx.fbcdn.net ^
 @@||external-lhr6-1.xx.fbcdn.net^
+@@||external-lhr7-1.xx.fbcdn.net ^
 @@||external-lhr7-1.xx.fbcdn.net^
+@@||external-lhr8-1.xx.fbcdn.net ^
 @@||external-lhr8-1.xx.fbcdn.net^
+@@||external-lhr9-1.xx.fbcdn.net ^
 @@||external-lhr9-1.xx.fbcdn.net^
 @@||f-droid.i2p.io^
 @@||f-droid.org^
@@ -819,6 +872,7 @@
 @@||fastaddons.com^
 @@||fastestvpn.com^
 @@||fb.com^
+@@||fbcdn-creative-a.akamaihd.net ^
 @@||fbcdn-creative-a.akamaihd.net^
 @@||fbcdn.net^
 @@||fcm-stream.googleapis.com^
@@ -904,6 +958,7 @@
 @@||freebsd.org^
 @@||freenet.de^
 @@||freewaregenius.com^
+@@||freiezeiten.net^
 @@||frys.com^
 @@||fs.microsoft.com^
 @@||fte.web.future.net.uk^
@@ -933,7 +988,9 @@
 @@||gcm.googleapis.com^
 @@||gearbest.com^
 @@||geforce.com^
+@@||gekko.spiceworks.com^
 @@||gelbooru.com^
+@@||geo-prod.do.dsp.mp.microsoft.com ^
 @@||geo-prod.do.dsp.mp.microsoft.com^
 @@||geo3.ggpht.com^
 @@||get.adobe.com^
@@ -963,6 +1020,7 @@
 @@||gizmodo.com.au^
 @@||gizmodo.com^
 @@||global.account.xiaomi.com^
+@@||gloria.tv^
 @@||glyph.medium.com^
 @@||gmail.com^
 @@||gmail.google.com^
@@ -981,6 +1039,7 @@
 @@||gog.com^
 @@||goo.gl^
 @@||goodreads.com^
+@@||google.com^
 @@||googleadapis.l.google.com^
 @@||googleapis.com^
 @@||googleapis.l.google.com^
@@ -991,6 +1050,7 @@
 @@||gov.gr^
 @@||gp.se^
 @@||gql.reddit.com^
+@@||graph.facebook.com^
 @@||gravatar.com^
 @@||gravity.jup.io^
 @@||grecostrom.gr^
@@ -1009,11 +1069,14 @@
 @@||guce.advertising.com^
 @@||guce.yahoo.com^
 @@||guru3d.com^
+@@||gurud.ee^
 @@||gw.ipfspin.com^
 @@||gwapi.zee5.com-v2.edgekey.net^
 @@||h-sdk.online-metrix.net^
 @@||hackaday.com^
+@@||halle-leaks.de^
 @@||hardbin.com^
+@@||hartgeld.com^
 @@||hashnews.k1ic.com^
 @@||hath.network^
 @@||hb.afl.rakuten.co.jp^
@@ -1068,6 +1131,7 @@
 @@||i.imgur.com^
 @@||i.lithium.com^
 @@||i.pinimg.com^
+@@||i.s-microsoft.com ^
 @@||i.s-microsoft.com^
 @@||i.vgy.me^
 @@||i.ytimg.com^
@@ -1090,6 +1154,7 @@
 @@||id.google.co.in^
 @@||id.google.com^
 @@||id.sonyentertainmentnetwork.com^
+@@||ideone.com^
 @@||idg.se^
 @@||iduwdjf.qiniudns.com^
 @@||ifmo.ru^
@@ -1134,6 +1199,7 @@
 @@||imgops.com^
 @@||imgs.xkcd.com^
 @@||imgtaxi.com^
+@@||imgur.com^
 @@||in-addr.arpa^
 @@||in.linkedin.com^
 @@||in.yahoo.com^
@@ -1239,6 +1305,7 @@
 @@||join.slack.com^
 @@||joinjoaomgcd.appspot.com^
 @@||jorropo.net^
+@@||journalistenwatch.com^
 @@||jquery.com^
 @@||js.appboycdn.com^
 @@||js.indexww.com^
@@ -1277,10 +1344,14 @@
 @@||kohls.com^
 @@||komputerswiat.pl^
 @@||konubinix.eu^
+@@||kopp-report.de^
 @@||kotaku.com^
 @@||kqzyfj.com^
 @@||krakow.tvp.pl^
 @@||kroger.com^
+@@||kulturstudio.info^
+@@||kulturstudio.wordpress.com^
+@@||kundencenter.telekom.de^
 @@||kv701-prod.do.dsp.mp.microsoft.com.edgekey.net^
 @@||ladyfootlocker.com^
 @@||laposte.net^
@@ -1294,6 +1365,7 @@
 @@||lb.sae.sina.com.cn^
 @@||learn.elephantjournal.com^
 @@||legal.medium.com^
+@@||lego.com^
 @@||leifsex.com^
 @@||lh3.google.com^
 @@||lh4.google.com^
@@ -1363,6 +1435,7 @@
 @@||m.foxnews.com^
 @@||m.gitee.com^
 @@||m.gizmodo.com^
+@@||m.hotmail.com ^
 @@||m.hotmail.com^
 @@||m.liberal.gr^
 @@||m.media-amazon.com^
@@ -1370,6 +1443,7 @@
 @@||m.phys.org^
 @@||m.techrepublic.com^
 @@||m.tmz.com^
+@@||m.weeklyad.target.com ^
 @@||m.weeklyad.target.com^
 @@||m.youtube.com^
 @@||ma.techrepublic.com^
@@ -1444,6 +1518,7 @@
 @@||mexa.sh^
 @@||mi.com^
 @@||miami.cbslocal.com^
+@@||michael-mannheimer.net^
 @@||microg.org^
 @@||microsoft.com^
 @@||microsoftonline.com^
@@ -1518,6 +1593,7 @@
 @@||newegg.com^
 @@||newjobs.com^
 @@||newobserveronline.com^
+@@||news-front.info^
 @@||news.ebc.net.tw^
 @@||news.google.comm^
 @@||news.google.com^
@@ -1549,12 +1625,15 @@
 @@||nls.techrepublic.com^
 @@||no-cache.hubspot.com^
 @@||no-ip.com^
+@@||noch.info^
 @@||node.plexapp.com^
 @@||nonadventures.com^
 @@||nordvpn.com^
+@@||notabug.org^
 @@||noteworthy.medium.com^
 @@||notifications.google.com^
 @@||notify.xboxlive.com^
+@@||npd-mv.de^
 @@||npmjs.com^
 @@||npr-news.streaming.adswizz.com^
 @@||npr.org^
@@ -1574,8 +1653,10 @@
 @@||nytimes.com^
 @@||o.aolcdn.com^
 @@||o1.email.medium.com^
+@@||o1.email.plex.tv ^
 @@||o1.email.plex.tv^
 @@||o2.email.medium.com^
+@@||o2.sg0.plex.tv ^
 @@||o2.sg0.plex.tv^
 @@||oaee.gr^
 @@||oauth.reddit.comm^
@@ -1659,6 +1740,7 @@
 @@||ouo.press^
 @@||outlook.com^
 @@||outlook.live.com^
+@@||outlook.office365.com ^
 @@||outlook.office365.com^
 @@||ow.ly^
 @@||p.ebaystatic.com^
@@ -1673,6 +1755,7 @@
 @@||paper.li^
 @@||partner.microsoft.com^
 @@||partners.webmasterplan.com^
+@@||pastebin.com^
 @@||pathe.emsecure.net^
 @@||patreon.com^
 @@||patreonusercontent.com^
@@ -1702,6 +1785,7 @@
 @@||pimp4003-torrents.me^
 @@||pings.conviva.com^
 @@||pinimg.com^
+@@||pinterest.com^
 @@||piratebay-proxylist.com^
 @@||piratebaymirrors.com^
 @@||pittsburgh.cbslocal.com^
@@ -1740,6 +1824,8 @@
 @@||pochta.ru^
 @@||podnapisi.net^
 @@||point.dmm.co.jp^
+@@||politikstube.com^
+@@||politikversagen.net^
 @@||pollserver.lastpass.com^
 @@||pool.ntp.org^
 @@||pop.gmx.de^
@@ -1747,11 +1833,14 @@
 @@||pornscum.com^
 @@||postimage.org^
 @@||preferences.about-scheme^
+@@||pressefreiheit24.wordpress.com^
+@@||pricelist.skype.com ^
 @@||pricelist.skype.com^
 @@||prisjakt.nu^
 @@||privacy-policy.truste.com^
 @@||prnt.sc^
 @@||prod.telemetry.ros.rockstargames.com^
+@@||products.office.com ^
 @@||products.office.com^
 @@||profile.accounts.firefox.com^
 @@||profit.ndtv.com^
@@ -1782,12 +1871,15 @@
 @@||purch.com^
 @@||push.chocolatey.org^
 @@||pushbullet.com^
+@@||px.spiceworks.com^
 @@||q.stripe.com^
 @@||qa.sockets.stackexchange.com^
 @@||qksrv.net^
+@@||qme.mydns.jp^
 @@||query.prod.cms.rt.microsoft.com^
 @@||quora.com^
 @@||qwant.com^
+@@||r5---sn-vgqs7ney.googlevideo.com^
 @@||radd.it^
 @@||radiofrance.targetspot.com^
 @@||radiostacja.pl^
@@ -1795,6 +1887,7 @@
 @@||raindrop.io^
 @@||ramp.purch.com^
 @@||ransomwaretracker.abuse.ch^
+@@||rapefugees.net^
 @@||rapidgator.net^
 @@||rapidvideo.com^
 @@||rarbg.com^
@@ -1857,6 +1950,7 @@
 @@||s-passets-cache-ak0.pinimg.com^
 @@||s.4cdn.org^
 @@||s.cdn.turner.com^
+@@||s.gateway.messenger.live.com ^
 @@||s.gateway.messenger.live.com^
 @@||s.gravatar.com^
 @@||s.marketwatch.com^
@@ -1866,6 +1960,7 @@
 @@||s.yimg.com^
 @@||s.youtube.com^
 @@||s.ytimg.com^
+@@||s.zkcdn.net ^
 @@||s.zkcdn.net^
 @@||s0-san.cloudinary.com.edgekey.net^
 @@||s0.wp.com^
@@ -1878,12 +1973,14 @@
 @@||s3-ap-southeast-1.amazonaws.com^
 @@||s3-eu-west-1.amazonaws.com^
 @@||s3-us-west-2.amazonaws.com^
+@@||s3.amazonaws.com^
 @@||s3.ap-northeast-2.amazonaws.com^
 @@||s3.ap-south-1.amazonaws.com^
 @@||s3.symcb.com^
 @@||s4.symcb.com^
 @@||s5.symcb.com^
 @@||sa-blacklist.stearns.org^
+@@||sa.symcb.com ^
 @@||sa.symcb.com^
 @@||sacramento.cbslocal.com^
 @@||sakuradite.com^
@@ -1893,12 +1990,14 @@
 @@||sankakucomplex.com^
 @@||sapphire.moe^
 @@||satkurier.pl^
+@@||satterly.neocities.org^
 @@||saucenao.com^
 @@||sb-ssl.google.com^
 @@||sbi.co.in^
 @@||sbi.com^
 @@||sbs.com.au^
 @@||sbsvodns-vh.akamaihd.net^
+@@||schluesselkindblog.com^
 @@||scontent-lhr3-1.xx.fbcdn.net^
 @@||scontent.fgdl5-1.fna.fbcdn.net^
 @@||scontent.xx.fbcdn.net^
@@ -1987,17 +2086,21 @@
 @@||spclient.wg.spotify.com^
 @@||speedtest.net^
 @@||spiceworks.com^
+@@||splashtop.com^
 @@||sponsor.ajay.app^
 @@||sport.onet.pl^
 @@||sport.pl^
+@@||sportcompactwarehouse.com^
 @@||sports.latimes.com^
 @@||sports.yahoo.com^
 @@||spreadsheets.google.com^
+@@||sputniknews.com^
 @@||sqm.microsoft.com^
 @@||sqs.us-east-1.amazonaws.com^
 @@||ssl-images-amazon.com^
 @@||ssl.bblck.me^
 @@||ssl.dlsite.com^
+@@||ssl.google-analytics.com^
 @@||ssl.gstatic.com^
 @@||ssl.p.jwpcdn.com^
 @@||ssl.reddit.com^
@@ -2032,6 +2135,7 @@
 @@||static1.squarespace.com^
 @@||static2cdn.hubspot.com^
 @@||stats.streamelements.com^
+@@||stats.t-online.de^
 @@||status.plex.tv^
 @@||steamcommunity.com^
 @@||steampowered.com^
@@ -2111,6 +2215,7 @@
 @@||thechive.com^
 @@||thedoghousediaries.com^
 @@||thedroidreview.com^
+@@||theeuropean.de^
 @@||thefreethoughtproject.com^
 @@||thefutureprimaeval.net^
 @@||theguardian.com^
@@ -2145,6 +2250,7 @@
 @@||time.nist.gov^
 @@||time.samsungcloudsolution.com^
 @@||time.windows.com^
+@@||tiny.cc^
 @@||tinypic.com^
 @@||tinyurl.com^
 @@||title.auth.xboxlive.com^
@@ -2179,6 +2285,7 @@
 @@||tr4.cbsistatic.com^
 @@||track.adform.net^
 @@||track.rutarget.ru^
+@@||track.spiceworks.com^
 @@||track.ucas.com^
 @@||track.webgains.com^
 @@||tradetracker.net^
@@ -2189,6 +2296,7 @@
 @@||triplebyte.com^
 @@||trs.mtool.app^
 @@||truste.com^
+@@||truth24.net^
 @@||tth-ipfs.com^
 @@||tuba.fm^
 @@||tubemate.net^
@@ -2212,6 +2320,7 @@
 @@||ublock0.chrome-scheme^
 @@||ubuntuforums.org^
 @@||ufile.io^
+@@||ui.skype.com ^
 @@||ui.skype.com^
 @@||uid.si^
 @@||uj3wazyk5u4hnvtk.onion.link^
@@ -2228,6 +2337,7 @@
 @@||unix.com^
 @@||unpkg.com^
 @@||unsplash.com^
+@@||unzensuriert.de^
 @@||upcdn.b0.upaiyun.com^
 @@||update.code.visualstudio.com^
 @@||update.dreamsavior.net^
@@ -2236,6 +2346,7 @@
 @@||updates-http.cdn-apple.com^
 @@||updates.push.services.mozilla.com^
 @@||upgrade.scdn.com^
+@@||upload.facebook.com^
 @@||upload.pushbullet.com^
 @@||uploaded.net^
 @@||uploaded.to^
@@ -2243,6 +2354,7 @@
 @@||uptobox.com^
 @@||urlhaus.abuse.ch^
 @@||urs.techrepublic.com^
+@@||us-cert.gov^
 @@||us-east-1.amazonaws.com^
 @@||us.configsvc1.live.com.akadns.net^
 @@||use.fontawesome.com.cdn.cloudflare.net^
@@ -2301,6 +2413,7 @@
 @@||vodafoneindia.tt.omtrdc.net^
 @@||voddownload.ndtv.com.edgekey.net^
 @@||void.gr^
+@@||volksstimme.de^
 @@||vortex.accuweather.com^
 @@||vox.com^
 @@||voxday.blogspot.gr^
@@ -2321,6 +2434,7 @@
 @@||weatherunlocked.com^
 @@||web.archive.org^
 @@||web.de^
+@@||webcache.googleusercontent.com^
 @@||webcam.yahoo.com^
 @@||webextender.net^
 @@||webextensions.uservoice.com^
@@ -2328,6 +2442,7 @@
 @@||webmail.laposte.net^
 @@||webmail.orange.fr^
 @@||weboas.is^
+@@||weeklyad.target.com ^
 @@||weeklyad.target.com.edgesuite.net^
 @@||weeklyad.target.com^
 @@||westcoastrxers.com^
@@ -2378,6 +2493,7 @@
 @@||www.actionnetwork.org^
 @@||www.addictivetips.com^
 @@||www.adf.ly^
+@@||www.afd.de^
 @@||www.affiliatefuture.com^
 @@||www.algolia.com^
 @@||www.alluremedia.com^
@@ -2452,6 +2568,7 @@
 @@||www.confusedmatthew.com^
 @@||www.consent.truste.com^
 @@||www.consumepopculture.com^
+@@||www.contra-magazin.com^
 @@||www.countercurrents.org^
 @@||www.crunchbase.com^
 @@||www.csp.medium.com^
@@ -2464,11 +2581,13 @@
 @@||www.dataplicity.com^
 @@||www.dbs.com^
 @@||www.dealscove.com^
+@@||www.denken-macht-frei.info^
 @@||www.developers.medium.com^
 @@||www.digitaltrends.com^
 @@||www.dlsite.com^
 @@||www.dmm.co.jp^
 @@||www.dogpile.com^
+@@||www.dortmundecho.org^
 @@||www.downloads.techrepublic.com^
 @@||www.dpbolvw.net^
 @@||www.dropbox.comn^
@@ -2487,6 +2606,7 @@
 @@||www.emuparadise.mobi^
 @@||www.en.w3schools.com^
 @@||www.enews.techrepublic.com^
+@@||www.epochtimes.de^
 @@||www.euroservices.gr^
 @@||www.everydayhealth.com^
 @@||www.evyy.net^
@@ -2497,6 +2617,7 @@
 @@||www.feedly.com^
 @@||www.flipkart.com^
 @@||www.france24.com^
+@@||www.freiezeiten.net^
 @@||www.ftp.chocolatey.org^
 @@||www.gazopa.com^
 @@||www.gdunlimited.net^
@@ -2508,6 +2629,8 @@
 @@||www.go.microsoft.com^
 @@||www.gofundme.com^
 @@||www.goodreads.com^
+@@||www.google-analytics.com^
+@@||www.google.com^
 @@||www.googleapis.com^
 @@||www.gopjn.com^
 @@||www.gstatic.com^
@@ -2518,6 +2641,7 @@
 @@||www.howtogeek.com^
 @@||www.hubspot.com^
 @@||www.i1.social.s-msft.com^
+@@||www.icanhazip.com^
 @@||www.iceimg.net^
 @@||www.icloud.com.edgekey.net^
 @@||www.icloud.com^
@@ -2530,15 +2654,18 @@
 @@||www.iplocation.net^
 @@||www.isegoria.net^
 @@||www.itpapers.techrepublic.com^
+@@||www.jabcreations.com^
 @@||www.jack-donovan.com^
 @@||www.japan.techrepublic.com^
 @@||www.jdoqocy.com^
 @@||www.jobs.medium.com^
 @@||www.joewein.net^
 @@||www.join.slack.com^
+@@||www.journalistenwatch.com^
 @@||www.jzrputtbut.net^
 @@||www.kaguragames.com^
 @@||www.kathimerini.gr^
+@@||www.kickstarter.com^
 @@||www.kqzyfj.com^
 @@||www.kungfucinema.com^
 @@||www.lastpass.com^
@@ -2546,6 +2673,7 @@
 @@||www.li.techrepublic.com^
 @@||www.licensedpackages.chocolatey.org^
 @@||www.lidl-hellas.gr^
+@@||www.lightinthebox.com^
 @@||www.linkedin.com^
 @@||www.linksynergy.com^
 @@||www.login.wikimedia.org^
@@ -2563,6 +2691,8 @@
 @@||www.meetu.ps^
 @@||www.meetup.com^
 @@||www.members.medium.com^
+@@||www.mercadolivre.com.br^
+@@||www.messenger.com^
 @@||www.mi.com^
 @@||www.microsoft.com^
 @@||www.microsofttranslator.com^
@@ -2584,10 +2714,12 @@
 @@||www.news.gr^
 @@||www.newsauto.gr^
 @@||www.newstatesman.com^
+@@||www.niecko.pl^
 @@||www.nls.techrepublic.com^
 @@||www.no-ip.com^
 @@||www.noip.com^
 @@||www.noteworthy.medium.com^
+@@||www.npd-mv.de^
 @@||www.nperf.com^
 @@||www.npmjs.com^
 @@||www.o.aolcdn.com^
@@ -2612,15 +2744,18 @@
 @@||www.paypal.com^
 @@||www.paypalobjects.com^
 @@||www.pcliquidations.com^
+@@||www.pinterest.com^
 @@||www.pjatr.com^
 @@||www.pjtra.com^
 @@||www.play.googleapis.com^
+@@||www.plex.tv^
 @@||www.pluralsight.com^
 @@||www.pntra.com^
 @@||www.pntrac.com^
 @@||www.pntrack.com^
 @@||www.podcastdirectory.com^
 @@||www.podcasts.com^
+@@||www.politikversagen.net^
 @@||www.pophorror.com^
 @@||www.preferences.truste.com^
 @@||www.privacytools.io^
@@ -2633,6 +2768,7 @@
 @@||www.quora.com^
 @@||www.rabidfiles.com^
 @@||www.radixjournal.com^
+@@||www.rapefugees.net^
 @@||www.raspberrypi.com^
 @@||www.raspberrypi.org^
 @@||www.realvnc.com^
@@ -2686,6 +2822,7 @@
 @@||www.textshot.medium.com^
 @@||www.the-editing-room.com^
 @@||www.theandroidsoul.com^
+@@||www.theeuropean.de^
 @@||www.theguardian.com^
 @@||www.theoccidentalobserver.net^
 @@||www.thewindowsclub.com^
@@ -2700,14 +2837,19 @@
 @@||www.tradetracker.net^
 @@||www.trak.in^
 @@||www.trueactivist.com^
+@@||www.truth24.net^
 @@||www.typewise.app^
+@@||www.unix.com^
 @@||www.unsplash.com^
 @@||www.unz.com^
+@@||www.unzensuriert.de^
 @@||www.urbandictionary.com^
 @@||www.urs.techrepublic.com^
+@@||www.us-cert.gov^
 @@||www.vdare.com^
 @@||www.vistax64.com^
 @@||www.vodafone.gr^
+@@||www.volksstimme.de^
 @@||www.w3school.com^
 @@||www.w3schools.com^
 @@||www.waterwarcrimes.com^
@@ -2754,6 +2896,7 @@
 @@||youtube-dl.org^
 @@||youtube-nocookie.com^
 @@||youtube-ui.l.google.com^
+@@||youtube.com^
 @@||youtubei.googleapis.com^
 @@||yt3.ggpht.com^
 @@||ytimg.com^
