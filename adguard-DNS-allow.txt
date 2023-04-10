@@ -1,4 +1,3 @@
-
 ! Title: my adguard DNS allow list
 @@||0-edge-chat.facebook.com^
 @@||0.client-channel.google.com^
@@ -62,6 +61,7 @@
 @@||8ch.net^
 @@||8pecxstudios.com^
 @@||9to5google.com^
+@@||BuzzMeIn.com^
 @@||a-msedge.net^
 @@||a.4cdn.org^
 @@||a.adwolf.ru^
@@ -76,8 +76,8 @@
 @@||abc.com^
 @@||abcnews.go.com^
 @@||abebooks.com^
-@@||about.medium.com^
 @@||about.me^
+@@||about.medium.com^
 @@||abp.oisd.nl^
 @@||abuse.ch^
 @@||access.redhat.com.edgekey.net^
@@ -384,7 +384,6 @@
 @@||businessinsider.com^
 @@||buy.xmarks.com^
 @@||buzzfeed.com^
-@@||BuzzMeIn.com^
 @@||bwp.techrepublic.com^
 @@||bydgoszcz.tvp.pl^
 @@||c.digikey.com^
@@ -589,8 +588,8 @@
 @@||content.time.com^
 @@||continuum.dds.microsoft.com^
 @@||contra-magazin.com^
-@@||contributions.guardianapis.comn^
 @@||contributions.guardianapis.com^
+@@||contributions.guardianapis.comn^
 @@||convertkit.com^
 @@||corp.kaltura.com^
 @@||cosmopolitan.com^
@@ -722,8 +721,8 @@
 @@||dns.msftncsi.com^
 @@||dnsotls-ds.metric.gstatic.com^
 @@||docs.docker.com^
-@@||docs.google.comn^
 @@||docs.google.com^
+@@||docs.google.comn^
 @@||docs.microsoft.com-c.edgekey.net^
 @@||docs.microsoft.com^
 @@||doctor.ndtv.com^
@@ -745,8 +744,8 @@
 @@||drift.com^
 @@||driftt.com^
 @@||drop.ndtv.com.edgekey.net^
-@@||dropbox.comdl.dropbox.com^
 @@||dropbox.com^
+@@||dropbox.comdl.dropbox.com^
 @@||dropboxapi.com^
 @@||dropboxwiki.com^
 @@||dsms0mj1bbhn4.cloudfront.net^
@@ -1383,9 +1382,9 @@
 @@||load.to^
 @@||loadbalancing.modaco.com^
 @@||local.adguard.org^
+@@||local^
 @@||localfonts.eu^
 @@||localhost^
-@@||local^
 @@||location-inference-westus.cloudapp.net^
 @@||location.services.mozilla.com^
 @@||lodz.tvp.pl^
@@ -1573,8 +1572,8 @@
 @@||newobserveronline.com^
 @@||news-front.info^
 @@||news.ebc.net.tw^
-@@||news.google.comm^
 @@||news.google.com^
+@@||news.google.comm^
 @@||news.softpedia.com^
 @@||news.ycombinator.com^
 @@||newsday.com^
@@ -1635,8 +1634,8 @@
 @@||o2.email.medium.com^
 @@||o2.sg0.plex.tv^
 @@||oaee.gr^
-@@||oauth.reddit.comm^
 @@||oauth.reddit.com^
+@@||oauth.reddit.comm^
 @@||oboom.com^
 @@||observer.com^
 @@||ocsp.apple.com^
@@ -1884,8 +1883,8 @@
 @@||redd.it^
 @@||reddestdream.github.io^
 @@||redditlist.com^
-@@||redditmedia.comm^
 @@||redditmedia.com^
+@@||redditmedia.comm^
 @@||redditstatic.com^
 @@||redfin.com^
 @@||redir.tradedoubler.com^
@@ -2089,8 +2088,8 @@
 @@||statebankrewardz.com^
 @@||static-asm.secure.skypeassets.com^
 @@||static.127777.com^
-@@||static.adguard.comm^
 @@||static.adguard.com^
+@@||static.adguard.comm^
 @@||static.appsumo.com^
 @@||static.fontawesome.com^
 @@||static.hubspot.com^
@@ -2558,8 +2557,8 @@
 @@||www.dortmundecho.org^
 @@||www.downloads.techrepublic.com^
 @@||www.dpbolvw.net^
-@@||www.dropbox.comn^
 @@||www.dropbox.com^
+@@||www.dropbox.comn^
 @@||www.dshield.org^
 @@||www.dw.techrepublic.com^
 @@||www.e-fresh.gr^
@@ -2729,8 +2728,8 @@
 @@||www.privacytools.io^
 @@||www.protagon.gr^
 @@||www.protothema.gr^
-@@||www.publishers.medium.com^
 @@||www.publishers.medium.co^
+@@||www.publishers.medium.com^
 @@||www.push.chocolatey.org^
 @@||www.qksrv.net^
 @@||www.quora.com^

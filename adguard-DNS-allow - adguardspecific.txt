@@ -1,4 +1,3 @@
-
 ! Title: my adguard DNS allow list
 @@||0-edge-chat.facebook.com^$important
 @@||0.client-channel.google.com^$important
@@ -62,6 +61,7 @@
 @@||8ch.net^$important
 @@||8pecxstudios.com^$important
 @@||9to5google.com^$important
+@@||BuzzMeIn.com^$important
 @@||a-msedge.net^$important
 @@||a.4cdn.org^$important
 @@||a.adwolf.ru^$important
@@ -76,8 +76,8 @@
 @@||abc.com^$important
 @@||abcnews.go.com^$important
 @@||abebooks.com^$important
-@@||about.medium.com^$important
 @@||about.me^$important
+@@||about.medium.com^$important
 @@||abp.oisd.nl^$important
 @@||abuse.ch^$important
 @@||access.redhat.com.edgekey.net^$important
@@ -384,7 +384,6 @@
 @@||businessinsider.com^$important
 @@||buy.xmarks.com^$important
 @@||buzzfeed.com^$important
-@@||BuzzMeIn.com^$important
 @@||bwp.techrepublic.com^$important
 @@||bydgoszcz.tvp.pl^$important
 @@||c.digikey.com^$important
@@ -589,8 +588,8 @@
 @@||content.time.com^$important
 @@||continuum.dds.microsoft.com^$important
 @@||contra-magazin.com^$important
-@@||contributions.guardianapis.comn^$important
 @@||contributions.guardianapis.com^$important
+@@||contributions.guardianapis.comn^$important
 @@||convertkit.com^$important
 @@||corp.kaltura.com^$important
 @@||cosmopolitan.com^$important
@@ -722,8 +721,8 @@
 @@||dns.msftncsi.com^$important
 @@||dnsotls-ds.metric.gstatic.com^$important
 @@||docs.docker.com^$important
-@@||docs.google.comn^$important
 @@||docs.google.com^$important
+@@||docs.google.comn^$important
 @@||docs.microsoft.com-c.edgekey.net^$important
 @@||docs.microsoft.com^$important
 @@||doctor.ndtv.com^$important
@@ -745,8 +744,8 @@
 @@||drift.com^$important
 @@||driftt.com^$important
 @@||drop.ndtv.com.edgekey.net^$important
-@@||dropbox.comdl.dropbox.com^$important
 @@||dropbox.com^$important
+@@||dropbox.comdl.dropbox.com^$important
 @@||dropboxapi.com^$important
 @@||dropboxwiki.com^$important
 @@||dsms0mj1bbhn4.cloudfront.net^$important
@@ -1383,9 +1382,9 @@
 @@||load.to^$important
 @@||loadbalancing.modaco.com^$important
 @@||local.adguard.org^$important
+@@||local^$important
 @@||localfonts.eu^$important
 @@||localhost^$important
-@@||local^$important
 @@||location-inference-westus.cloudapp.net^$important
 @@||location.services.mozilla.com^$important
 @@||lodz.tvp.pl^$important
@@ -1573,8 +1572,8 @@
 @@||newobserveronline.com^$important
 @@||news-front.info^$important
 @@||news.ebc.net.tw^$important
-@@||news.google.comm^$important
 @@||news.google.com^$important
+@@||news.google.comm^$important
 @@||news.softpedia.com^$important
 @@||news.ycombinator.com^$important
 @@||newsday.com^$important
@@ -1635,8 +1634,8 @@
 @@||o2.email.medium.com^$important
 @@||o2.sg0.plex.tv^$important
 @@||oaee.gr^$important
-@@||oauth.reddit.comm^$important
 @@||oauth.reddit.com^$important
+@@||oauth.reddit.comm^$important
 @@||oboom.com^$important
 @@||observer.com^$important
 @@||ocsp.apple.com^$important
@@ -1884,8 +1883,8 @@
 @@||redd.it^$important
 @@||reddestdream.github.io^$important
 @@||redditlist.com^$important
-@@||redditmedia.comm^$important
 @@||redditmedia.com^$important
+@@||redditmedia.comm^$important
 @@||redditstatic.com^$important
 @@||redfin.com^$important
 @@||redir.tradedoubler.com^$important
@@ -2089,8 +2088,8 @@
 @@||statebankrewardz.com^$important
 @@||static-asm.secure.skypeassets.com^$important
 @@||static.127777.com^$important
-@@||static.adguard.comm^$important
 @@||static.adguard.com^$important
+@@||static.adguard.comm^$important
 @@||static.appsumo.com^$important
 @@||static.fontawesome.com^$important
 @@||static.hubspot.com^$important
@@ -2558,8 +2557,8 @@
 @@||www.dortmundecho.org^$important
 @@||www.downloads.techrepublic.com^$important
 @@||www.dpbolvw.net^$important
-@@||www.dropbox.comn^$important
 @@||www.dropbox.com^$important
+@@||www.dropbox.comn^$important
 @@||www.dshield.org^$important
 @@||www.dw.techrepublic.com^$important
 @@||www.e-fresh.gr^$important
@@ -2729,8 +2728,8 @@
 @@||www.privacytools.io^$important
 @@||www.protagon.gr^$important
 @@||www.protothema.gr^$important
-@@||www.publishers.medium.com^$important
 @@||www.publishers.medium.co^$important
+@@||www.publishers.medium.com^$important
 @@||www.push.chocolatey.org^$important
 @@||www.qksrv.net^$important
 @@||www.quora.com^$important
