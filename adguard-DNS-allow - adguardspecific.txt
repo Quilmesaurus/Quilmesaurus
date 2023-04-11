@@ -277,6 +277,7 @@
 @@||audiobookbay.nl^$important
 @@||audiopocket.net^$important
 @@||auditrecording-pa.googleapis.com^$important
+@@||aus5.mozilla.org^$important
 @@||auslogics.com^$important
 @@||auth.gfx.ms^$important
 @@||auto.au.download.windowsupdate.com.c.footprint.net^$important
