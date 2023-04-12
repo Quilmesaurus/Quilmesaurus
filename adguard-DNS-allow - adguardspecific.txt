@@ -2541,7 +2541,6 @@
 @@||gog.com^$important
 @@||goo.gl^$important
 @@||goodreads.com^$important
-@@||google.com^$important
 @@||googleadapis.l.google.com^$important
 @@||googleapis.com^$important
 @@||googleapis.l.google.com^$important
@@ -3124,7 +3123,6 @@
 @@||news-front.info^$important
 @@||news.ebc.net.tw^$important
 @@||news.google.com^$important
-@@||news.google.comm^$important
 @@||news.softpedia.com^$important
 @@||news.ycombinator.com^$important
 @@||newsday.com^$important
