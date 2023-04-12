@@ -22,7 +22,6 @@
 @@|330046g46.secure0032.hubspot.net^
 @@|56.com^
 @@|6sense.com^
-@@|79423.analytics.edgekey.net^
 @@|a*.d*.akamai.net^
 @@|a.klaviyo.com^
 @@|a.nel.cloudflare.com^
@@ -84,7 +83,6 @@
 @@|afrinic.net^
 @@|afs.googleusercontent.com^
 @@|afternic.com^
-@@|agave.myanalytics.cdn.office.net^
 @@|agents.extremereach.com^
 @@|ahacdn.me^
 @@|aic-ngfts.lge.com^
@@ -105,10 +103,6 @@
 @@|amp-api-prd.bostonglobe.com^
 @@|analysis*.chess.com.cdn.cloudflare.net^
 @@|analysis*.chess.com^
-@@|analytics.shopify.com^
-@@|analytics.twitter.com^
-@@|analyticsinsights-pa.googleapis.com^
-@@|analyticssearch-pa.googleapis.com^
 @@|androidtvwatsonfe-pa.googleapis.com^
 @@|angi.com^
 @@|announcements.vizio.com^
@@ -131,7 +125,6 @@
 @@|api.c99.nl^
 @@|api.chip-secured-download.de^
 @@|api.immomo.com^
-@@|api.loganalytics.io^
 @@|api.nextgen.guardianapps.co.uk^
 @@|api.nfl.com^
 @@|api.noda.live^
@@ -330,8 +323,6 @@
 @@|consentcdn.cookiebot.eu^
 @@|consentmanager.mgr.consensu.org^
 @@|contaboserver.net^
-@@|content-analytics.googleapis.com^
-@@|content-analyticsinsights-pa.googleapis.com^
 @@|content-media.bonial.biz^
 @@|content.aimatch.com^
 @@|content.cptrack.de^
@@ -752,8 +743,6 @@
 @@|mx.yandex.ru^
 @@|myabandonware.com^
 @@|myaccount.nytimes.com^
-@@|mybbc-analytics.files.bbci.co.uk.edgekey.net^
-@@|mybbc-analytics.files.bbci.co.uk^
 @@|mycliplister.com^
 @@|myfed.space^
 @@|myip.wtf^
@@ -1179,8 +1168,6 @@
 @@|www.akamaized.net^
 @@|www.alvarotrigo.com^
 @@|www.amazonforum.com^
-@@|www.analyticsinsights-pa.googleapis.com^
-@@|www.analyticssearch-pa.googleapis.com^
 @@|www.angi.com^
 @@|www.ansible.com^
 @@|www.apollopushserver.xyz^
@@ -3687,7 +3674,6 @@
 @@||ssl-images-amazon.com^
 @@||ssl.bblck.me^
 @@||ssl.dlsite.com^
-@@||ssl.google-analytics.com^
 @@||ssl.gstatic.com^
 @@||ssl.p.jwpcdn.com^
 @@||ssl.reddit.com^
@@ -4243,7 +4229,6 @@
 @@||www.go.microsoft.com^
 @@||www.gofundme.com^
 @@||www.goodreads.com^
-@@||www.google-analytics.com^
 @@||www.google.com^
 @@||www.googleapis.com^
 @@||www.gopjn.com^

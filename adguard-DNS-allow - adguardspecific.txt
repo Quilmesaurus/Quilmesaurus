@@ -22,7 +22,6 @@
 @@|330046g46.secure0032.hubspot.net^$important
 @@|56.com^$important
 @@|6sense.com^$important
-@@|79423.analytics.edgekey.net^$important
 @@|a*.d*.akamai.net^$important
 @@|a.klaviyo.com^$important
 @@|a.nel.cloudflare.com^$important
@@ -84,7 +83,6 @@
 @@|afrinic.net^$important
 @@|afs.googleusercontent.com^$important
 @@|afternic.com^$important
-@@|agave.myanalytics.cdn.office.net^$important
 @@|agents.extremereach.com^$important
 @@|ahacdn.me^$important
 @@|aic-ngfts.lge.com^$important
@@ -105,10 +103,6 @@
 @@|amp-api-prd.bostonglobe.com^$important
 @@|analysis*.chess.com.cdn.cloudflare.net^$important
 @@|analysis*.chess.com^$important
-@@|analytics.shopify.com^$important
-@@|analytics.twitter.com^$important
-@@|analyticsinsights-pa.googleapis.com^$important
-@@|analyticssearch-pa.googleapis.com^$important
 @@|androidtvwatsonfe-pa.googleapis.com^$important
 @@|angi.com^$important
 @@|announcements.vizio.com^$important
@@ -131,7 +125,6 @@
 @@|api.c99.nl^$important
 @@|api.chip-secured-download.de^$important
 @@|api.immomo.com^$important
-@@|api.loganalytics.io^$important
 @@|api.nextgen.guardianapps.co.uk^$important
 @@|api.nfl.com^$important
 @@|api.noda.live^$important
@@ -330,8 +323,6 @@
 @@|consentcdn.cookiebot.eu^$important
 @@|consentmanager.mgr.consensu.org^$important
 @@|contaboserver.net^$important
-@@|content-analytics.googleapis.com^$important
-@@|content-analyticsinsights-pa.googleapis.com^$important
 @@|content-media.bonial.biz^$important
 @@|content.aimatch.com^$important
 @@|content.cptrack.de^$important
@@ -752,8 +743,6 @@
 @@|mx.yandex.ru^$important
 @@|myabandonware.com^$important
 @@|myaccount.nytimes.com^$important
-@@|mybbc-analytics.files.bbci.co.uk.edgekey.net^$important
-@@|mybbc-analytics.files.bbci.co.uk^$important
 @@|mycliplister.com^$important
 @@|myfed.space^$important
 @@|myip.wtf^$important
@@ -1179,8 +1168,6 @@
 @@|www.akamaized.net^$important
 @@|www.alvarotrigo.com^$important
 @@|www.amazonforum.com^$important
-@@|www.analyticsinsights-pa.googleapis.com^$important
-@@|www.analyticssearch-pa.googleapis.com^$important
 @@|www.angi.com^$important
 @@|www.ansible.com^$important
 @@|www.apollopushserver.xyz^$important
@@ -3687,7 +3674,6 @@
 @@||ssl-images-amazon.com^$important
 @@||ssl.bblck.me^$important
 @@||ssl.dlsite.com^$important
-@@||ssl.google-analytics.com^$important
 @@||ssl.gstatic.com^$important
 @@||ssl.p.jwpcdn.com^$important
 @@||ssl.reddit.com^$important
@@ -4243,7 +4229,6 @@
 @@||www.go.microsoft.com^$important
 @@||www.gofundme.com^$important
 @@||www.goodreads.com^$important
-@@||www.google-analytics.com^$important
 @@||www.google.com^$important
 @@||www.googleapis.com^$important
 @@||www.gopjn.com^$important
