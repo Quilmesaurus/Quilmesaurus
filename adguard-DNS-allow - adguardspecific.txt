@@ -1,18 +1,13 @@
 ! Title: my adguard DNS allow list
 @@|*-boot.tiktok*.com^$important
 @@|*api.*.microsoft.com^$important
-@@|*api.facebook.com^$important
 @@|*events*.trafficmanager.net^$important
-@@|*graph-fallback.facebook.com^$important
 @@|*graph-fallback.instagram.com^$important
-@@|*graph-video.facebook.com^$important
-@@|*graph.facebook.com^$important
 @@|*graph.fbpigeon.com^$important
 @@|*graph.instagram.com^$important
 @@|*ocsp.microsoft.com^$important
 @@|*paypal*.siteintercept.qualtrics.com^$important
 @@|*spotify-com.akamaized.net^$important
-@@|*star.*.facebook.com^$important
 @@|*telemetry.*oraclecloud.com^$important
 @@|1115546720.rsc.cdn77.org^$important
 @@|17track.net^$important
@@ -311,8 +306,6 @@
 @@|component-ota-sg.allawnos.com^$important
 @@|config-vvs.glomex.com^$important
 @@|configprd.samsungcloudsolution.net^$important
-@@|connect.facebook.com^$important
-@@|connect.facebook.net^$important
 @@|consent-pref.trustarc.com^$important
 @@|consent.cookiebot.eu^$important
 @@|consent.dk^$important
@@ -1125,7 +1118,6 @@
 @@|web-assets.stylitics.com.cdn.cloudflare.net^$important
 @@|web-assets.stylitics.com^$important
 @@|web.diagnostic.networking.aws.dev^$important
-@@|web.facebook.com^$important
 @@|webadvisorc.rest.gti.mcafee.com^$important
 @@|webapp-prod.cloud.remarkable.engineering^$important
 @@|webhook.logentries.com^$important
@@ -1448,10 +1440,8 @@
 @@|zephr.com^$important
 @@|zinspilot.de^$important
 @@|zoominfo.com^$important
-@@||0-edge-chat.facebook.com^$important
 @@||0.client-channel.google.com^$important
 @@||0.us.pool.ntp.org^$important
-@@||1-edge-chat.facebook.com^$important
 @@||1.bp.blogspot.com^$important
 @@||1.us.pool.ntp.org^$important
 @@||10.via0.com^$important
@@ -1488,24 +1478,19 @@
 @@||1hosts.cf^$important
 @@||1und1.de^$important
 @@||2-01-3cf7-000c.cdx.cedexis.net^$important
-@@||2-edge-chat.facebook.com^$important
 @@||2.android.pool.ntp.org^$important
 @@||2.us.pool.ntp.org^$important
 @@||200.nl67.seedit4.me^$important
 @@||206.189.252.21^$important
 @@||2shared.com^$important
-@@||3-edge-chat.facebook.com^$important
 @@||3cloud.ee^$important
-@@||4-edge-chat.facebook.com^$important
 @@||4.bp.blogspot.com^$important
 @@||4cdn.org^$important
 @@||4chan.org^$important
 @@||4channel.org^$important
 @@||4everland.io^$important
 @@||4shared.com^$important
-@@||5-edge-chat.facebook.com^$important
 @@||5231.xg4ken.com^$important
-@@||6-edge-chat.facebook.com^$important
 @@||7eer.net^$important
 @@||8ch.net^$important
 @@||8pecxstudios.com^$important
@@ -1787,7 +1772,6 @@
 @@||bgr.com^$important
 @@||bialystok.tvp.pl^$important
 @@||biggerluke.wikidot.com^$important
-@@||bigzipfiles.facebook.com^$important
 @@||billiger.de^$important
 @@||binbox.io^$important
 @@||bing.at^$important
@@ -2279,7 +2263,6 @@
 @@||ecn.dev.virtualearth.net^$important
 @@||ecx.images-amazon.com^$important
 @@||edata.ndtv.com^$important
-@@||edge-chat.facebook.com^$important
 @@||edge.api.brightcove.com^$important
 @@||edgesuite.net^$important
 @@||eds.xboxlive.com^$important
@@ -2541,7 +2524,6 @@
 @@||gog.com^$important
 @@||goo.gl^$important
 @@||goodreads.com^$important
-@@||googleadapis.l.google.com^$important
 @@||googleapis.com^$important
 @@||googleapis.l.google.com^$important
 @@||googlehosted.l.googleusercontent.com^$important
@@ -2553,7 +2535,6 @@
 @@||gp.se^$important
 @@||gph.easebar.com^$important
 @@||gql.reddit.com^$important
-@@||graph.facebook.com^$important
 @@||gravatar.com^$important
 @@||gravity.jup.io^$important
 @@||grecostrom.gr^$important
@@ -3934,7 +3915,6 @@
 @@||updates-http.cdn-apple.com^$important
 @@||updates.push.services.mozilla.com^$important
 @@||upgrade.scdn.com^$important
-@@||upload.facebook.com^$important
 @@||upload.pushbullet.com^$important
 @@||uploaded.net^$important
 @@||uploaded.to^$important

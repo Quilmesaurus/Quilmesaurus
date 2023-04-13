@@ -1,18 +1,13 @@
 ! Title: my adguard DNS allow list
 @@|*-boot.tiktok*.com^
 @@|*api.*.microsoft.com^
-@@|*api.facebook.com^
 @@|*events*.trafficmanager.net^
-@@|*graph-fallback.facebook.com^
 @@|*graph-fallback.instagram.com^
-@@|*graph-video.facebook.com^
-@@|*graph.facebook.com^
 @@|*graph.fbpigeon.com^
 @@|*graph.instagram.com^
 @@|*ocsp.microsoft.com^
 @@|*paypal*.siteintercept.qualtrics.com^
 @@|*spotify-com.akamaized.net^
-@@|*star.*.facebook.com^
 @@|*telemetry.*oraclecloud.com^
 @@|1115546720.rsc.cdn77.org^
 @@|17track.net^
@@ -311,8 +306,6 @@
 @@|component-ota-sg.allawnos.com^
 @@|config-vvs.glomex.com^
 @@|configprd.samsungcloudsolution.net^
-@@|connect.facebook.com^
-@@|connect.facebook.net^
 @@|consent-pref.trustarc.com^
 @@|consent.cookiebot.eu^
 @@|consent.dk^
@@ -1125,7 +1118,6 @@
 @@|web-assets.stylitics.com.cdn.cloudflare.net^
 @@|web-assets.stylitics.com^
 @@|web.diagnostic.networking.aws.dev^
-@@|web.facebook.com^
 @@|webadvisorc.rest.gti.mcafee.com^
 @@|webapp-prod.cloud.remarkable.engineering^
 @@|webhook.logentries.com^
@@ -1448,10 +1440,8 @@
 @@|zephr.com^
 @@|zinspilot.de^
 @@|zoominfo.com^
-@@||0-edge-chat.facebook.com^
 @@||0.client-channel.google.com^
 @@||0.us.pool.ntp.org^
-@@||1-edge-chat.facebook.com^
 @@||1.bp.blogspot.com^
 @@||1.us.pool.ntp.org^
 @@||10.via0.com^
@@ -1488,24 +1478,19 @@
 @@||1hosts.cf^
 @@||1und1.de^
 @@||2-01-3cf7-000c.cdx.cedexis.net^
-@@||2-edge-chat.facebook.com^
 @@||2.android.pool.ntp.org^
 @@||2.us.pool.ntp.org^
 @@||200.nl67.seedit4.me^
 @@||206.189.252.21^
 @@||2shared.com^
-@@||3-edge-chat.facebook.com^
 @@||3cloud.ee^
-@@||4-edge-chat.facebook.com^
 @@||4.bp.blogspot.com^
 @@||4cdn.org^
 @@||4chan.org^
 @@||4channel.org^
 @@||4everland.io^
 @@||4shared.com^
-@@||5-edge-chat.facebook.com^
 @@||5231.xg4ken.com^
-@@||6-edge-chat.facebook.com^
 @@||7eer.net^
 @@||8ch.net^
 @@||8pecxstudios.com^
@@ -1787,7 +1772,6 @@
 @@||bgr.com^
 @@||bialystok.tvp.pl^
 @@||biggerluke.wikidot.com^
-@@||bigzipfiles.facebook.com^
 @@||billiger.de^
 @@||binbox.io^
 @@||bing.at^
@@ -2279,7 +2263,6 @@
 @@||ecn.dev.virtualearth.net^
 @@||ecx.images-amazon.com^
 @@||edata.ndtv.com^
-@@||edge-chat.facebook.com^
 @@||edge.api.brightcove.com^
 @@||edgesuite.net^
 @@||eds.xboxlive.com^
@@ -2541,7 +2524,6 @@
 @@||gog.com^
 @@||goo.gl^
 @@||goodreads.com^
-@@||googleadapis.l.google.com^
 @@||googleapis.com^
 @@||googleapis.l.google.com^
 @@||googlehosted.l.googleusercontent.com^
@@ -2553,7 +2535,6 @@
 @@||gp.se^
 @@||gph.easebar.com^
 @@||gql.reddit.com^
-@@||graph.facebook.com^
 @@||gravatar.com^
 @@||gravity.jup.io^
 @@||grecostrom.gr^
@@ -3934,7 +3915,6 @@
 @@||updates-http.cdn-apple.com^
 @@||updates.push.services.mozilla.com^
 @@||upgrade.scdn.com^
-@@||upload.facebook.com^
 @@||upload.pushbullet.com^
 @@||uploaded.net^
 @@||uploaded.to^
