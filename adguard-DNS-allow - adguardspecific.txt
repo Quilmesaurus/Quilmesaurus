@@ -2745,6 +2745,7 @@
 @@||push.apple.com^$important
 @@||push.chocolatey.org^$important
 @@||pushbullet.com^$important
+@@||pushbulletusercontent.com^$important
 @@||pv-cdn.net^$important
 @@||pvn.saturn.de^$important
 @@||px.spiceworks.com^$important
