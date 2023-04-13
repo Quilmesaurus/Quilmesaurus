@@ -2303,6 +2303,7 @@
 @@||mssdk-va.tiktok*.com^$important
 @@||mssl.fwmrm.net.edgesuite.net^$important
 @@||mssl.fwmrm.net^$important
+@@||mtalk.google.com^$important
 @@||mtool.app^$important
 @@||multiscreen.samsung.com^$important
 @@||multiup.org^$important
