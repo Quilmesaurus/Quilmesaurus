@@ -624,6 +624,7 @@
 @@||captive.roku.com^$important
 @@||car.saturn.de^$important
 @@||carbon-v2.ipsator.com^$important
+@@||cartodb-basemaps-b.global.ssl.fastly.net^$important
 @@||cashewmaniakpop.wordpress.com^$important
 @@||cbox.im^$important
 @@||cbox.ws^$important
