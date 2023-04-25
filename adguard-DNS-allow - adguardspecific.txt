@@ -3961,6 +3961,7 @@
 @@||www.gopjn.com^$important
 @@||www.gstatic.com^$important
 @@||www.happyelements.cn^$important
+@@||www.hardreset.info^$important
 @@||www.heliohost.org^$important
 @@||www.help.medium.com^$important
 @@||www.heroeswm.ru^$important
