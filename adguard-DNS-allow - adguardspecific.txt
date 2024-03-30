@@ -1662,6 +1662,7 @@
 @@||hidester.com^$important
 @@||history.com^$important
 @@||hitfile.net^$important
+@@||hitomi.la^$important
 @@||hits-secure.theguardian.com^$important
 @@||hls.ted.com^$important
 @@||hm.com^$important
@@ -2389,6 +2390,7 @@
 @@||nflximg.net^$important
 @@||nftstorage.link^$important
 @@||ngfts.lge.com^$important
+@@||nhentai.net^$important
 @@||nhl.com^$important
 @@||nickbsteves.wordpress.com^$important
 @@||nickles.de^$important
