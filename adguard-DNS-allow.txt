@@ -2034,7 +2034,6 @@
 @@||linksynergy.com^
 @@||linode.com^
 @@||litter.catbox.moe^
-@@||live.com^
 @@||live.github.com^
 @@||live.net^
 @@||livefilestore.com^
