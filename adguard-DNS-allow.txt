@@ -1,7 +1,7 @@
-! Title: my adguard DNS allow list^
+! Title: my adguard DNS allow list
 @@||*-boot.tiktok*.com^
 @@||*api.*.microsoft.com^
-@@||*events*.trafficmana@@||ger.net^
+@@||*events*.trafficmanager.net^
 @@||*graph-fallback.instagram.com^
 @@||*graph.fbpigeon.com^
 @@||*graph.instagram.com^
@@ -246,17 +246,6 @@
 @@||alternative-right.blogspot.gr^
 @@||alternativeto.net^
 @@||alvarotrigo.com^
-@@||amazon.at^
-@@||amazon.ca^
-@@||amazon.cn^
-@@||amazon.co.jp^
-@@||amazon.co.uk^
-@@||amazon.com^
-@@||amazon.de^
-@@||amazon.es^
-@@||amazon.fr^
-@@||amazon.in^
-@@||amazon.it^
 @@||amazonaws.com^
 @@||amazonforum.com^
 @@||amazonvideo.com^
@@ -514,23 +503,6 @@
 @@||billiger.de^
 @@||binarypiano.com^
 @@||binbox.io^
-@@||bing.at^
-@@||bing.ch^
-@@||bing.co.uk^
-@@||bing.com.br^
-@@||bing.com^
-@@||bing.cz^
-@@||bing.es^
-@@||bing.fi^
-@@||bing.fr^
-@@||bing.gr^
-@@||bing.hu^
-@@||bing.ie^
-@@||bing.it^
-@@||bing.no^
-@@||bing.pl^
-@@||bing.ru^
-@@||bing.se^
 @@||bit.ly^
 @@||bitbucket-marketing-cdn.atlassian.com^
 @@||bitbucket.org^
@@ -1178,11 +1150,6 @@
 @@||easylist.to^
 @@||eazy.de^
 @@||ebankingnew.eurobank.gr^
-@@||ebay.co.uk^
-@@||ebay.com^
-@@||ebay.fr^
-@@||ebay.it^
-@@||ebay.pl^
 @@||ebayimg.com^
 @@||ebayrtm.com^
 @@||ebaystatic.com^
@@ -1819,7 +1786,6 @@
 @@||ims.vodafone.com^
 @@||in-addr.arpa^
 @@||in.appcenter.ms^
-@@||in.linkedin.com^
 @@||in.yahoo.com^
 @@||inalan.gr^
 @@||inappcheck*.apple.com^
@@ -2063,7 +2029,6 @@
 @@||limtu.ifmo.ru^
 @@||link.dana.id^
 @@||link.theplatform.com^
-@@||linkedin.com^
 @@||linkhelp.clients.google.com^
 @@||links.getblueshift.com^
 @@||linksynergy.com^
@@ -2084,6 +2049,7 @@
 @@||local.adguard.org^
 @@||locale.roblox.com^
 @@||localfonts.eu^
+@@||localhost^
 @@||localiq.com^
 @@||local^
 @@||location-api.hdhomerun.com^
@@ -2354,7 +2320,6 @@
 @@||netcoresmartech.com^
 @@||netdirector.co.uk^
 @@||netdna.bootstrapcdn.com^
-@@||netflix.com^
 @@||netline.com^
 @@||netmon-control.dropbox.com^
 @@||netpnb.com^
@@ -4037,7 +4002,6 @@
 @@||www.licensedpackages.chocolatey.org^
 @@||www.lidl-hellas.gr^
 @@||www.lightinthebox.com^
-@@||www.linkedin.com^
 @@||www.linksynergy.com^
 @@||www.liveperson.com^
 @@||www.living-sun.com^
