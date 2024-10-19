@@ -1,5 +1,6 @@
 ! Title: my adguard DNS allow list
 @@||*-boot.tiktok*.com^
+@@||*.patagotitan.win^
 @@||*api.*.microsoft.com^
 @@||*events*.trafficmanager.net^
 @@||*graph-fallback.instagram.com^
@@ -72,6 +73,7 @@
 @@||8ch.net^
 @@||8pecxstudios.com^
 @@||9to5google.com^
+@@||BuzzMeIn.com^
 @@||a*.d*.akamai.net^
 @@||a-msedge.net^
 @@||a.4cdn.org^
@@ -117,8 +119,8 @@
 @@||abeagle-public.buzzfeed.com^
 @@||abebooks.com^
 @@||ablink.account.quizlet.com^
-@@||about.medium.com^
 @@||about.me^
+@@||about.medium.com^
 @@||above.com^
 @@||abp.oisd.nl^
 @@||abuelos.com^
@@ -564,7 +566,6 @@
 @@||buy.xmarks.com^
 @@||buymeacoffee.com^
 @@||buzzfeed.com^
-@@||BuzzMeIn.com^
 @@||bwp.techrepublic.com^
 @@||bydgoszcz.tvp.pl^
 @@||c-ctrip.com^
@@ -718,8 +719,8 @@
 @@||cdnbunny.org^
 @@||cdnhwc1.com^
 @@||cdninstagram.com^
-@@||cdnjs.cloudflare.com^
 @@||cdnjs.cloudflare.co^
+@@||cdnjs.cloudflare.com^
 @@||cdnjs.loli.net.cdn.cloudflare.net^
 @@||cdnjs.loli.net^
 @@||cdns-content.dzcdn.net^
@@ -895,8 +896,8 @@
 @@||content.time.com^
 @@||continuum.dds.microsoft.com^
 @@||contra-magazin.com^
-@@||contributions.guardianapis.comn^
 @@||contributions.guardianapis.com^
+@@||contributions.guardianapis.comn^
 @@||controld.com^
 @@||convertkit.com^
 @@||corp.kaltura.com^
@@ -1085,8 +1086,8 @@
 @@||docdro.id^
 @@||docs.datadoghq.com^
 @@||docs.docker.com^
-@@||docs.google.comn^
 @@||docs.google.com^
+@@||docs.google.comn^
 @@||docs.microsoft.com-c.edgekey.net^
 @@||docs.microsoft.com^
 @@||doctor.ndtv.com^
@@ -1117,8 +1118,8 @@
 @@||drift.com^
 @@||driftt.com^
 @@||drop.ndtv.com.edgekey.net^
-@@||dropbox.comdl.dropbox.com^
 @@||dropbox.com^
+@@||dropbox.comdl.dropbox.com^
 @@||dropboxapi.com^
 @@||dropboxwiki.com^
 @@||dropmail.me^
@@ -2046,11 +2047,11 @@
 @@||load.to^
 @@||loadbalancing.modaco.com^
 @@||local.adguard.org^
+@@||local^
 @@||locale.roblox.com^
 @@||localfonts.eu^
 @@||localhost^
 @@||localiq.com^
-@@||local^
 @@||location-api.hdhomerun.com^
 @@||location-inference-westus.cloudapp.net^
 @@||location.services.mozilla.com^
@@ -2416,8 +2417,8 @@
 @@||o2.sg0.plex.tv^
 @@||o9.de^
 @@||oaee.gr^
-@@||oauth.reddit.comm^
 @@||oauth.reddit.com^
+@@||oauth.reddit.comm^
 @@||objective-see.org^
 @@||oboom.com^
 @@||observer.com^
@@ -2554,6 +2555,7 @@
 @@||passport.yandex.ru^
 @@||pastebin.com^
 @@||pastie.org^
+@@||patagotitan.win^
 @@||pathe.emsecure.net^
 @@||patreon.com^
 @@||patreonusercontent.com^
@@ -2766,8 +2768,8 @@
 @@||redd.it^
 @@||reddestdream.github.io^
 @@||redditlist.com^
-@@||redditmedia.comm^
 @@||redditmedia.com^
+@@||redditmedia.comm^
 @@||redditstatic.com^
 @@||redfin.com^
 @@||redir.tradedoubler.com^
@@ -3109,8 +3111,8 @@
 @@||static-assets.highwebmedia.com^
 @@||static-forms.klaviyo.com^
 @@||static.127777.com^
-@@||static.adguard.comm^
 @@||static.adguard.com^
+@@||static.adguard.comm^
 @@||static.appsumo.com^
 @@||static.cdn.responsys.net^
 @@||static.cloud.coveo.com^
@@ -3850,8 +3852,8 @@
 @@||www.dortmundecho.org^
 @@||www.downloads.techrepublic.com^
 @@||www.dpbolvw.net^
-@@||www.dropbox.comn^
 @@||www.dropbox.com^
+@@||www.dropbox.comn^
 @@||www.dropmail.me^
 @@||www.dshield.org^
 @@||www.dw.techrepublic.com^
@@ -4138,8 +4140,8 @@
 @@||www.privacytools.io^
 @@||www.protagon.gr^
 @@||www.protothema.gr^
-@@||www.publishers.medium.com^
 @@||www.publishers.medium.co^
+@@||www.publishers.medium.com^
 @@||www.publitas.com^
 @@||www.push.chocolatey.org^
 @@||www.qksrv.net^

@@ -1,5 +1,6 @@
 ! Title: my adguard DNS allow list
 @@||*-boot.tiktok*.com^$important
+@@||*.patagotitan.win^$important
 @@||*api.*.microsoft.com^$important
 @@||*events*.trafficmanager.net^$important
 @@||*graph-fallback.instagram.com^$important
@@ -72,6 +73,7 @@
 @@||8ch.net^$important
 @@||8pecxstudios.com^$important
 @@||9to5google.com^$important
+@@||BuzzMeIn.com^$important
 @@||a*.d*.akamai.net^$important
 @@||a-msedge.net^$important
 @@||a.4cdn.org^$important
@@ -117,8 +119,8 @@
 @@||abeagle-public.buzzfeed.com^$important
 @@||abebooks.com^$important
 @@||ablink.account.quizlet.com^$important
-@@||about.medium.com^$important
 @@||about.me^$important
+@@||about.medium.com^$important
 @@||above.com^$important
 @@||abp.oisd.nl^$important
 @@||abuelos.com^$important
@@ -564,7 +566,6 @@
 @@||buy.xmarks.com^$important
 @@||buymeacoffee.com^$important
 @@||buzzfeed.com^$important
-@@||BuzzMeIn.com^$important
 @@||bwp.techrepublic.com^$important
 @@||bydgoszcz.tvp.pl^$important
 @@||c-ctrip.com^$important
@@ -718,8 +719,8 @@
 @@||cdnbunny.org^$important
 @@||cdnhwc1.com^$important
 @@||cdninstagram.com^$important
-@@||cdnjs.cloudflare.com^$important
 @@||cdnjs.cloudflare.co^$important
+@@||cdnjs.cloudflare.com^$important
 @@||cdnjs.loli.net.cdn.cloudflare.net^$important
 @@||cdnjs.loli.net^$important
 @@||cdns-content.dzcdn.net^$important
@@ -895,8 +896,8 @@
 @@||content.time.com^$important
 @@||continuum.dds.microsoft.com^$important
 @@||contra-magazin.com^$important
-@@||contributions.guardianapis.comn^$important
 @@||contributions.guardianapis.com^$important
+@@||contributions.guardianapis.comn^$important
 @@||controld.com^$important
 @@||convertkit.com^$important
 @@||corp.kaltura.com^$important
@@ -1085,8 +1086,8 @@
 @@||docdro.id^$important
 @@||docs.datadoghq.com^$important
 @@||docs.docker.com^$important
-@@||docs.google.comn^$important
 @@||docs.google.com^$important
+@@||docs.google.comn^$important
 @@||docs.microsoft.com-c.edgekey.net^$important
 @@||docs.microsoft.com^$important
 @@||doctor.ndtv.com^$important
@@ -1117,8 +1118,8 @@
 @@||drift.com^$important
 @@||driftt.com^$important
 @@||drop.ndtv.com.edgekey.net^$important
-@@||dropbox.comdl.dropbox.com^$important
 @@||dropbox.com^$important
+@@||dropbox.comdl.dropbox.com^$important
 @@||dropboxapi.com^$important
 @@||dropboxwiki.com^$important
 @@||dropmail.me^$important
@@ -2046,11 +2047,11 @@
 @@||load.to^$important
 @@||loadbalancing.modaco.com^$important
 @@||local.adguard.org^$important
+@@||local^$important
 @@||locale.roblox.com^$important
 @@||localfonts.eu^$important
 @@||localhost^$important
 @@||localiq.com^$important
-@@||local^$important
 @@||location-api.hdhomerun.com^$important
 @@||location-inference-westus.cloudapp.net^$important
 @@||location.services.mozilla.com^$important
@@ -2416,8 +2417,8 @@
 @@||o2.sg0.plex.tv^$important
 @@||o9.de^$important
 @@||oaee.gr^$important
-@@||oauth.reddit.comm^$important
 @@||oauth.reddit.com^$important
+@@||oauth.reddit.comm^$important
 @@||objective-see.org^$important
 @@||oboom.com^$important
 @@||observer.com^$important
@@ -2554,6 +2555,7 @@
 @@||passport.yandex.ru^$important
 @@||pastebin.com^$important
 @@||pastie.org^$important
+@@||patagotitan.win^$important
 @@||pathe.emsecure.net^$important
 @@||patreon.com^$important
 @@||patreonusercontent.com^$important
@@ -2766,8 +2768,8 @@
 @@||redd.it^$important
 @@||reddestdream.github.io^$important
 @@||redditlist.com^$important
-@@||redditmedia.comm^$important
 @@||redditmedia.com^$important
+@@||redditmedia.comm^$important
 @@||redditstatic.com^$important
 @@||redfin.com^$important
 @@||redir.tradedoubler.com^$important
@@ -3109,8 +3111,8 @@
 @@||static-assets.highwebmedia.com^$important
 @@||static-forms.klaviyo.com^$important
 @@||static.127777.com^$important
-@@||static.adguard.comm^$important
 @@||static.adguard.com^$important
+@@||static.adguard.comm^$important
 @@||static.appsumo.com^$important
 @@||static.cdn.responsys.net^$important
 @@||static.cloud.coveo.com^$important
@@ -3850,8 +3852,8 @@
 @@||www.dortmundecho.org^$important
 @@||www.downloads.techrepublic.com^$important
 @@||www.dpbolvw.net^$important
-@@||www.dropbox.comn^$important
 @@||www.dropbox.com^$important
+@@||www.dropbox.comn^$important
 @@||www.dropmail.me^$important
 @@||www.dshield.org^$important
 @@||www.dw.techrepublic.com^$important
@@ -4138,8 +4140,8 @@
 @@||www.privacytools.io^$important
 @@||www.protagon.gr^$important
 @@||www.protothema.gr^$important
-@@||www.publishers.medium.com^$important
 @@||www.publishers.medium.co^$important
+@@||www.publishers.medium.com^$important
 @@||www.publitas.com^$important
 @@||www.push.chocolatey.org^$important
 @@||www.qksrv.net^$important
