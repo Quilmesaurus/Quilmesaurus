@@ -71,6 +71,9 @@
 @@||6sense.com^$important
 @@||7eer.net^$important
 @@||8ch.net^$important
+@@||8chan.cc^$important
+@@||8chan.moe^$important
+@@||8chan.se^$important
 @@||8pecxstudios.com^$important
 @@||9to5google.com^$important
 @@||BuzzMeIn.com^$important
@@ -2683,6 +2686,7 @@
 @@||profit.ndtv.com^$important
 @@||projectgus.com^$important
 @@||projectwonderful.com^$important
+@@||prolikewoah.com^$important
 @@||promodj.com^$important
 @@||prospekt.aldi-sued.de^$important
 @@||prostovpn.org^$important
