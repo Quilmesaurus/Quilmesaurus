@@ -2111,6 +2111,7 @@
 @@||mackeeper.com^$important
 @@||macys.com^$important
 @@||madsack-prod-cdn.video-api.arcpublishing.com^$important
+@@||magiskroot.net^$important
 @@||mail-attachment.googleusercontent.com^$important
 @@||mail.office.hiworks.com^$important
 @@||mail.onedrive.com^$important
@@ -2549,6 +2550,7 @@
 @@||packages.linuxmint.com^$important
 @@||page.gitlab.com^$important
 @@||pagecdn.io^$important
+@@||pamestoixima.gr^$important
 @@||pando.com^$important
 @@||panopticlick.eff.org^$important
 @@||paper.li^$important
@@ -3393,6 +3395,7 @@
 @@||trust-provider.com^$important
 @@||truste.com^$important
 @@||truth24.net^$important
+@@||tsyndicate.com^$important
 @@||tth-ipfs.com^$important
 @@||tuba.fm^$important
 @@||tubemate.net^$important
@@ -4276,6 +4279,7 @@
 @@||www.trueactivist.com^$important
 @@||www.trust-provider.com^$important
 @@||www.truth24.net^$important
+@@||www.tsyndicate.com^$important
 @@||www.twibbonize.com^$important
 @@||www.twitchy.com^$important
 @@||www.tyk.io^$important
