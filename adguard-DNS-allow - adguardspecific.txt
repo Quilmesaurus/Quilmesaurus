@@ -1,15 +1,4 @@
 ! Title: my adguard DNS allow list
-@@||*-boot.tiktok*.com^$important
-@@||*.patagotitan.win^$important
-@@||*api.*.microsoft.com^$important
-@@||*events*.trafficmanager.net^$important
-@@||*graph-fallback.instagram.com^$important
-@@||*graph.fbpigeon.com^$important
-@@||*graph.instagram.com^$important
-@@||*ocsp.microsoft.com^$important
-@@||*paypal*.siteintercept.qualtrics.com^$important
-@@||*spotify-com.akamaized.net^$important
-@@||*telemetry.*oraclecloud.com^$important
 @@||0.client-channel.google.com^$important
 @@||0.us.pool.ntp.org^$important
 @@||1.bp.blogspot.com^$important
@@ -77,7 +66,6 @@
 @@||8pecxstudios.com^$important
 @@||9to5google.com^$important
 @@||BuzzMeIn.com^$important
-@@||a*.d*.akamai.net^$important
 @@||a-msedge.net^$important
 @@||a.4cdn.org^$important
 @@||a.adwolf.ru^$important
@@ -94,8 +82,6 @@
 @@||a790.w16.akamai.net^$important
 @@||aa.tweakers.net^$important
 @@||aa.tweakers.nl^$important
-@@||aax-*-retail-direct.amazon-adsystem.com^$important
-@@||aax-*-retail-direct.amazon.com^$important
 @@||aax-eu.amazon.ae^$important
 @@||aax-eu.amazon.co.uk^$important
 @@||aax-eu.amazon.com.tr^$important
@@ -143,7 +129,6 @@
 @@||acdn.adnxs.com^$important
 @@||acdsystems.com^$important
 @@||acehardware.com^$important
-@@||acr*.samsungcloudsolution.com^$important
 @@||acs-m.lazada.sg^$important
 @@||acsechocaptiveportal.com^$important
 @@||actionnetwork.org^$important
@@ -184,7 +169,6 @@
 @@||admin.dable.io^$important
 @@||adminlogin.liveperson.net^$important
 @@||adpanchok.co.kr^$important
-@@||ads-*-darwin.hulu.com^$important
 @@||ads-a-darwin.hulustream.com.akamaized.net^$important
 @@||ads-e-darwin.hulustream.com^$important
 @@||ads-fa-darwin.hulustream.com^$important
@@ -251,6 +235,17 @@
 @@||alternative-right.blogspot.gr^$important
 @@||alternativeto.net^$important
 @@||alvarotrigo.com^$important
+@@||amazon.at^$important
+@@||amazon.ca^$important
+@@||amazon.cn^$important
+@@||amazon.co.jp^$important
+@@||amazon.co.uk^$important
+@@||amazon.com^$important
+@@||amazon.de^$important
+@@||amazon.es^$important
+@@||amazon.fr^$important
+@@||amazon.in^$important
+@@||amazon.it^$important
 @@||amazonaws.com^$important
 @@||amazonforum.com^$important
 @@||amazonvideo.com^$important
@@ -260,8 +255,7 @@
 @@||ams.plex.services^$important
 @@||amzn.com^$important
 @@||amzn.to^$important
-@@||analysis*.chess.com.cdn.cloudflare.net^$important
-@@||analysis*.chess.com^$important
+@@||anatotitan.win^$important
 @@||android.clients.google.com^$important
 @@||androidfilehost.com^$important
 @@||androidforums.com^$important
@@ -284,11 +278,6 @@
 @@||aolcdn.com^$important
 @@||ap.spotify.com^$important
 @@||apex.techrepublic.com^$important
-@@||api*.amazonalexa.com^$important
-@@||api*.intercom.io^$important
-@@||api*.sony.tv^$important
-@@||api*.spot.im^$important
-@@||api-*.store.heytapmobi.com^$important
 @@||api-cf.affirm.com^$important
 @@||api-ep.worldweatheronline.com^$important
 @@||api-global.netflix.com^$important
@@ -333,6 +322,7 @@
 @@||api.revenuecat.com^$important
 @@||api.rlje.net^$important
 @@||api.sbs.com.au^$important
+@@||api.skroutz.gr^$important
 @@||api.snapkit.com^$important
 @@||api.speedspot.org^$important
 @@||api.st-av.net^$important
@@ -349,6 +339,7 @@
 @@||apmebf.com^$important
 @@||apollopushserver.xyz^$important
 @@||app-api.ted.com^$important
+@@||app-measurement.com^$client='192.168.100.7'
 @@||app.adaway.org^$important
 @@||app.adjust.com^$important
 @@||app.adjust.net.in^$important
@@ -395,7 +386,6 @@
 @@||archive.raspberrypi.org^$important
 @@||archive.wakarimasen.moe^$important
 @@||archived.moe^$important
-@@||arcus-*.amazon.com^$important
 @@||arqbackup.com^$important
 @@||arstechnica.com^$important
 @@||articles.latimes.com^$important
@@ -429,17 +419,14 @@
 @@||astyanax.io^$important
 @@||asynchronousmessaging.dashboard.co.uk^$important
 @@||at-config.sensic.net^$important
-@@||atm-settingsfe-prod-geo*.trafficmanager.net^$important
 @@||attestation.xboxlive.com^$important
 @@||attiki-odos.gr^$important
-@@||atv-ext*.amazon.com^$important
 @@||atv-ps.amazon.com^$important
 @@||au.download.windowsupdate.com.edgesuite.net^$important
 @@||au.download.windowsupdate.com^$important
 @@||audible.com^$important
 @@||audible.sc.omtrdc.net^$important
 @@||audid-api.taobao.com^$important
-@@||audio*.spotify.com^$important
 @@||audio-ake.spotify.com.edgesuite.net^$important
 @@||audiobookbay.fi^$important
 @@||audiobookbay.nl^$important
@@ -456,7 +443,6 @@
 @@||avantlink.com^$important
 @@||avis-verifies.com^$important
 @@||avpro.global.yamaha.com^$important
-@@||avs-alexa*.amazon.com^$important
 @@||avsforum.com^$important
 @@||awin1.com^$important
 @@||aws.amazon.com^$important
@@ -488,7 +474,6 @@
 @@||bc.marfeelcache.com^$important
 @@||bcee.lu^$important
 @@||bdc2020.o0bc.com^$important
-@@||beacon.*.c-msedge.net^$important
 @@||beaute-test.com^$important
 @@||bedbathandbeyond.com^$important
 @@||benefithub.com^$important
@@ -508,6 +493,23 @@
 @@||billiger.de^$important
 @@||binarypiano.com^$important
 @@||binbox.io^$important
+@@||bing.at^$important
+@@||bing.ch^$important
+@@||bing.co.uk^$important
+@@||bing.com.br^$important
+@@||bing.com^$important
+@@||bing.cz^$important
+@@||bing.es^$important
+@@||bing.fi^$important
+@@||bing.fr^$important
+@@||bing.gr^$important
+@@||bing.hu^$important
+@@||bing.ie^$important
+@@||bing.it^$important
+@@||bing.no^$important
+@@||bing.pl^$important
+@@||bing.ru^$important
+@@||bing.se^$important
 @@||bit.ly^$important
 @@||bitbucket-marketing-cdn.atlassian.com^$important
 @@||bitbucket.org^$important
@@ -977,10 +979,7 @@
 @@||dailycaller.com^$important
 @@||dailymotion.com^$important
 @@||dalrock.wordpress.com^$important
-@@||damoh.*.de^$important
 @@||dashboard.plex.tv^$important
-@@||data-*.aerzteblatt.de^$important
-@@||data-*.rtl.de^$important
 @@||data-scheme^$important
 @@||data.iana.org^$important
 @@||data.microsoft.com.akadns.net^$important
@@ -992,7 +991,6 @@
 @@||datev-community.de^$important
 @@||db.local.clamav.net^$important
 @@||dbs.com^$important
-@@||dcape-*.amazon.com^$important
 @@||dcf.espn.com^$important
 @@||dcfdata.espn.com^$important
 @@||dcs-edge-irl1-876252164.eu-west-1.elb.amazonaws.com^$important
@@ -1110,7 +1108,6 @@
 @@||download.windowsupdate.com^$important
 @@||downloadani.me^$important
 @@||downloads.techrepublic.com^$important
-@@||dp-gw-*.amazon.com^$important
 @@||dp.dc1.philips.com^$important
 @@||dp.msnmessenger.akadns.com^$important
 @@||dpbolvw.net^$important
@@ -1154,6 +1151,11 @@
 @@||easylist.to^$important
 @@||eazy.de^$important
 @@||ebankingnew.eurobank.gr^$important
+@@||ebay.co.uk^$important
+@@||ebay.com^$important
+@@||ebay.fr^$important
+@@||ebay.it^$important
+@@||ebay.pl^$important
 @@||ebayimg.com^$important
 @@||ebayrtm.com^$important
 @@||ebaystatic.com^$important
@@ -1182,7 +1184,6 @@
 @@||eleftherostypos.gr^$important
 @@||elephantjournal.com^$important
 @@||ellation.map.fastly.net^$important
-@@||email*.office.com^$important
 @@||email-clk.adguard.com^$important
 @@||email-link.adtidy.org^$important
 @@||email.appsumo.com^$important
@@ -1208,7 +1209,6 @@
 @@||emvolio.gov.gr^$important
 @@||en.bab.la^$important
 @@||en.w3schools.com^$important
-@@||encrypted*.gstatic.com^$important
 @@||encrypted-tbn0.gstatic.com^$important
 @@||enews.techrepublic.com^$important
 @@||engadget.com^$important
@@ -1234,11 +1234,8 @@
 @@||etrality.com^$important
 @@||eu-swarm-newm.betcoswarm.com^$important
 @@||eu.ixquick-proxy.com^$important
-@@||eulatracking-public-service-*.ol.epicgames.com^$important
-@@||eulatracking-svc-*-pub-*.elb.amazonaws.com^$important
 @@||event.mi.com^$important
 @@||eventbus.intuit.com^$important
-@@||events*.data.microsoft.com^$important
 @@||events.gfe.nvidia.com^$important
 @@||everydayhealth.com^$important
 @@||evoke-windowsservices-tas.msedge.net^$important
@@ -1247,7 +1244,6 @@
 @@||ew.com^$important
 @@||exacttarget.com.edgekey.net^$important
 @@||example.org^$important
-@@||execute-api.*.amazonaws.com^$important
 @@||exey.io^$important
 @@||exhentai.org^$important
 @@||export.yandex.ru^$important
@@ -1264,8 +1260,6 @@
 @@||external-lhr7-1.xx.fbcdn.net^$important
 @@||external-lhr8-1.xx.fbcdn.net^$important
 @@||external-lhr9-1.xx.fbcdn.net^$important
-@@||f*.market.mi-img.com^$important
-@@||f*.market.xiaomi.com^$important
 @@||f-droid.i2p.io^$important
 @@||f-droid.org^$important
 @@||f.kinja-static.com^$important
@@ -1315,7 +1309,6 @@
 @@||fg.download.windowsupdate.com.c.footprint.net^$important
 @@||fiddle.jshell.net^$important
 @@||fieldguide.gizmodo.com^$important
-@@||file*.gofile.io^$important
 @@||file-scheme^$important
 @@||file2fxm.azureedge.net^$important
 @@||filedropper.com^$important
@@ -1338,7 +1331,6 @@
 @@||financialexpress.com^$important
 @@||finanzguru.userecho.com^$important
 @@||firebase.googleapis.com^$important
-@@||firebasedynamiclinks-*.googleapis.com^$important
 @@||firebasedynamiclinks.googleapis.com^$important
 @@||firebaseinappmessaging.googleapis.com^$important
 @@||firebaseinstallations.googleapis.com^$important
@@ -1613,7 +1605,6 @@
 @@||hbbtv.zdf.de^$important
 @@||hbogo.com^$important
 @@||hbogo.pl^$important
-@@||heads*.spotify.com^$important
 @@||heartiste.wordpress.com^$important
 @@||heavy.com^$important
 @@||heise.de^$important
@@ -1707,7 +1698,6 @@
 @@||i3.ytimg.com^$important
 @@||i4.ytimg.com^$important
 @@||icanhazip.com^$important
-@@||ichnaea*.netflix.com^$important
 @@||ichnaea.netflix.com^$important
 @@||icloud.cdn-apple.com^$important
 @@||icloud.com^$important
@@ -1761,7 +1751,6 @@
 @@||imap.gmail.com^$important
 @@||imasdk.googleapis.com^$important
 @@||imdb.com^$important
-@@||img*.target.com^$important
 @@||img-prod-cms-rt-microsoft-com.akamaized.net^$important
 @@||img-s-msn-com.akamaized.net^$important
 @@||img.brightcove.com^$important
@@ -1790,9 +1779,9 @@
 @@||ims.vodafone.com^$important
 @@||in-addr.arpa^$important
 @@||in.appcenter.ms^$important
+@@||in.linkedin.com^$important
 @@||in.yahoo.com^$important
 @@||inalan.gr^$important
-@@||inappcheck*.apple.com^$important
 @@||inc.com^$important
 @@||includes.ccdc02.com^$important
 @@||indeed.com^$important
@@ -1957,7 +1946,6 @@
 @@||kickstarter.com^$important
 @@||kidsfootlocker.com^$important
 @@||killtoparty.com^$important
-@@||kinesis.*.amazonaws.com^$important
 @@||kingroot.net^$important
 @@||kinja-debug.firebaseio.com^$important
 @@||kinja.com^$important
@@ -1997,7 +1985,6 @@
 @@||launchpad.net^$important
 @@||lb.sae.sina.com.cn^$important
 @@||lbnew.consentmanager.net^$important
-@@||lcprd*.samsungcloudsolution.net^$important
 @@||lcstg1.samsungcloudsolution.net^$important
 @@||lcstg2.samsungcloudsolution.net^$important
 @@||leakix.net^$important
@@ -2033,11 +2020,13 @@
 @@||limtu.ifmo.ru^$important
 @@||link.dana.id^$important
 @@||link.theplatform.com^$important
+@@||linkedin.com^$important
 @@||linkhelp.clients.google.com^$important
 @@||links.getblueshift.com^$important
 @@||linksynergy.com^$important
 @@||linode.com^$important
 @@||litter.catbox.moe^$important
+@@||live.com^$important
 @@||live.github.com^$important
 @@||live.net^$important
 @@||livefilestore.com^$important
@@ -2111,6 +2100,8 @@
 @@||mackeeper.com^$important
 @@||macys.com^$important
 @@||madsack-prod-cdn.video-api.arcpublishing.com^$important
+@@||magisk.info^$important
+@@||magisk.me^$important
 @@||magiskroot.net^$important
 @@||mail-attachment.googleusercontent.com^$important
 @@||mail.office.hiworks.com^$important
@@ -2147,7 +2138,6 @@
 @@||marketplace.visualstudio.com^$important
 @@||marketwatch.com^$important
 @@||marvel-b1-cdn.bc0a.com^$important
-@@||mas-*.amazon.com^$important
 @@||mashable.com^$important
 @@||mat1.gtimg.com.tegsea.tc.qq.com^$important
 @@||mat1.gtimg.com^$important
@@ -2162,7 +2152,6 @@
 @@||mc.cubecdn.net^$important
 @@||mclients.googleapis.com^$important
 @@||mcpwgrxj4n94hv1pvdyqw0zwdxyq.device.marketingcloudapis.com^$important
-@@||mcs-va.tiktok*.com^$important
 @@||mcsvc.samsung.com^$important
 @@||mdhcdn.com^$important
 @@||measurement-lab.org^$important
@@ -2210,7 +2199,6 @@
 @@||metrics.lidl.com^$important
 @@||metrics.plex.tv^$important
 @@||mexa.sh^$important
-@@||mhc-*.myhomescreen.tv^$important
 @@||mi.com^$important
 @@||miami.cbslocal.com^$important
 @@||micardapi.micloud.xiaomi.net^$important
@@ -2246,7 +2234,6 @@
 @@||mobile.in.gr^$important
 @@||mobilecrashreporting.googleapis.com^$important
 @@||mobilenetworkscoring-pa.googleapis.com^$important
-@@||mobilesdk-*.kampyle.com^$important
 @@||monitor.ppcprotect.com^$important
 @@||monova.unblocked.sh^$important
 @@||movies.ndtv.com^$important
@@ -2272,7 +2259,6 @@
 @@||msh.amazon.co.uk^$important
 @@||msh.amazon.com^$important
 @@||msn.com^$important
-@@||mssdk-va.tiktok*.com^$important
 @@||mssl.fwmrm.net.edgesuite.net^$important
 @@||mssl.fwmrm.net^$important
 @@||mtalk.google.com^$important
@@ -2324,6 +2310,7 @@
 @@||netcoresmartech.com^$important
 @@||netdirector.co.uk^$important
 @@||netdna.bootstrapcdn.com^$important
+@@||netflix.com^$important
 @@||netline.com^$important
 @@||netmon-control.dropbox.com^$important
 @@||netpnb.com^$important
@@ -2427,7 +2414,6 @@
 @@||oboom.com^$important
 @@||observer.com^$important
 @@||ocs-dl.fra1.cdn.digitaloceanspaces.com^$important
-@@||ocsp*.apple.com^$important
 @@||ocsp.apple.com^$important
 @@||ocsp.int-x3.letsencrypt.org.edgesuite.net^$important
 @@||ocsp.rootg2.amazontrust.com^$important
@@ -2481,7 +2467,6 @@
 @@||oneclient.sfx.ms^$important
 @@||onecollector.cloudapp.aria.akadns.net^$important
 @@||onedrive.live.com^$important
-@@||onedscolprd*.cloudapp.azure.com^$important
 @@||onelogin.com^$important
 @@||onenetworkdirect.net^$important
 @@||onesignal.com^$important
@@ -2529,7 +2514,6 @@
 @@||ota-downloads.nvidia.com^$important
 @@||ota-recruit-sg.allawnos.com^$important
 @@||otn.samsungcloudcdn.com^$important
-@@||otnprd*.samsungcloudsolution.net^$important
 @@||ouo.io^$important
 @@||ouo.press^$important
 @@||oup.silverchair-cdn.com^$important
@@ -2564,7 +2548,6 @@
 @@||pathe.emsecure.net^$important
 @@||patreon.com^$important
 @@||patreonusercontent.com^$important
-@@||payments*.netdirector.co.uk^$important
 @@||paypal-dynamic.map.fastly.net^$important
 @@||paypal.com^$important
 @@||paypal.de^$important
@@ -2577,7 +2560,6 @@
 @@||pentapostagma.disqus.com^$important
 @@||people-pa.googleapis.com^$important
 @@||people.com^$important
-@@||per*.segmentify.com^$important
 @@||performfeeds.com^$important
 @@||permaweb.eu.org^$important
 @@||permaweb.io^$important
@@ -2770,7 +2752,6 @@
 @@||real-debrid.com^$important
 @@||realestate.nj.com^$important
 @@||recaptcha.net^$important
-@@||recommender*.scarabresearch.com^$important
 @@||redd.it^$important
 @@||reddestdream.github.io^$important
 @@||redditlist.com^$important
@@ -2793,6 +2774,7 @@
 @@||reg2.bluemailapp.com^$important
 @@||regex.info^$important
 @@||region1.app-measurement.com^$important
+@@||region1.google-analytics.com^$client='192.168.100.7'
 @@||registerdisney.go.com^$important
 @@||relay-client-c03.iocnt.net^$important
 @@||relay-client-c05.iocnt.net^$important
@@ -2818,7 +2800,6 @@
 @@||rtl-relay.iocnt.net^$important
 @@||rtw.uol.com^$important
 @@||rukminim1.flixcart.com^$important
-@@||rules*.clearurls.xyz^$important
 @@||rutube.ru^$important
 @@||rv.treehousei.com^$important
 @@||rxferret.wordpress.com^$important
@@ -2855,7 +2836,6 @@
 @@||s3-ap-southeast-1.amazonaws.com^$important
 @@||s3-eu-west-1.amazonaws.com^$important
 @@||s3-us-west-2.amazonaws.com^$important
-@@||s3.*.scw.cloud^$important
 @@||s3.amazonaws.com^$important
 @@||s3.ap-northeast-2.amazonaws.com^$important
 @@||s3.ap-south-1.amazonaws.com^$important
@@ -2971,12 +2951,10 @@
 @@||services.sonarr.tv^$important
 @@||serviceschipotlecom.trafficmanager.net^$important
 @@||servix.idnes.cz^$important
-@@||settings-prod-*.cloudapp.azure.com^$important
 @@||settings-win.data.microsoft.com^$important
 @@||settings.crisp.chat^$important
 @@||settings.data.microsoft.com^$important
 @@||setup.airtelbroadband.in^$important
-@@||seu*.cleverreach.com^$important
 @@||shalltry.com^$important
 @@||shalom.it^$important
 @@||share-films.net^$important
@@ -3094,7 +3072,6 @@
 @@||ssl.reddit.com^$important
 @@||sslbl.abuse.ch^$important
 @@||sslgen-tidal.datadome.co^$important
-@@||ssm*.internet.sony.tv^$important
 @@||st.mycdn.me^$important
 @@||stackexchange.com^$important
 @@||stackoverflow.com^$important
@@ -3143,7 +3120,6 @@
 @@||static.xx.fbcdn.net^$important
 @@||static1.squarespace.com^$important
 @@||static2cdn.hubspot.com^$important
-@@||statics-marketingsites-*-ms-com.akamaized.net^$important
 @@||staticweb.bankofamerica.com^$important
 @@||staticweb.ecglb.bac.com^$important
 @@||statistics.bcapps.org^$important
@@ -3162,7 +3138,6 @@
 @@||storage.googleapis.com^$important
 @@||storage.live.com^$important
 @@||storage.msn.com^$important
-@@||store*.gofile.io^$important
 @@||store-images.microsoft.com^$important
 @@||store-images.s-microsoft.com^$important
 @@||store.minisforum.de^$important
@@ -3190,7 +3165,6 @@
 @@||support.dnsimple.com^$important
 @@||support.microsoft.com^$important
 @@||support.theguardian.com^$important
-@@||survey*.medallia.eu^$important
 @@||surveymonkey.com^$important
 @@||surveymyopinion.researchnow.com^$important
 @@||swankyrule.zomap.de^$important
@@ -3299,7 +3273,6 @@
 @@||theverge.com^$important
 @@||thewindowsclub.com^$important
 @@||thumb.highdeliveryscdn.com^$important
-@@||thumbs*.externulls.com^$important
 @@||thumbs.videopress.com^$important
 @@||thumbs2.imgbox.com^$important
 @@||tii.ai^$important
@@ -3371,8 +3344,6 @@
 @@||track.webgains.com^$important
 @@||track.yw56.com.cn^$important
 @@||track24.ru^$important
-@@||tracker*.namitiyu.com^$important
-@@||tracker*.scoober.com^$important
 @@||tracker-g.aiscore.com^$important
 @@||tracker.dominos.com^$important
 @@||tracking-protection.cdn.mozilla.net^$important
@@ -3522,7 +3493,6 @@
 @@||viagogo.de^$important
 @@||viber.com^$important
 @@||vice.com^$important
-@@||vid-cdn*.stroeermb.de^$important
 @@||vid.connatix.com^$important
 @@||vid.me^$important
 @@||video-api-cdn.bostonglobe.arcpublishing.com^$important
@@ -3572,7 +3542,6 @@
 @@||voe.sx^$important
 @@||void.gr^$important
 @@||volksstimme.de^$important
-@@||vortex*.data.microsoft.com^$important
 @@||vortex.accuweather.com^$important
 @@||vortex.data.trafficmanager.net^$important
 @@||vox.com^$important
@@ -4010,6 +3979,7 @@
 @@||www.licensedpackages.chocolatey.org^$important
 @@||www.lidl-hellas.gr^$important
 @@||www.lightinthebox.com^$important
+@@||www.linkedin.com^$important
 @@||www.linksynergy.com^$important
 @@||www.liveperson.com^$important
 @@||www.living-sun.com^$important
@@ -4360,7 +4330,6 @@
 @@||xoom.com^$important
 @@||xp.apple.com^$important
 @@||xsts.auth.xboxlive.com^$important
-@@||xtrapath*.izatcloud.net^$important
 @@||yacy.net^$important
 @@||yadi.sk^$important
 @@||yagiay.com^$important

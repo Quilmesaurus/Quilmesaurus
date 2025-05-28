@@ -1,15 +1,4 @@
 ! Title: my adguard DNS allow list
-@@||*-boot.tiktok*.com^
-@@||*.patagotitan.win^
-@@||*api.*.microsoft.com^
-@@||*events*.trafficmanager.net^
-@@||*graph-fallback.instagram.com^
-@@||*graph.fbpigeon.com^
-@@||*graph.instagram.com^
-@@||*ocsp.microsoft.com^
-@@||*paypal*.siteintercept.qualtrics.com^
-@@||*spotify-com.akamaized.net^
-@@||*telemetry.*oraclecloud.com^
 @@||0.client-channel.google.com^
 @@||0.us.pool.ntp.org^
 @@||1.bp.blogspot.com^
@@ -77,7 +66,6 @@
 @@||8pecxstudios.com^
 @@||9to5google.com^
 @@||BuzzMeIn.com^
-@@||a*.d*.akamai.net^
 @@||a-msedge.net^
 @@||a.4cdn.org^
 @@||a.adwolf.ru^
@@ -94,8 +82,6 @@
 @@||a790.w16.akamai.net^
 @@||aa.tweakers.net^
 @@||aa.tweakers.nl^
-@@||aax-*-retail-direct.amazon-adsystem.com^
-@@||aax-*-retail-direct.amazon.com^
 @@||aax-eu.amazon.ae^
 @@||aax-eu.amazon.co.uk^
 @@||aax-eu.amazon.com.tr^
@@ -143,7 +129,6 @@
 @@||acdn.adnxs.com^
 @@||acdsystems.com^
 @@||acehardware.com^
-@@||acr*.samsungcloudsolution.com^
 @@||acs-m.lazada.sg^
 @@||acsechocaptiveportal.com^
 @@||actionnetwork.org^
@@ -184,7 +169,6 @@
 @@||admin.dable.io^
 @@||adminlogin.liveperson.net^
 @@||adpanchok.co.kr^
-@@||ads-*-darwin.hulu.com^
 @@||ads-a-darwin.hulustream.com.akamaized.net^
 @@||ads-e-darwin.hulustream.com^
 @@||ads-fa-darwin.hulustream.com^
@@ -251,6 +235,17 @@
 @@||alternative-right.blogspot.gr^
 @@||alternativeto.net^
 @@||alvarotrigo.com^
+@@||amazon.at^
+@@||amazon.ca^
+@@||amazon.cn^
+@@||amazon.co.jp^
+@@||amazon.co.uk^
+@@||amazon.com^
+@@||amazon.de^
+@@||amazon.es^
+@@||amazon.fr^
+@@||amazon.in^
+@@||amazon.it^
 @@||amazonaws.com^
 @@||amazonforum.com^
 @@||amazonvideo.com^
@@ -260,8 +255,7 @@
 @@||ams.plex.services^
 @@||amzn.com^
 @@||amzn.to^
-@@||analysis*.chess.com.cdn.cloudflare.net^
-@@||analysis*.chess.com^
+@@||anatotitan.win^
 @@||android.clients.google.com^
 @@||androidfilehost.com^
 @@||androidforums.com^
@@ -284,11 +278,6 @@
 @@||aolcdn.com^
 @@||ap.spotify.com^
 @@||apex.techrepublic.com^
-@@||api*.amazonalexa.com^
-@@||api*.intercom.io^
-@@||api*.sony.tv^
-@@||api*.spot.im^
-@@||api-*.store.heytapmobi.com^
 @@||api-cf.affirm.com^
 @@||api-ep.worldweatheronline.com^
 @@||api-global.netflix.com^
@@ -333,6 +322,7 @@
 @@||api.revenuecat.com^
 @@||api.rlje.net^
 @@||api.sbs.com.au^
+@@||api.skroutz.gr^
 @@||api.snapkit.com^
 @@||api.speedspot.org^
 @@||api.st-av.net^
@@ -349,6 +339,7 @@
 @@||apmebf.com^
 @@||apollopushserver.xyz^
 @@||app-api.ted.com^
+@@||app-measurement.com^$client='192.168.100.7'
 @@||app.adaway.org^
 @@||app.adjust.com^
 @@||app.adjust.net.in^
@@ -395,7 +386,6 @@
 @@||archive.raspberrypi.org^
 @@||archive.wakarimasen.moe^
 @@||archived.moe^
-@@||arcus-*.amazon.com^
 @@||arqbackup.com^
 @@||arstechnica.com^
 @@||articles.latimes.com^
@@ -429,17 +419,14 @@
 @@||astyanax.io^
 @@||asynchronousmessaging.dashboard.co.uk^
 @@||at-config.sensic.net^
-@@||atm-settingsfe-prod-geo*.trafficmanager.net^
 @@||attestation.xboxlive.com^
 @@||attiki-odos.gr^
-@@||atv-ext*.amazon.com^
 @@||atv-ps.amazon.com^
 @@||au.download.windowsupdate.com.edgesuite.net^
 @@||au.download.windowsupdate.com^
 @@||audible.com^
 @@||audible.sc.omtrdc.net^
 @@||audid-api.taobao.com^
-@@||audio*.spotify.com^
 @@||audio-ake.spotify.com.edgesuite.net^
 @@||audiobookbay.fi^
 @@||audiobookbay.nl^
@@ -456,7 +443,6 @@
 @@||avantlink.com^
 @@||avis-verifies.com^
 @@||avpro.global.yamaha.com^
-@@||avs-alexa*.amazon.com^
 @@||avsforum.com^
 @@||awin1.com^
 @@||aws.amazon.com^
@@ -488,7 +474,6 @@
 @@||bc.marfeelcache.com^
 @@||bcee.lu^
 @@||bdc2020.o0bc.com^
-@@||beacon.*.c-msedge.net^
 @@||beaute-test.com^
 @@||bedbathandbeyond.com^
 @@||benefithub.com^
@@ -508,6 +493,23 @@
 @@||billiger.de^
 @@||binarypiano.com^
 @@||binbox.io^
+@@||bing.at^
+@@||bing.ch^
+@@||bing.co.uk^
+@@||bing.com.br^
+@@||bing.com^
+@@||bing.cz^
+@@||bing.es^
+@@||bing.fi^
+@@||bing.fr^
+@@||bing.gr^
+@@||bing.hu^
+@@||bing.ie^
+@@||bing.it^
+@@||bing.no^
+@@||bing.pl^
+@@||bing.ru^
+@@||bing.se^
 @@||bit.ly^
 @@||bitbucket-marketing-cdn.atlassian.com^
 @@||bitbucket.org^
@@ -977,10 +979,7 @@
 @@||dailycaller.com^
 @@||dailymotion.com^
 @@||dalrock.wordpress.com^
-@@||damoh.*.de^
 @@||dashboard.plex.tv^
-@@||data-*.aerzteblatt.de^
-@@||data-*.rtl.de^
 @@||data-scheme^
 @@||data.iana.org^
 @@||data.microsoft.com.akadns.net^
@@ -992,7 +991,6 @@
 @@||datev-community.de^
 @@||db.local.clamav.net^
 @@||dbs.com^
-@@||dcape-*.amazon.com^
 @@||dcf.espn.com^
 @@||dcfdata.espn.com^
 @@||dcs-edge-irl1-876252164.eu-west-1.elb.amazonaws.com^
@@ -1110,7 +1108,6 @@
 @@||download.windowsupdate.com^
 @@||downloadani.me^
 @@||downloads.techrepublic.com^
-@@||dp-gw-*.amazon.com^
 @@||dp.dc1.philips.com^
 @@||dp.msnmessenger.akadns.com^
 @@||dpbolvw.net^
@@ -1154,6 +1151,11 @@
 @@||easylist.to^
 @@||eazy.de^
 @@||ebankingnew.eurobank.gr^
+@@||ebay.co.uk^
+@@||ebay.com^
+@@||ebay.fr^
+@@||ebay.it^
+@@||ebay.pl^
 @@||ebayimg.com^
 @@||ebayrtm.com^
 @@||ebaystatic.com^
@@ -1182,7 +1184,6 @@
 @@||eleftherostypos.gr^
 @@||elephantjournal.com^
 @@||ellation.map.fastly.net^
-@@||email*.office.com^
 @@||email-clk.adguard.com^
 @@||email-link.adtidy.org^
 @@||email.appsumo.com^
@@ -1208,7 +1209,6 @@
 @@||emvolio.gov.gr^
 @@||en.bab.la^
 @@||en.w3schools.com^
-@@||encrypted*.gstatic.com^
 @@||encrypted-tbn0.gstatic.com^
 @@||enews.techrepublic.com^
 @@||engadget.com^
@@ -1234,11 +1234,8 @@
 @@||etrality.com^
 @@||eu-swarm-newm.betcoswarm.com^
 @@||eu.ixquick-proxy.com^
-@@||eulatracking-public-service-*.ol.epicgames.com^
-@@||eulatracking-svc-*-pub-*.elb.amazonaws.com^
 @@||event.mi.com^
 @@||eventbus.intuit.com^
-@@||events*.data.microsoft.com^
 @@||events.gfe.nvidia.com^
 @@||everydayhealth.com^
 @@||evoke-windowsservices-tas.msedge.net^
@@ -1247,7 +1244,6 @@
 @@||ew.com^
 @@||exacttarget.com.edgekey.net^
 @@||example.org^
-@@||execute-api.*.amazonaws.com^
 @@||exey.io^
 @@||exhentai.org^
 @@||export.yandex.ru^
@@ -1264,8 +1260,6 @@
 @@||external-lhr7-1.xx.fbcdn.net^
 @@||external-lhr8-1.xx.fbcdn.net^
 @@||external-lhr9-1.xx.fbcdn.net^
-@@||f*.market.mi-img.com^
-@@||f*.market.xiaomi.com^
 @@||f-droid.i2p.io^
 @@||f-droid.org^
 @@||f.kinja-static.com^
@@ -1315,7 +1309,6 @@
 @@||fg.download.windowsupdate.com.c.footprint.net^
 @@||fiddle.jshell.net^
 @@||fieldguide.gizmodo.com^
-@@||file*.gofile.io^
 @@||file-scheme^
 @@||file2fxm.azureedge.net^
 @@||filedropper.com^
@@ -1338,7 +1331,6 @@
 @@||financialexpress.com^
 @@||finanzguru.userecho.com^
 @@||firebase.googleapis.com^
-@@||firebasedynamiclinks-*.googleapis.com^
 @@||firebasedynamiclinks.googleapis.com^
 @@||firebaseinappmessaging.googleapis.com^
 @@||firebaseinstallations.googleapis.com^
@@ -1613,7 +1605,6 @@
 @@||hbbtv.zdf.de^
 @@||hbogo.com^
 @@||hbogo.pl^
-@@||heads*.spotify.com^
 @@||heartiste.wordpress.com^
 @@||heavy.com^
 @@||heise.de^
@@ -1707,7 +1698,6 @@
 @@||i3.ytimg.com^
 @@||i4.ytimg.com^
 @@||icanhazip.com^
-@@||ichnaea*.netflix.com^
 @@||ichnaea.netflix.com^
 @@||icloud.cdn-apple.com^
 @@||icloud.com^
@@ -1761,7 +1751,6 @@
 @@||imap.gmail.com^
 @@||imasdk.googleapis.com^
 @@||imdb.com^
-@@||img*.target.com^
 @@||img-prod-cms-rt-microsoft-com.akamaized.net^
 @@||img-s-msn-com.akamaized.net^
 @@||img.brightcove.com^
@@ -1790,9 +1779,9 @@
 @@||ims.vodafone.com^
 @@||in-addr.arpa^
 @@||in.appcenter.ms^
+@@||in.linkedin.com^
 @@||in.yahoo.com^
 @@||inalan.gr^
-@@||inappcheck*.apple.com^
 @@||inc.com^
 @@||includes.ccdc02.com^
 @@||indeed.com^
@@ -1957,7 +1946,6 @@
 @@||kickstarter.com^
 @@||kidsfootlocker.com^
 @@||killtoparty.com^
-@@||kinesis.*.amazonaws.com^
 @@||kingroot.net^
 @@||kinja-debug.firebaseio.com^
 @@||kinja.com^
@@ -1997,7 +1985,6 @@
 @@||launchpad.net^
 @@||lb.sae.sina.com.cn^
 @@||lbnew.consentmanager.net^
-@@||lcprd*.samsungcloudsolution.net^
 @@||lcstg1.samsungcloudsolution.net^
 @@||lcstg2.samsungcloudsolution.net^
 @@||leakix.net^
@@ -2033,11 +2020,13 @@
 @@||limtu.ifmo.ru^
 @@||link.dana.id^
 @@||link.theplatform.com^
+@@||linkedin.com^
 @@||linkhelp.clients.google.com^
 @@||links.getblueshift.com^
 @@||linksynergy.com^
 @@||linode.com^
 @@||litter.catbox.moe^
+@@||live.com^
 @@||live.github.com^
 @@||live.net^
 @@||livefilestore.com^
@@ -2111,6 +2100,8 @@
 @@||mackeeper.com^
 @@||macys.com^
 @@||madsack-prod-cdn.video-api.arcpublishing.com^
+@@||magisk.info^
+@@||magisk.me^
 @@||magiskroot.net^
 @@||mail-attachment.googleusercontent.com^
 @@||mail.office.hiworks.com^
@@ -2147,7 +2138,6 @@
 @@||marketplace.visualstudio.com^
 @@||marketwatch.com^
 @@||marvel-b1-cdn.bc0a.com^
-@@||mas-*.amazon.com^
 @@||mashable.com^
 @@||mat1.gtimg.com.tegsea.tc.qq.com^
 @@||mat1.gtimg.com^
@@ -2162,7 +2152,6 @@
 @@||mc.cubecdn.net^
 @@||mclients.googleapis.com^
 @@||mcpwgrxj4n94hv1pvdyqw0zwdxyq.device.marketingcloudapis.com^
-@@||mcs-va.tiktok*.com^
 @@||mcsvc.samsung.com^
 @@||mdhcdn.com^
 @@||measurement-lab.org^
@@ -2210,7 +2199,6 @@
 @@||metrics.lidl.com^
 @@||metrics.plex.tv^
 @@||mexa.sh^
-@@||mhc-*.myhomescreen.tv^
 @@||mi.com^
 @@||miami.cbslocal.com^
 @@||micardapi.micloud.xiaomi.net^
@@ -2246,7 +2234,6 @@
 @@||mobile.in.gr^
 @@||mobilecrashreporting.googleapis.com^
 @@||mobilenetworkscoring-pa.googleapis.com^
-@@||mobilesdk-*.kampyle.com^
 @@||monitor.ppcprotect.com^
 @@||monova.unblocked.sh^
 @@||movies.ndtv.com^
@@ -2272,7 +2259,6 @@
 @@||msh.amazon.co.uk^
 @@||msh.amazon.com^
 @@||msn.com^
-@@||mssdk-va.tiktok*.com^
 @@||mssl.fwmrm.net.edgesuite.net^
 @@||mssl.fwmrm.net^
 @@||mtalk.google.com^
@@ -2324,6 +2310,7 @@
 @@||netcoresmartech.com^
 @@||netdirector.co.uk^
 @@||netdna.bootstrapcdn.com^
+@@||netflix.com^
 @@||netline.com^
 @@||netmon-control.dropbox.com^
 @@||netpnb.com^
@@ -2427,7 +2414,6 @@
 @@||oboom.com^
 @@||observer.com^
 @@||ocs-dl.fra1.cdn.digitaloceanspaces.com^
-@@||ocsp*.apple.com^
 @@||ocsp.apple.com^
 @@||ocsp.int-x3.letsencrypt.org.edgesuite.net^
 @@||ocsp.rootg2.amazontrust.com^
@@ -2481,7 +2467,6 @@
 @@||oneclient.sfx.ms^
 @@||onecollector.cloudapp.aria.akadns.net^
 @@||onedrive.live.com^
-@@||onedscolprd*.cloudapp.azure.com^
 @@||onelogin.com^
 @@||onenetworkdirect.net^
 @@||onesignal.com^
@@ -2529,7 +2514,6 @@
 @@||ota-downloads.nvidia.com^
 @@||ota-recruit-sg.allawnos.com^
 @@||otn.samsungcloudcdn.com^
-@@||otnprd*.samsungcloudsolution.net^
 @@||ouo.io^
 @@||ouo.press^
 @@||oup.silverchair-cdn.com^
@@ -2564,7 +2548,6 @@
 @@||pathe.emsecure.net^
 @@||patreon.com^
 @@||patreonusercontent.com^
-@@||payments*.netdirector.co.uk^
 @@||paypal-dynamic.map.fastly.net^
 @@||paypal.com^
 @@||paypal.de^
@@ -2577,7 +2560,6 @@
 @@||pentapostagma.disqus.com^
 @@||people-pa.googleapis.com^
 @@||people.com^
-@@||per*.segmentify.com^
 @@||performfeeds.com^
 @@||permaweb.eu.org^
 @@||permaweb.io^
@@ -2770,7 +2752,6 @@
 @@||real-debrid.com^
 @@||realestate.nj.com^
 @@||recaptcha.net^
-@@||recommender*.scarabresearch.com^
 @@||redd.it^
 @@||reddestdream.github.io^
 @@||redditlist.com^
@@ -2793,6 +2774,7 @@
 @@||reg2.bluemailapp.com^
 @@||regex.info^
 @@||region1.app-measurement.com^
+@@||region1.google-analytics.com^$client='192.168.100.7'
 @@||registerdisney.go.com^
 @@||relay-client-c03.iocnt.net^
 @@||relay-client-c05.iocnt.net^
@@ -2818,7 +2800,6 @@
 @@||rtl-relay.iocnt.net^
 @@||rtw.uol.com^
 @@||rukminim1.flixcart.com^
-@@||rules*.clearurls.xyz^
 @@||rutube.ru^
 @@||rv.treehousei.com^
 @@||rxferret.wordpress.com^
@@ -2855,7 +2836,6 @@
 @@||s3-ap-southeast-1.amazonaws.com^
 @@||s3-eu-west-1.amazonaws.com^
 @@||s3-us-west-2.amazonaws.com^
-@@||s3.*.scw.cloud^
 @@||s3.amazonaws.com^
 @@||s3.ap-northeast-2.amazonaws.com^
 @@||s3.ap-south-1.amazonaws.com^
@@ -2971,12 +2951,10 @@
 @@||services.sonarr.tv^
 @@||serviceschipotlecom.trafficmanager.net^
 @@||servix.idnes.cz^
-@@||settings-prod-*.cloudapp.azure.com^
 @@||settings-win.data.microsoft.com^
 @@||settings.crisp.chat^
 @@||settings.data.microsoft.com^
 @@||setup.airtelbroadband.in^
-@@||seu*.cleverreach.com^
 @@||shalltry.com^
 @@||shalom.it^
 @@||share-films.net^
@@ -3094,7 +3072,6 @@
 @@||ssl.reddit.com^
 @@||sslbl.abuse.ch^
 @@||sslgen-tidal.datadome.co^
-@@||ssm*.internet.sony.tv^
 @@||st.mycdn.me^
 @@||stackexchange.com^
 @@||stackoverflow.com^
@@ -3143,7 +3120,6 @@
 @@||static.xx.fbcdn.net^
 @@||static1.squarespace.com^
 @@||static2cdn.hubspot.com^
-@@||statics-marketingsites-*-ms-com.akamaized.net^
 @@||staticweb.bankofamerica.com^
 @@||staticweb.ecglb.bac.com^
 @@||statistics.bcapps.org^
@@ -3162,7 +3138,6 @@
 @@||storage.googleapis.com^
 @@||storage.live.com^
 @@||storage.msn.com^
-@@||store*.gofile.io^
 @@||store-images.microsoft.com^
 @@||store-images.s-microsoft.com^
 @@||store.minisforum.de^
@@ -3190,7 +3165,6 @@
 @@||support.dnsimple.com^
 @@||support.microsoft.com^
 @@||support.theguardian.com^
-@@||survey*.medallia.eu^
 @@||surveymonkey.com^
 @@||surveymyopinion.researchnow.com^
 @@||swankyrule.zomap.de^
@@ -3299,7 +3273,6 @@
 @@||theverge.com^
 @@||thewindowsclub.com^
 @@||thumb.highdeliveryscdn.com^
-@@||thumbs*.externulls.com^
 @@||thumbs.videopress.com^
 @@||thumbs2.imgbox.com^
 @@||tii.ai^
@@ -3371,8 +3344,6 @@
 @@||track.webgains.com^
 @@||track.yw56.com.cn^
 @@||track24.ru^
-@@||tracker*.namitiyu.com^
-@@||tracker*.scoober.com^
 @@||tracker-g.aiscore.com^
 @@||tracker.dominos.com^
 @@||tracking-protection.cdn.mozilla.net^
@@ -3522,7 +3493,6 @@
 @@||viagogo.de^
 @@||viber.com^
 @@||vice.com^
-@@||vid-cdn*.stroeermb.de^
 @@||vid.connatix.com^
 @@||vid.me^
 @@||video-api-cdn.bostonglobe.arcpublishing.com^
@@ -3572,7 +3542,6 @@
 @@||voe.sx^
 @@||void.gr^
 @@||volksstimme.de^
-@@||vortex*.data.microsoft.com^
 @@||vortex.accuweather.com^
 @@||vortex.data.trafficmanager.net^
 @@||vox.com^
@@ -4010,6 +3979,7 @@
 @@||www.licensedpackages.chocolatey.org^
 @@||www.lidl-hellas.gr^
 @@||www.lightinthebox.com^
+@@||www.linkedin.com^
 @@||www.linksynergy.com^
 @@||www.liveperson.com^
 @@||www.living-sun.com^
@@ -4360,7 +4330,6 @@
 @@||xoom.com^
 @@||xp.apple.com^
 @@||xsts.auth.xboxlive.com^
-@@||xtrapath*.izatcloud.net^
 @@||yacy.net^
 @@||yadi.sk^
 @@||yagiay.com^
